@@ -8,7 +8,7 @@ A daily archive of the fastest-rising **new** GitHub repositories (created in th
 
 | # | Repo | ⭐ | Description |
 |---|---|---|---|
-| 1 | [sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86) | 2,480 | Here is a dlssg for RTX30 Series GPU |
+| 1 | [sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86) | 2,481 | Here is a dlssg for RTX30 Series GPU |
 | 2 | [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) | 1,865 | Lean certificates accompanying Navier-Stokes and Euler results |
 | 3 | [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) | 1,627 |  |
 | 4 | [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) | 1,507 | Turn the user's description or uploaded reference into a finished, editable Blender card and an i... |
