@@ -1,0 +1,36 @@
+name: Daily snapshot
+
+on:
+  schedule:
+    - cron: "17 14 * * *"   # every day at 14:17 UTC
+  workflow_dispatch:         # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Take snapshot
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/snapshot.py
+
+      # Commits are authored with your GitHub noreply email so they count on your contribution graph.
+      - name: Commit and push
+        run: |
+          git config user.name "${{ github.repository_owner }}"
+          git config user.email "${{ github.repository_owner_id }}+${{ github.repository_owner }}@users.noreply.github.com"
+          today=$(date -u +%F)
+          git add data
+          git diff --cached --quiet || git commit -m "data: snapshot for $today"
+          git add README.md
+          git diff --cached --quiet || git commit -m "docs: update README for $today"
+          git push
