@@ -2,24 +2,24 @@
 
 A daily archive of the fastest-rising **new** GitHub repositories (created in the last 7 days, ranked by stars), collected automatically by GitHub Actions.
 
-**Last updated:** 2026-09-15 · **Days archived:** 2
+**Last updated:** 2026-09-16 · **Days archived:** 3
 
 ## Today's top new repos
 
 | # | Repo | ⭐ | Description |
 |---|---|---|---|
-| 1 | [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) | 1,912 | Lean certificates accompanying Navier-Stokes and Euler results |
-| 2 | [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) | 1,743 |  |
-| 3 | [Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer) | 1,410 | Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a b... |
-| 4 | [Chuloo/mural](https://github.com/Chuloo/mural) | 987 | The language app you eventually delete. A native iPhone companion for learning through conversation. |
-| 5 | [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo) | 911 | Wish you could bring the iPhone Duo effect to your MacBook? |
-| 6 | [gazijarin/itsgiving](https://github.com/gazijarin/itsgiving) | 859 | Express yourself in meetings (with memes, of course). |
-| 7 | [kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor) | 820 | Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, ... |
-| 8 | [yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) | 815 | Official Project Page for Recurrent Looped Transformer (RLT) |
-| 9 | [Colafornia/short-video-generator-AI](https://github.com/Colafornia/short-video-generator-AI) | 740 | Free open-source project designed for turning youtube-viedos into viral short videos. Highlight d... |
-| 10 | [angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool) | 706 | IDM激活与状态维护工具 |
+| 1 | [Chuloo/mural](https://github.com/Chuloo/mural) | 1,222 | The language app you eventually delete. A native iPhone companion for learning through conversation. |
+| 2 | [ai-sucks-butt/ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt) | 1,038 | If you think AI sucks, star the repo. |
+| 3 | [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo) | 936 | Wish you could bring the iPhone Duo effect to your MacBook? |
+| 4 | [yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) | 854 | Official Project Page for Recurrent Looped Transformer (RLT) |
+| 5 | [kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor) | 825 | Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, ... |
+| 6 | [zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI) | 759 | GPT-6 Astra for embodied AI and robotics. |
+| 7 | [unstablebuild/rune](https://github.com/unstablebuild/rune) | 730 | the development environment for pros |
+| 8 | [angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool) | 718 | IDM激活与状态维护工具 |
+| 9 | [ArasTey/lunel](https://github.com/ArasTey/lunel) | 713 |  |
+| 10 | [nftechie/stonkfly](https://github.com/nftechie/stonkfly) | 712 | A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit ... |
 
-More languages: [`data/2026/09/2026-09-15.md`](data/2026/09/2026-09-15.md)
+More languages: [`data/2026/09/2026-09-16.md`](data/2026/09/2026-09-16.md)
 
 ## How it works
 
