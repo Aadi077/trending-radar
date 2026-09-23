@@ -1,0 +1,416 @@
+{
+  "date": "2026-09-23",
+  "window_start": "2026-09-16",
+  "categories": {
+    "All languages": [
+      {
+        "name": "NandhaKishorM/laya",
+        "url": "https://github.com/NandhaKishorM/laya",
+        "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+        "language": "Python",
+        "stars": 19931,
+        "created_at": "2026-09-18T04:46:33Z"
+      },
+      {
+        "name": "browser-use/jev-ultrafast",
+        "url": "https://github.com/browser-use/jev-ultrafast",
+        "description": "Fastest and cheapest web agent",
+        "language": "Python",
+        "stars": 18950,
+        "created_at": "2026-09-16T21:30:12Z"
+      },
+      {
+        "name": "tamaratran/fast-jev-compaction",
+        "url": "https://github.com/tamaratran/fast-jev-compaction",
+        "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+        "language": "TypeScript",
+        "stars": 6520,
+        "created_at": "2026-09-17T05:57:20Z"
+      },
+      {
+        "name": "zai-org/ZCode",
+        "url": "https://github.com/zai-org/ZCode",
+        "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+        "language": "TypeScript",
+        "stars": 6515,
+        "created_at": "2026-09-20T12:01:16Z"
+      },
+      {
+        "name": "mizorewww/laya-mlx",
+        "url": "https://github.com/mizorewww/laya-mlx",
+        "description": "Native MLX runtime for Laya typed decision models \u2014 7\u201314 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+        "language": "Python",
+        "stars": 5880,
+        "created_at": "2026-09-19T13:50:26Z"
+      },
+      {
+        "name": "jaredpalmer/kev",
+        "url": "https://github.com/jaredpalmer/kev",
+        "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+        "language": "Python",
+        "stars": 5713,
+        "created_at": "2026-09-17T20:49:39Z"
+      },
+      {
+        "name": "jev-chat/jev-chat-jarvis",
+        "url": "https://github.com/jev-chat/jev-chat-jarvis",
+        "description": "\u88c5\u5728\u624b\u673a\u4e0a\u7684\u5bf9\u8bdd\u526f\u9a7e\uff1a\u5728\u5fae\u4fe1 / QQ / X / \u98de\u4e66\u91cc\u8bfb\u61c2\u5bf9\u65b9\u3001\u7ed9\u51fa\u5019\u9009\u56de\u590d\u3001\u4e00\u952e\u586b\u5165\u8f93\u5165\u6846\uff0c\u53d1\u4e0d\u53d1\u7531\u4f60\u3002\u975e\u4fb5\u5165\uff0c\u53ea\u8bfb\u5c4f\u5e55\uff0c\u4e0d hook \u4e0d\u6539\u5305\u3002",
+        "language": "Kotlin",
+        "stars": 5178,
+        "created_at": "2026-09-21T11:12:53Z"
+      },
+      {
+        "name": "robbietilton/Compositor",
+        "url": "https://github.com/robbietilton/Compositor",
+        "description": "The Photoshop alternative for Mac",
+        "language": "Swift",
+        "stars": 5163,
+        "created_at": "2026-09-16T20:35:54Z"
+      },
+      {
+        "name": "TheoLeeCJ/SemIf-OpenJev",
+        "url": "https://github.com/TheoLeeCJ/SemIf-OpenJev",
+        "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+        "language": "Python",
+        "stars": 4060,
+        "created_at": "2026-09-16T03:51:21Z"
+      },
+      {
+        "name": "Mak5er/AirCard",
+        "url": "https://github.com/Mak5er/AirCard",
+        "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+        "language": "Swift",
+        "stars": 3343,
+        "created_at": "2026-09-16T22:20:15Z"
+      }
+    ],
+    "Python": [
+      {
+        "name": "NandhaKishorM/laya",
+        "url": "https://github.com/NandhaKishorM/laya",
+        "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+        "language": "Python",
+        "stars": 19931,
+        "created_at": "2026-09-18T04:46:33Z"
+      },
+      {
+        "name": "browser-use/jev-ultrafast",
+        "url": "https://github.com/browser-use/jev-ultrafast",
+        "description": "Fastest and cheapest web agent",
+        "language": "Python",
+        "stars": 18950,
+        "created_at": "2026-09-16T21:30:12Z"
+      },
+      {
+        "name": "mizorewww/laya-mlx",
+        "url": "https://github.com/mizorewww/laya-mlx",
+        "description": "Native MLX runtime for Laya typed decision models \u2014 7\u201314 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+        "language": "Python",
+        "stars": 5880,
+        "created_at": "2026-09-19T13:50:26Z"
+      },
+      {
+        "name": "jaredpalmer/kev",
+        "url": "https://github.com/jaredpalmer/kev",
+        "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+        "language": "Python",
+        "stars": 5713,
+        "created_at": "2026-09-17T20:49:39Z"
+      },
+      {
+        "name": "TheoLeeCJ/SemIf-OpenJev",
+        "url": "https://github.com/TheoLeeCJ/SemIf-OpenJev",
+        "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+        "language": "Python",
+        "stars": 4060,
+        "created_at": "2026-09-16T03:51:21Z"
+      },
+      {
+        "name": "TianyuCodings/NanoJev",
+        "url": "https://github.com/TianyuCodings/NanoJev",
+        "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+        "language": "Python",
+        "stars": 2101,
+        "created_at": "2026-09-17T16:08:30Z"
+      },
+      {
+        "name": "bespokelabsai/nimble",
+        "url": "https://github.com/bespokelabsai/nimble",
+        "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+        "language": "Python",
+        "stars": 1676,
+        "created_at": "2026-09-18T09:07:48Z"
+      },
+      {
+        "name": "yibie/awesome-jev",
+        "url": "https://github.com/yibie/awesome-jev",
+        "description": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
+        "language": "Python",
+        "stars": 1460,
+        "created_at": "2026-09-17T14:23:21Z"
+      },
+      {
+        "name": "mizorewww/laya-coreml",
+        "url": "https://github.com/mizorewww/laya-coreml",
+        "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+        "language": "Python",
+        "stars": 1384,
+        "created_at": "2026-09-19T23:14:13Z"
+      },
+      {
+        "name": "vinnylarouge/jevlike",
+        "url": "https://github.com/vinnylarouge/jevlike",
+        "description": "",
+        "language": "Python",
+        "stars": 1264,
+        "created_at": "2026-09-16T10:26:01Z"
+      }
+    ],
+    "TypeScript": [
+      {
+        "name": "tamaratran/fast-jev-compaction",
+        "url": "https://github.com/tamaratran/fast-jev-compaction",
+        "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+        "language": "TypeScript",
+        "stars": 6520,
+        "created_at": "2026-09-17T05:57:20Z"
+      },
+      {
+        "name": "zai-org/ZCode",
+        "url": "https://github.com/zai-org/ZCode",
+        "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+        "language": "TypeScript",
+        "stars": 6515,
+        "created_at": "2026-09-20T12:01:16Z"
+      },
+      {
+        "name": "jarrodwatts/jev-trader",
+        "url": "https://github.com/jarrodwatts/jev-trader",
+        "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+        "language": "TypeScript",
+        "stars": 2162,
+        "created_at": "2026-09-16T21:36:20Z"
+      },
+      {
+        "name": "hydra-db/open-glean",
+        "url": "https://github.com/hydra-db/open-glean",
+        "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+        "language": "TypeScript",
+        "stars": 1504,
+        "created_at": "2026-09-17T05:22:08Z"
+      },
+      {
+        "name": "githubnext/localjev",
+        "url": "https://github.com/githubnext/localjev",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 734,
+        "created_at": "2026-09-18T16:59:55Z"
+      },
+      {
+        "name": "devagrawal09/jev-review",
+        "url": "https://github.com/devagrawal09/jev-review",
+        "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+        "language": "TypeScript",
+        "stars": 576,
+        "created_at": "2026-09-16T21:45:36Z"
+      },
+      {
+        "name": "superagents-lab/jev-search",
+        "url": "https://github.com/superagents-lab/jev-search",
+        "description": "Search the web with TypeSafe's Jev: source selection, query understanding and relevance ranking. Built with Search1API.",
+        "language": "TypeScript",
+        "stars": 432,
+        "created_at": "2026-09-17T18:05:10Z"
+      },
+      {
+        "name": "kyotofin/tax-doc-classifier",
+        "url": "https://github.com/kyotofin/tax-doc-classifier",
+        "description": "Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms, ~$0.001 per page.",
+        "language": "TypeScript",
+        "stars": 411,
+        "created_at": "2026-09-18T14:40:45Z"
+      },
+      {
+        "name": "dabit3/jev-experiments",
+        "url": "https://github.com/dabit3/jev-experiments",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 373,
+        "created_at": "2026-09-17T23:36:37Z"
+      },
+      {
+        "name": "receptron/laya",
+        "url": "https://github.com/receptron/laya",
+        "description": "Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime",
+        "language": "TypeScript",
+        "stars": 341,
+        "created_at": "2026-09-19T15:30:52Z"
+      }
+    ],
+    "Rust": [
+      {
+        "name": "Lumid-Off/AirCard-Windows",
+        "url": "https://github.com/Lumid-Off/AirCard-Windows",
+        "description": "",
+        "language": "Rust",
+        "stars": 771,
+        "created_at": "2026-09-18T14:27:48Z"
+      },
+      {
+        "name": "Haleclipse/CometixCode",
+        "url": "https://github.com/Haleclipse/CometixCode",
+        "description": "An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, built on iocraft",
+        "language": "Rust",
+        "stars": 506,
+        "created_at": "2026-09-20T08:58:08Z"
+      },
+      {
+        "name": "eliasstravik/herdr-projects",
+        "url": "https://github.com/eliasstravik/herdr-projects",
+        "description": "A coordinator conversation, parallel worker threads, shared memory and an overview of what needs you. A Herdr plugin.",
+        "language": "Rust",
+        "stars": 309,
+        "created_at": "2026-09-18T07:28:36Z"
+      },
+      {
+        "name": "ejfkdev/ddc",
+        "url": "https://github.com/ejfkdev/ddc",
+        "description": "DEX \u2192 Java decompiler in Rust \u2014 fast, progressive analysis, bilingual CLI",
+        "language": "Rust",
+        "stars": 287,
+        "created_at": "2026-09-18T05:07:46Z"
+      },
+      {
+        "name": "BridgeDruidCompress/TauriKit",
+        "url": "https://github.com/BridgeDruidCompress/TauriKit",
+        "description": "Modern UI component kit for Rust desktop applications",
+        "language": "Rust",
+        "stars": 223,
+        "created_at": "2026-09-23T11:21:48Z"
+      },
+      {
+        "name": "BinaryDeliverer/CodexDesk",
+        "url": "https://github.com/BinaryDeliverer/CodexDesk",
+        "description": "Desktop companion for AI coding agents and Codex workflows",
+        "language": "Rust",
+        "stars": 222,
+        "created_at": "2026-09-23T11:21:44Z"
+      },
+      {
+        "name": "BricklayerSurmount/DockForge",
+        "url": "https://github.com/BricklayerSurmount/DockForge",
+        "description": "Flexible dock and panel layout system for desktop apps",
+        "language": "Rust",
+        "stars": 222,
+        "created_at": "2026-09-23T11:21:45Z"
+      },
+      {
+        "name": "AutocratGirder/ClashDesk",
+        "url": "https://github.com/AutocratGirder/ClashDesk",
+        "description": "Modern cross-platform desktop client for proxy workflows",
+        "language": "Rust",
+        "stars": 222,
+        "created_at": "2026-09-23T11:21:44Z"
+      },
+      {
+        "name": "CassowaryDevelop/HelixEdit",
+        "url": "https://github.com/CassowaryDevelop/HelixEdit",
+        "description": "Modal code editor with LSP support written in Rust",
+        "language": "Rust",
+        "stars": 221,
+        "created_at": "2026-09-23T11:21:48Z"
+      },
+      {
+        "name": "Behemothlyaoscillate/RustDeskPro",
+        "url": "https://github.com/Behemothlyaoscillate/RustDeskPro",
+        "description": "Self-hosted remote desktop client for teams",
+        "language": "Rust",
+        "stars": 221,
+        "created_at": "2026-09-23T11:21:46Z"
+      }
+    ],
+    "Go": [
+      {
+        "name": "unreallabsai/unreal-agent",
+        "url": "https://github.com/unreallabsai/unreal-agent",
+        "description": "Async-first agent harness",
+        "language": "Go",
+        "stars": 1625,
+        "created_at": "2026-09-21T23:14:02Z"
+      },
+      {
+        "name": "gylive/ccodex-sleep-state",
+        "url": "https://github.com/gylive/ccodex-sleep-state",
+        "description": "\u5c1d\u8bd5\u6539\u5584 Codex \u964d\u667a\u3001\u9650\u6d41\u4e0e\u8fde\u63a5\u4f53\u9a8c\u3002\u672c\u5730\u4e00\u952e\u542f\u52a8\u3001\u7f51\u9875\u914d\u7f6e\u4fee\u590d\uff0c\u652f\u6301 Astra / Sol / Terra\u3001\u8ba2\u9605\u548c\u4ee3\u7406\uff1b\u4e0d\u4fdd\u8bc1\u53d6\u5f97\u6307\u5b9a state \u6216\u63d0\u5347\u6a21\u578b\u8d28\u91cf\u3002",
+        "language": "Go",
+        "stars": 609,
+        "created_at": "2026-09-18T09:02:44Z"
+      },
+      {
+        "name": "kryvora-network/kryvora-node",
+        "url": "https://github.com/kryvora-network/kryvora-node",
+        "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
+        "language": "Go",
+        "stars": 476,
+        "created_at": "2026-09-22T16:10:23Z"
+      },
+      {
+        "name": "itsmostafa/typesafe-mcp",
+        "url": "https://github.com/itsmostafa/typesafe-mcp",
+        "description": "An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model.",
+        "language": "Go",
+        "stars": 279,
+        "created_at": "2026-09-17T05:23:34Z"
+      },
+      {
+        "name": "HyNetworks/OpenGFW",
+        "url": "https://github.com/HyNetworks/OpenGFW",
+        "description": "OpenGFW is your very own DIY Great Firewall of China",
+        "language": "Go",
+        "stars": 253,
+        "created_at": "2026-09-19T09:21:17Z"
+      },
+      {
+        "name": "wangyunjeff/sub2api-state-kit",
+        "url": "https://github.com/wangyunjeff/sub2api-state-kit",
+        "description": "Sub2API \u8d26\u53f7\u7ea7 STATE \u6269\u5c55\uff1aPro/Team \u9009\u62e9\u3001\u56fa\u5b9a\u4ee3\u7406\u590d\u9a8c\u4e0e 312 \u5f02\u5e38\u52a8\u6001\u5b88\u62a4\uff08\u5b9e\u9a8c\u7248\uff09",
+        "language": "Go",
+        "stars": 202,
+        "created_at": "2026-09-18T14:25:18Z"
+      },
+      {
+        "name": "kdbhalala/avdslim",
+        "url": "https://github.com/kdbhalala/avdslim",
+        "description": "\u26a1 Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
+        "language": "Go",
+        "stars": 184,
+        "created_at": "2026-09-16T06:52:40Z"
+      },
+      {
+        "name": "446599/ccodex-rotate",
+        "url": "https://github.com/446599/ccodex-rotate",
+        "description": "Local Codex reverse proxy: rotating proxy-node pool, lazy health failover, and per-model 292 turn-state collection/injection. macOS + Windows.",
+        "language": "Go",
+        "stars": 135,
+        "created_at": "2026-09-20T08:29:10Z"
+      },
+      {
+        "name": "dorkitude/webctl",
+        "url": "https://github.com/dorkitude/webctl",
+        "description": "Smart web search CLI for agents, backed by Jev. Saves a lot of tokens.",
+        "language": "Go",
+        "stars": 135,
+        "created_at": "2026-09-20T07:27:00Z"
+      },
+      {
+        "name": "arden-aaai/cpa-plugin-codex-turn-state",
+        "url": "https://github.com/arden-aaai/cpa-plugin-codex-turn-state",
+        "description": "",
+        "language": "Go",
+        "stars": 130,
+        "created_at": "2026-09-17T10:30:02Z"
+      }
+    ]
+  }
+}
