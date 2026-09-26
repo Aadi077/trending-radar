@@ -1,0 +1,416 @@
+{
+  "date": "2026-09-26",
+  "window_start": "2026-09-19",
+  "categories": {
+    "All languages": [
+      {
+        "name": "zai-org/ZCode",
+        "url": "https://github.com/zai-org/ZCode",
+        "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+        "language": "TypeScript",
+        "stars": 6826,
+        "created_at": "2026-09-20T12:01:16Z"
+      },
+      {
+        "name": "jev-chat/jev-chat-jarvis",
+        "url": "https://github.com/jev-chat/jev-chat-jarvis",
+        "description": "\u88c5\u5728\u624b\u673a\u4e0a\u7684\u5bf9\u8bdd\u526f\u9a7e\uff1a\u5728 QQ / X / \u98de\u4e66\u91cc\u8bfb\u61c2\u5bf9\u65b9\u3001\u7ed9\u51fa\u5019\u9009\u56de\u590d\u3001\u4e00\u952e\u586b\u5165\u8f93\u5165\u6846\uff0c\u53d1\u4e0d\u53d1\u7531\u4f60\u3002\u975e\u4fb5\u5165\uff0c\u53ea\u8bfb\u5c4f\u5e55\uff0c\u4e0d hook \u4e0d\u6539\u5305\u3002",
+        "language": "Kotlin",
+        "stars": 6654,
+        "created_at": "2026-09-21T11:12:53Z"
+      },
+      {
+        "name": "mizorewww/laya-mlx",
+        "url": "https://github.com/mizorewww/laya-mlx",
+        "description": "Native MLX runtime for Laya typed decision models \u2014 7\u201314 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+        "language": "Python",
+        "stars": 6409,
+        "created_at": "2026-09-19T13:50:26Z"
+      },
+      {
+        "name": "driceroland/Search",
+        "url": "https://github.com/driceroland/Search",
+        "description": "A small, fast WebKit browser for macOS, by Office Commun.",
+        "language": "Swift",
+        "stars": 2070,
+        "created_at": "2026-09-20T10:29:47Z"
+      },
+      {
+        "name": "unreallabsai/unreal-agent",
+        "url": "https://github.com/unreallabsai/unreal-agent",
+        "description": "Async-first agent harness",
+        "language": "Go",
+        "stars": 1958,
+        "created_at": "2026-09-21T23:14:02Z"
+      },
+      {
+        "name": "newliver666/apk-reverse",
+        "url": "https://github.com/newliver666/apk-reverse",
+        "description": "Suitable for Android APK reverse engineering analysis",
+        "language": "Python",
+        "stars": 1862,
+        "created_at": "2026-09-19T13:12:54Z"
+      },
+      {
+        "name": "Contrastive-LM/CLM",
+        "url": "https://github.com/Contrastive-LM/CLM",
+        "description": "",
+        "language": "Python",
+        "stars": 1485,
+        "created_at": "2026-09-23T19:29:56Z"
+      },
+      {
+        "name": "mizorewww/laya-coreml",
+        "url": "https://github.com/mizorewww/laya-coreml",
+        "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+        "language": "Python",
+        "stars": 1484,
+        "created_at": "2026-09-19T23:14:13Z"
+      },
+      {
+        "name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+        "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+        "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+        "language": "Markdown",
+        "stars": 1361,
+        "created_at": "2026-09-19T04:14:43Z"
+      },
+      {
+        "name": "tobi/disktree",
+        "url": "https://github.com/tobi/disktree",
+        "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+        "language": "Rust",
+        "stars": 1215,
+        "created_at": "2026-09-24T20:56:29Z"
+      }
+    ],
+    "Python": [
+      {
+        "name": "mizorewww/laya-mlx",
+        "url": "https://github.com/mizorewww/laya-mlx",
+        "description": "Native MLX runtime for Laya typed decision models \u2014 7\u201314 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+        "language": "Python",
+        "stars": 6409,
+        "created_at": "2026-09-19T13:50:26Z"
+      },
+      {
+        "name": "newliver666/apk-reverse",
+        "url": "https://github.com/newliver666/apk-reverse",
+        "description": "Suitable for Android APK reverse engineering analysis",
+        "language": "Python",
+        "stars": 1862,
+        "created_at": "2026-09-19T13:12:54Z"
+      },
+      {
+        "name": "Contrastive-LM/CLM",
+        "url": "https://github.com/Contrastive-LM/CLM",
+        "description": "",
+        "language": "Python",
+        "stars": 1485,
+        "created_at": "2026-09-23T19:29:56Z"
+      },
+      {
+        "name": "mizorewww/laya-coreml",
+        "url": "https://github.com/mizorewww/laya-coreml",
+        "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+        "language": "Python",
+        "stars": 1484,
+        "created_at": "2026-09-19T23:14:13Z"
+      },
+      {
+        "name": "deepopen-com/deepopen",
+        "url": "https://github.com/deepopen-com/deepopen",
+        "description": "\u975e\u81ea\u56de\u5f52System 1\u51b3\u7b56\u5f15\u64ce\uff0c\u4e13\u4e3a\u7ed3\u6784\u5316\u7c7b\u578b\u51b3\u7b56\u573a\u666f\u8bbe\u8ba1  DeepOpen Multilingual, non-autoregressive System 1 decision engine.",
+        "language": "Python",
+        "stars": 1035,
+        "created_at": "2026-09-21T02:12:24Z"
+      },
+      {
+        "name": "nokia-applied-research/AnyJev",
+        "url": "https://github.com/nokia-applied-research/AnyJev",
+        "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
+        "language": "Python",
+        "stars": 781,
+        "created_at": "2026-09-21T05:55:40Z"
+      },
+      {
+        "name": "volotat/mini-AGI",
+        "url": "https://github.com/volotat/mini-AGI",
+        "description": "Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data.",
+        "language": "Python",
+        "stars": 776,
+        "created_at": "2026-09-19T00:25:59Z"
+      },
+      {
+        "name": "asokurasu/text-humanizer",
+        "url": "https://github.com/asokurasu/text-humanizer",
+        "description": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline.",
+        "language": "Python",
+        "stars": 723,
+        "created_at": "2026-09-23T17:32:37Z"
+      },
+      {
+        "name": "yukitorido/short-video-generator-AI",
+        "url": "https://github.com/yukitorido/short-video-generator-AI",
+        "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+        "language": "Python",
+        "stars": 716,
+        "created_at": "2026-09-23T18:11:57Z"
+      },
+      {
+        "name": "jev-chat/jev-chat-windows",
+        "url": "https://github.com/jev-chat/jev-chat-windows",
+        "description": "JevChat-Windows\uff1a\u804a\u5929\u7a97\u53e3\u65c1\u6302\u7684\u56de\u590d\u8f85\u52a9\u3002\u7a97\u53e3\u622a\u56fe + \u672c\u5730\u79bb\u7ebf OCR \u8bfb\u5bf9\u65b9\u6d88\u606f \u2192 Jev \u5224\u65ad\u610f\u56fe \u2192 3 \u6761\u5019\u9009\u4e00\u952e\u586b\u5165\uff0c\u53d1\u9001\u6c38\u8fdc\u624b\u52a8",
+        "language": "Python",
+        "stars": 588,
+        "created_at": "2026-09-21T14:37:14Z"
+      }
+    ],
+    "TypeScript": [
+      {
+        "name": "zai-org/ZCode",
+        "url": "https://github.com/zai-org/ZCode",
+        "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+        "language": "TypeScript",
+        "stars": 6826,
+        "created_at": "2026-09-20T12:01:16Z"
+      },
+      {
+        "name": "mikehasa/golive-skill",
+        "url": "https://github.com/mikehasa/golive-skill",
+        "description": "Take your agent-built product live: hosting, database, domain, email, payments \u2014 on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect \u2192 plan \u2192 approve \u2192 apply \u2192 verify. No GoLive account, backend or telemetry.",
+        "language": "TypeScript",
+        "stars": 976,
+        "created_at": "2026-09-23T13:37:26Z"
+      },
+      {
+        "name": "anishfn/shapeshift",
+        "url": "https://github.com/anishfn/shapeshift",
+        "description": "An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
+        "language": "TypeScript",
+        "stars": 674,
+        "created_at": "2026-09-22T08:52:32Z"
+      },
+      {
+        "name": "receptron/laya",
+        "url": "https://github.com/receptron/laya",
+        "description": "Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime",
+        "language": "TypeScript",
+        "stars": 492,
+        "created_at": "2026-09-19T15:30:52Z"
+      },
+      {
+        "name": "alexgreensh/anidoodle",
+        "url": "https://github.com/alexgreensh/anidoodle",
+        "description": "Art and animation, written as code. Illustrations, loops, interactive web art, stickers and scored films in dozens of styles, identical on every render.",
+        "language": "TypeScript",
+        "stars": 446,
+        "created_at": "2026-09-22T11:20:47Z"
+      },
+      {
+        "name": "supermemoryai/company-brain",
+        "url": "https://github.com/supermemoryai/company-brain",
+        "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+        "language": "TypeScript",
+        "stars": 423,
+        "created_at": "2026-09-25T22:48:14Z"
+      },
+      {
+        "name": "Inkloom-art/inkloom",
+        "url": "https://github.com/Inkloom-art/inkloom",
+        "description": "Specialised AI models for logo design \u2014 a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
+        "language": "TypeScript",
+        "stars": 340,
+        "created_at": "2026-09-20T07:54:30Z"
+      },
+      {
+        "name": "Alex314618-create/JevRev",
+        "url": "https://github.com/Alex314618-create/JevRev",
+        "description": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside.",
+        "language": "TypeScript",
+        "stars": 306,
+        "created_at": "2026-09-21T01:53:13Z"
+      },
+      {
+        "name": "lhlGitHub/threejs-architecture-effects",
+        "url": "https://github.com/lhlGitHub/threejs-architecture-effects",
+        "description": "An Agent Skill for building interactive, self-assembling 3D architecture with Three.js.  \u4e00\u4e2a\u7528 Three.js \u751f\u6210\u53ef\u4ea4\u4e92\u3001\u53ef\u52a8\u6001\u5efa\u9020 3D \u5efa\u7b51\u7684 Agent Skill\u3002",
+        "language": "TypeScript",
+        "stars": 296,
+        "created_at": "2026-09-22T03:01:05Z"
+      },
+      {
+        "name": "bridge-mind/bridgeclip",
+        "url": "https://github.com/bridge-mind/bridgeclip",
+        "description": "Open-source AI video clipping desktop app by BridgeMind",
+        "language": "TypeScript",
+        "stars": 258,
+        "created_at": "2026-09-24T17:09:04Z"
+      }
+    ],
+    "Rust": [
+      {
+        "name": "tobi/disktree",
+        "url": "https://github.com/tobi/disktree",
+        "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+        "language": "Rust",
+        "stars": 1215,
+        "created_at": "2026-09-24T20:56:29Z"
+      },
+      {
+        "name": "Haleclipse/CometixCode",
+        "url": "https://github.com/Haleclipse/CometixCode",
+        "description": "An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, built on iocraft",
+        "language": "Rust",
+        "stars": 560,
+        "created_at": "2026-09-20T08:58:08Z"
+      },
+      {
+        "name": "ollaya-dev/ollaya",
+        "url": "https://github.com/ollaya-dev/ollaya",
+        "description": "Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.",
+        "language": "Rust",
+        "stars": 361,
+        "created_at": "2026-09-23T22:11:15Z"
+      },
+      {
+        "name": "OnlistTeam/ai-manager",
+        "url": "https://github.com/OnlistTeam/ai-manager",
+        "description": "AI Manager desktop application for AI coding tools",
+        "language": "Rust",
+        "stars": 295,
+        "created_at": "2026-09-21T05:07:53Z"
+      },
+      {
+        "name": "jankeesvw/omarchy-meeting-recorder",
+        "url": "https://github.com/jankeesvw/omarchy-meeting-recorder",
+        "description": "Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
+        "language": "Rust",
+        "stars": 268,
+        "created_at": "2026-09-24T15:44:42Z"
+      },
+      {
+        "name": "codejunkie99/keel",
+        "url": "https://github.com/codejunkie99/keel",
+        "description": "Local-first macOS coding workspace with local Laya and optional Jev decision selection",
+        "language": "Rust",
+        "stars": 265,
+        "created_at": "2026-09-22T22:08:29Z"
+      },
+      {
+        "name": "penso/herdr-gpui",
+        "url": "https://github.com/penso/herdr-gpui",
+        "description": "Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.",
+        "language": "Rust",
+        "stars": 222,
+        "created_at": "2026-09-20T05:22:39Z"
+      },
+      {
+        "name": "surya-koritala/Glyd",
+        "url": "https://github.com/surya-koritala/Glyd",
+        "description": "Glyd - Lossless compression for AI: model weights and KV cache in GPU memory, checkpoints on disk",
+        "language": "Rust",
+        "stars": 170,
+        "created_at": "2026-09-19T03:34:15Z"
+      },
+      {
+        "name": "ghuntley/underclass",
+        "url": "https://github.com/ghuntley/underclass",
+        "description": "underclass: an OpenAI-compatible pooling proxy that pins sessions to one account (prompt cache stays warm), cools quota-exhausted subscriptions until their window resets, and fails fast with the earliest Retry-After when the whole pool is dry.",
+        "language": "Rust",
+        "stars": 169,
+        "created_at": "2026-09-20T07:00:32Z"
+      },
+      {
+        "name": "reco-tools/ritridata",
+        "url": "https://github.com/reco-tools/ritridata",
+        "description": "Read-only MBR/GPT inspection, public file signature definitions, and synthetic disk image tools. AGPL-3.0-only.",
+        "language": "Rust",
+        "stars": 125,
+        "created_at": "2026-09-19T10:07:26Z"
+      }
+    ],
+    "Go": [
+      {
+        "name": "unreallabsai/unreal-agent",
+        "url": "https://github.com/unreallabsai/unreal-agent",
+        "description": "Async-first agent harness",
+        "language": "Go",
+        "stars": 1958,
+        "created_at": "2026-09-21T23:14:02Z"
+      },
+      {
+        "name": "yetone/magpie",
+        "url": "https://github.com/yetone/magpie",
+        "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+        "language": "Go",
+        "stars": 959,
+        "created_at": "2026-09-23T16:22:35Z"
+      },
+      {
+        "name": "kryvora-network/kryvora-node",
+        "url": "https://github.com/kryvora-network/kryvora-node",
+        "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
+        "language": "Go",
+        "stars": 863,
+        "created_at": "2026-09-22T16:10:23Z"
+      },
+      {
+        "name": "HyNetworks/OpenGFW",
+        "url": "https://github.com/HyNetworks/OpenGFW",
+        "description": "OpenGFW is your very own DIY Great Firewall of China",
+        "language": "Go",
+        "stars": 257,
+        "created_at": "2026-09-19T09:21:17Z"
+      },
+      {
+        "name": "mitkox/esf",
+        "url": "https://github.com/mitkox/esf",
+        "description": "Self-hosted engineering software factory: Temporal, CubeSandbox agents, deterministic verification and durable evidence. MIT-licensed Machinist fork.",
+        "language": "Go",
+        "stars": 158,
+        "created_at": "2026-09-19T16:07:54Z"
+      },
+      {
+        "name": "dorkitude/webctl",
+        "url": "https://github.com/dorkitude/webctl",
+        "description": "Smart web search CLI for agents, backed by Jev. Saves a lot of tokens.",
+        "language": "Go",
+        "stars": 143,
+        "created_at": "2026-09-20T07:27:00Z"
+      },
+      {
+        "name": "446599/ccodex-rotate",
+        "url": "https://github.com/446599/ccodex-rotate",
+        "description": "Local Codex reverse proxy: rotating proxy-node pool, lazy health failover, and per-model 292 turn-state collection/injection. macOS + Windows.",
+        "language": "Go",
+        "stars": 140,
+        "created_at": "2026-09-20T08:29:10Z"
+      },
+      {
+        "name": "MACOS-DO/sub4api",
+        "url": "https://github.com/MACOS-DO/sub4api",
+        "description": "sub4api - sub2api \u7684\u5206\u652f\u7248\u672c",
+        "language": "Go",
+        "stars": 125,
+        "created_at": "2026-09-19T08:38:02Z"
+      },
+      {
+        "name": "JaxsonWang/cpa-plugin-oai-basispoints",
+        "url": "https://github.com/JaxsonWang/cpa-plugin-oai-basispoints",
+        "description": "",
+        "language": "Go",
+        "stars": 104,
+        "created_at": "2026-09-24T15:55:38Z"
+      },
+      {
+        "name": "mvanhorn/agent-tincan",
+        "url": "https://github.com/mvanhorn/agent-tincan",
+        "description": "Let your AI agents ask each other for help, over Tailscale. Wherever they run.",
+        "language": "Go",
+        "stars": 77,
+        "created_at": "2026-09-22T22:50:16Z"
+      }
+    ]
+  }
+}
