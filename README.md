@@ -2,24 +2,24 @@
 
 A daily archive of the fastest-rising **new** GitHub repositories (created in the last 7 days, ranked by stars), collected automatically by GitHub Actions.
 
-**Last updated:** 2026-09-26 · **Days archived:** 13
+**Last updated:** 2026-09-27 · **Days archived:** 14
 
 ## Today's top new repos
 
 | # | Repo | ⭐ | Description |
 |---|---|---|---|
-| 1 | [zai-org/ZCode](https://github.com/zai-org/ZCode) | 6,826 | Z.ai's coding agent harness. Powerful, intelligent, extensible. |
-| 2 | [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | 6,654 | 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 |
-| 3 | [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | 6,409 | Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text ge... |
-| 4 | [driceroland/Search](https://github.com/driceroland/Search) | 2,070 | A small, fast WebKit browser for macOS, by Office Commun. |
-| 5 | [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) | 1,958 | Async-first agent harness |
-| 6 | [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse) | 1,862 | Suitable for Android APK reverse engineering analysis |
-| 7 | [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | 1,485 |  |
-| 8 | [mizorewww/laya-coreml](https://github.com/mizorewww/laya-coreml) | 1,484 | Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decis... |
-| 9 | [pallavi-shekhar/ai-engineering-interview-questions-company-wise](https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise) | 1,361 | Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers. |
-| 10 | [tobi/disktree](https://github.com/tobi/disktree) | 1,215 | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. |
+| 1 | [zai-org/ZCode](https://github.com/zai-org/ZCode) | 6,891 | Z.ai's coding agent harness. Powerful, intelligent, extensible. |
+| 2 | [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | 6,770 | 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 |
+| 3 | [driceroland/Search](https://github.com/driceroland/Search) | 2,170 | A small, fast WebKit browser for macOS, by Office Commun. |
+| 4 | [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) | 1,983 | Async-first agent harness |
+| 5 | [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | 1,839 |  |
+| 6 | [tobi/disktree](https://github.com/tobi/disktree) | 1,543 | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. |
+| 7 | [yetone/magpie](https://github.com/yetone/magpie) | 1,217 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| 8 | [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) | 1,204 | Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom) |
+| 9 | [deepopen-com/deepopen](https://github.com/deepopen-com/deepopen) | 1,044 | 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. |
+| 10 | [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) | 1,007 | Take your agent-built product live: hosting, database, domain, email, payments — on your own acco... |
 
-More languages: [`data/2026/09/2026-09-26.md`](data/2026/09/2026-09-26.md)
+More languages: [`data/2026/09/2026-09-27.md`](data/2026/09/2026-09-27.md)
 
 ## How it works
 
