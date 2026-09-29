@@ -2,24 +2,24 @@
 
 A daily archive of the fastest-rising **new** GitHub repositories (created in the last 7 days, ranked by stars), collected automatically by GitHub Actions.
 
-**Last updated:** 2026-09-28 · **Days archived:** 15
+**Last updated:** 2026-09-29 · **Days archived:** 16
 
 ## Today's top new repos
 
 | # | Repo | ⭐ | Description |
 |---|---|---|---|
-| 1 | [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | 6,915 | 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 |
-| 2 | [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | 2,250 |  |
-| 3 | [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) | 2,011 | Async-first agent harness |
-| 4 | [tobi/disktree](https://github.com/tobi/disktree) | 1,799 | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. |
-| 5 | [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | 1,737 | Code-rendered music video for "I'm Upping My P(doom)" |
-| 6 | [yetone/magpie](https://github.com/yetone/magpie) | 1,576 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
-| 7 | [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) | 1,414 | Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom) |
-| 8 | [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | 1,339 | Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant file... |
-| 9 | [deepopen-com/deepopen](https://github.com/deepopen-com/deepopen) | 1,044 | 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. |
-| 10 | [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) | 1,043 | Take your agent-built product live: hosting, database, domain, email, payments — on your own acco... |
+| 1 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 2,951 | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
+| 2 | [yetone/magpie](https://github.com/yetone/magpie) | 2,551 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| 3 | [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | 2,485 |  |
+| 4 | [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | 1,957 | Code-rendered music video for "I'm Upping My P(doom)" |
+| 5 | [tobi/disktree](https://github.com/tobi/disktree) | 1,893 | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. |
+| 6 | [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | 1,735 | Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant file... |
+| 7 | [Niko1221/Strata](https://github.com/Niko1221/Strata) | 1,604 | Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata... |
+| 8 | [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) | 1,501 | Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom) |
+| 9 | [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) | 1,104 | Take your agent-built product live: hosting, database, domain, email, payments — on your own acco... |
+| 10 | [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) | 1,102 | Reference client daemon and verification worker for Kryvora Network nodes. |
 
-More languages: [`data/2026/09/2026-09-28.md`](data/2026/09/2026-09-28.md)
+More languages: [`data/2026/09/2026-09-29.md`](data/2026/09/2026-09-29.md)
 
 ## How it works
 
