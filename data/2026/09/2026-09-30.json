@@ -1,0 +1,416 @@
+{
+  "date": "2026-09-30",
+  "window_start": "2026-09-23",
+  "categories": {
+    "All languages": [
+      {
+        "name": "KKKKhazix/AIHOT",
+        "url": "https://github.com/KKKKhazix/AIHOT",
+        "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
+        "language": "TypeScript",
+        "stars": 4032,
+        "created_at": "2026-09-28T23:40:05Z"
+      },
+      {
+        "name": "yetone/magpie",
+        "url": "https://github.com/yetone/magpie",
+        "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+        "language": "Go",
+        "stars": 3721,
+        "created_at": "2026-09-23T16:22:35Z"
+      },
+      {
+        "name": "Niko1221/Strata",
+        "url": "https://github.com/Niko1221/Strata",
+        "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+        "language": "C++",
+        "stars": 2794,
+        "created_at": "2026-09-24T16:40:20Z"
+      },
+      {
+        "name": "Contrastive-LM/CLM",
+        "url": "https://github.com/Contrastive-LM/CLM",
+        "description": "",
+        "language": "Python",
+        "stars": 2598,
+        "created_at": "2026-09-23T19:29:56Z"
+      },
+      {
+        "name": "mexicat/pdoom-video",
+        "url": "https://github.com/mexicat/pdoom-video",
+        "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+        "language": "TypeScript",
+        "stars": 2096,
+        "created_at": "2026-09-24T21:33:53Z"
+      },
+      {
+        "name": "tobi/disktree",
+        "url": "https://github.com/tobi/disktree",
+        "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+        "language": "Rust",
+        "stars": 1972,
+        "created_at": "2026-09-24T20:56:29Z"
+      },
+      {
+        "name": "feder-cr/dots",
+        "url": "https://github.com/feder-cr/dots",
+        "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+        "language": "Python",
+        "stars": 1928,
+        "created_at": "2026-09-29T23:06:00Z"
+      },
+      {
+        "name": "dzhng/jevgrep",
+        "url": "https://github.com/dzhng/jevgrep",
+        "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+        "language": "TypeScript",
+        "stars": 1887,
+        "created_at": "2026-09-26T04:06:56Z"
+      },
+      {
+        "name": "shihabal3amri/DiPlay",
+        "url": "https://github.com/shihabal3amri/DiPlay",
+        "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+        "language": "Kotlin",
+        "stars": 1425,
+        "created_at": "2026-09-24T15:36:38Z"
+      },
+      {
+        "name": "852wa/JIZURA",
+        "url": "https://github.com/852wa/JIZURA",
+        "description": "\u6b4c\u8a5e\u304b\u3089\u6587\u5b57PV\u3092\u81ea\u52d5\u3067\u7d44\u307f\u7acb\u3066\u308b\u30d6\u30e9\u30a6\u30b6\u30a2\u30d7\u30ea",
+        "language": "HTML",
+        "stars": 1203,
+        "created_at": "2026-09-23T04:04:13Z"
+      }
+    ],
+    "Python": [
+      {
+        "name": "Contrastive-LM/CLM",
+        "url": "https://github.com/Contrastive-LM/CLM",
+        "description": "",
+        "language": "Python",
+        "stars": 2598,
+        "created_at": "2026-09-23T19:29:56Z"
+      },
+      {
+        "name": "feder-cr/dots",
+        "url": "https://github.com/feder-cr/dots",
+        "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+        "language": "Python",
+        "stars": 1928,
+        "created_at": "2026-09-29T23:06:00Z"
+      },
+      {
+        "name": "firelex/jeff",
+        "url": "https://github.com/firelex/jeff",
+        "description": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+        "language": "Python",
+        "stars": 1172,
+        "created_at": "2026-09-28T16:18:39Z"
+      },
+      {
+        "name": "feitangyuan/onetake",
+        "url": "https://github.com/feitangyuan/onetake",
+        "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+        "language": "Python",
+        "stars": 1050,
+        "created_at": "2026-09-26T05:35:17Z"
+      },
+      {
+        "name": "rehan-remade/universal-modder",
+        "url": "https://github.com/rehan-remade/universal-modder",
+        "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+        "language": "Python",
+        "stars": 631,
+        "created_at": "2026-09-30T05:00:35Z"
+      },
+      {
+        "name": "Liuziyu77/Valen",
+        "url": "https://github.com/Liuziyu77/Valen",
+        "description": "Train a Jev-like multimodal model by yourself. System One Model, now with vision.",
+        "language": "Python",
+        "stars": 567,
+        "created_at": "2026-09-23T02:48:02Z"
+      },
+      {
+        "name": "OpSafari/hypoarena",
+        "url": "https://github.com/OpSafari/hypoarena",
+        "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+        "language": "Python",
+        "stars": 545,
+        "created_at": "2026-09-30T03:35:45Z"
+      },
+      {
+        "name": "samyost1/3dicon",
+        "url": "https://github.com/samyost1/3dicon",
+        "description": "One prompt in, a looping animated 3D icon out \u2014 with real transparency. A Claude Code skill.",
+        "language": "Python",
+        "stars": 518,
+        "created_at": "2026-09-23T18:04:25Z"
+      },
+      {
+        "name": "echris6/motion-video-kit",
+        "url": "https://github.com/echris6/motion-video-kit",
+        "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+        "language": "Python",
+        "stars": 448,
+        "created_at": "2026-09-27T14:11:14Z"
+      },
+      {
+        "name": "athemeroy/awesome-opus-5-5-videos",
+        "url": "https://github.com/athemeroy/awesome-opus-5-5-videos",
+        "description": "Source-linked guide to 1,000+ videos people made with Claude Opus 5.5: what they're about, how they look, how the frames were made.",
+        "language": "Python",
+        "stars": 372,
+        "created_at": "2026-09-25T00:29:30Z"
+      }
+    ],
+    "TypeScript": [
+      {
+        "name": "KKKKhazix/AIHOT",
+        "url": "https://github.com/KKKKhazix/AIHOT",
+        "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
+        "language": "TypeScript",
+        "stars": 4032,
+        "created_at": "2026-09-28T23:40:05Z"
+      },
+      {
+        "name": "mexicat/pdoom-video",
+        "url": "https://github.com/mexicat/pdoom-video",
+        "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+        "language": "TypeScript",
+        "stars": 2096,
+        "created_at": "2026-09-24T21:33:53Z"
+      },
+      {
+        "name": "dzhng/jevgrep",
+        "url": "https://github.com/dzhng/jevgrep",
+        "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+        "language": "TypeScript",
+        "stars": 1887,
+        "created_at": "2026-09-26T04:06:56Z"
+      },
+      {
+        "name": "mikehasa/golive-skill",
+        "url": "https://github.com/mikehasa/golive-skill",
+        "description": "Take your agent-built product live: hosting, database, domain, email, payments \u2014 on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect \u2192 plan \u2192 approve \u2192 apply \u2192 verify. No GoLive account, backend or telemetry.",
+        "language": "TypeScript",
+        "stars": 1147,
+        "created_at": "2026-09-23T13:37:26Z"
+      },
+      {
+        "name": "supermemoryai/company-brain",
+        "url": "https://github.com/supermemoryai/company-brain",
+        "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+        "language": "TypeScript",
+        "stars": 868,
+        "created_at": "2026-09-25T22:48:14Z"
+      },
+      {
+        "name": "glanderness/BeefTV",
+        "url": "https://github.com/glanderness/BeefTV",
+        "description": "Local-first, lightweight, AI-native video workspace.",
+        "language": "TypeScript",
+        "stars": 629,
+        "created_at": "2026-09-24T05:20:03Z"
+      },
+      {
+        "name": "AgentSystemLabs/agent-office",
+        "url": "https://github.com/AgentSystemLabs/agent-office",
+        "description": "A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
+        "language": "TypeScript",
+        "stars": 434,
+        "created_at": "2026-09-26T00:32:48Z"
+      },
+      {
+        "name": "fsiaonma/elpis",
+        "url": "https://github.com/fsiaonma/elpis",
+        "description": "elpis",
+        "language": "TypeScript",
+        "stars": 423,
+        "created_at": "2026-09-29T02:19:22Z"
+      },
+      {
+        "name": "openai/mcp-extensions",
+        "url": "https://github.com/openai/mcp-extensions",
+        "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+        "language": "TypeScript",
+        "stars": 420,
+        "created_at": "2026-09-29T00:45:42Z"
+      },
+      {
+        "name": "CaptureGrubEnchant/SolidWorks",
+        "url": "https://github.com/CaptureGrubEnchant/SolidWorks",
+        "description": "SolidWorks MCP Server connects an AI assistant to a running SolidWorks instance. Sketch, extrude, fillet, export STEP/STL, generate macros.",
+        "language": "TypeScript",
+        "stars": 380,
+        "created_at": "2026-09-25T10:42:51Z"
+      }
+    ],
+    "Rust": [
+      {
+        "name": "tobi/disktree",
+        "url": "https://github.com/tobi/disktree",
+        "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+        "language": "Rust",
+        "stars": 1972,
+        "created_at": "2026-09-24T20:56:29Z"
+      },
+      {
+        "name": "ollaya-dev/ollaya",
+        "url": "https://github.com/ollaya-dev/ollaya",
+        "description": "Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.",
+        "language": "Rust",
+        "stars": 1026,
+        "created_at": "2026-09-23T22:11:15Z"
+      },
+      {
+        "name": "chasmlol/2010-rust-rewrite-mashup",
+        "url": "https://github.com/chasmlol/2010-rust-rewrite-mashup",
+        "description": "MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map",
+        "language": "Rust",
+        "stars": 398,
+        "created_at": "2026-09-27T23:47:01Z"
+      },
+      {
+        "name": "jankeesvw/omarchy-meeting-recorder",
+        "url": "https://github.com/jankeesvw/omarchy-meeting-recorder",
+        "description": "Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
+        "language": "Rust",
+        "stars": 320,
+        "created_at": "2026-09-24T15:44:42Z"
+      },
+      {
+        "name": "ZacharyZhang-NY/Ely-GPUI-Components",
+        "url": "https://github.com/ZacharyZhang-NY/Ely-GPUI-Components",
+        "description": "A component library for GPUI, in light and dark. Every component runs live in the browser.",
+        "language": "Rust",
+        "stars": 216,
+        "created_at": "2026-09-30T04:03:37Z"
+      },
+      {
+        "name": "pch/rawmakase",
+        "url": "https://github.com/pch/rawmakase",
+        "description": "Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows.",
+        "language": "Rust",
+        "stars": 175,
+        "created_at": "2026-09-26T13:44:32Z"
+      },
+      {
+        "name": "scarletkc/seiso",
+        "url": "https://github.com/scarletkc/seiso",
+        "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+        "language": "Rust",
+        "stars": 153,
+        "created_at": "2026-09-27T13:27:28Z"
+      },
+      {
+        "name": "corvofeng/atv-core",
+        "url": "https://github.com/corvofeng/atv-core",
+        "description": "",
+        "language": "Rust",
+        "stars": 145,
+        "created_at": "2026-09-26T09:41:21Z"
+      },
+      {
+        "name": "turbo-devv/openOMSI",
+        "url": "https://github.com/turbo-devv/openOMSI",
+        "description": "OMSI 2 recreated from scratch in Rust, compatible with every map and mod (requires the original OMSI 2)",
+        "language": "Rust",
+        "stars": 137,
+        "created_at": "2026-09-27T22:21:06Z"
+      },
+      {
+        "name": "alpcanaydin/tusk",
+        "url": "https://github.com/alpcanaydin/tusk",
+        "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
+        "language": "Rust",
+        "stars": 136,
+        "created_at": "2026-09-28T18:47:06Z"
+      }
+    ],
+    "Go": [
+      {
+        "name": "yetone/magpie",
+        "url": "https://github.com/yetone/magpie",
+        "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+        "language": "Go",
+        "stars": 3721,
+        "created_at": "2026-09-23T16:22:35Z"
+      },
+      {
+        "name": "JaxsonWang/cpa-plugin-oai-basispoints",
+        "url": "https://github.com/JaxsonWang/cpa-plugin-oai-basispoints",
+        "description": "",
+        "language": "Go",
+        "stars": 165,
+        "created_at": "2026-09-24T15:55:38Z"
+      },
+      {
+        "name": "Continuum-AI-Corp/scuttle",
+        "url": "https://github.com/Continuum-AI-Corp/scuttle",
+        "description": "Tiny post-quantum encryption for sensitive data. Write-only by design. ML-KEM-768 + X25519 + AES-256-GCM. Please break it.",
+        "language": "Go",
+        "stars": 146,
+        "created_at": "2026-09-23T22:28:43Z"
+      },
+      {
+        "name": "frostyard/nsl",
+        "url": "https://github.com/frostyard/nsl",
+        "description": "NSpawn Subsystem for Linux: development environments for atomic hosts and people who want to keep the host clean",
+        "language": "Go",
+        "stars": 66,
+        "created_at": "2026-09-26T20:08:28Z"
+      },
+      {
+        "name": "aurorainfra/grev",
+        "url": "https://github.com/aurorainfra/grev",
+        "description": "Thinking coreutils",
+        "language": "Go",
+        "stars": 54,
+        "created_at": "2026-09-24T21:12:11Z"
+      },
+      {
+        "name": "Bornholm/indecis",
+        "url": "https://github.com/Bornholm/indecis",
+        "description": "Small decision models in Go",
+        "language": "Go",
+        "stars": 47,
+        "created_at": "2026-09-28T12:42:18Z"
+      },
+      {
+        "name": "spumon1/SUCK_MY_ASTRA",
+        "url": "https://github.com/spumon1/SUCK_MY_ASTRA",
+        "description": "LOLOLOLOLOLOLOLOLOL",
+        "language": "Go",
+        "stars": 41,
+        "created_at": "2026-09-25T01:13:53Z"
+      },
+      {
+        "name": "HanawaBanana/workbuddy2api",
+        "url": "https://github.com/HanawaBanana/workbuddy2api",
+        "description": "WorkBuddy2API \u5ef6\u7eed\u4ed3\u5e93 \u2014\u2014 \u8d26\u53f7\u6c60\u8f6c OpenAI \u517c\u5bb9 API\uff08\u539f Sliverkiss/workbuddy2api \u5df2\u5220\u5e93\uff0cMIT\uff09",
+        "language": "Go",
+        "stars": 41,
+        "created_at": "2026-09-24T02:25:31Z"
+      },
+      {
+        "name": "mattn/go-jev",
+        "url": "https://github.com/mattn/go-jev",
+        "description": "Go SDK and CLI for TypeSafe Jev: typed decisions (yes/no, choice, score) from a model",
+        "language": "Go",
+        "stars": 39,
+        "created_at": "2026-09-23T13:42:51Z"
+      },
+      {
+        "name": "Slaker19/webkvm",
+        "url": "https://github.com/Slaker19/webkvm",
+        "description": "Self-hosted web panel to manage a Linux virtualization host (KVM/QEMU & Incus)",
+        "language": "Go",
+        "stars": 37,
+        "created_at": "2026-09-26T23:17:14Z"
+      }
+    ]
+  }
+}
