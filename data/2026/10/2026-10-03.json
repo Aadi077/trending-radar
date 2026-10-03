@@ -1,0 +1,416 @@
+{
+  "date": "2026-10-03",
+  "window_start": "2026-09-26",
+  "categories": {
+    "All languages": [
+      {
+        "name": "KKKKhazix/AIHOT",
+        "url": "https://github.com/KKKKhazix/AIHOT",
+        "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
+        "language": "TypeScript",
+        "stars": 5349,
+        "created_at": "2026-09-28T23:40:05Z"
+      },
+      {
+        "name": "Louis-CFM/coucou",
+        "url": "https://github.com/Louis-CFM/coucou",
+        "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
+        "language": "Swift",
+        "stars": 3170,
+        "created_at": "2026-09-27T21:54:12Z"
+      },
+      {
+        "name": "feder-cr/dots",
+        "url": "https://github.com/feder-cr/dots",
+        "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+        "language": "Python",
+        "stars": 2572,
+        "created_at": "2026-09-29T23:06:00Z"
+      },
+      {
+        "name": "rehan-remade/universal-modder",
+        "url": "https://github.com/rehan-remade/universal-modder",
+        "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+        "language": "Python",
+        "stars": 2508,
+        "created_at": "2026-09-30T05:00:35Z"
+      },
+      {
+        "name": "CopilotKit/OpenDots",
+        "url": "https://github.com/CopilotKit/OpenDots",
+        "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+        "language": "TypeScript",
+        "stars": 2181,
+        "created_at": "2026-09-29T17:13:58Z"
+      },
+      {
+        "name": "dzhng/jevgrep",
+        "url": "https://github.com/dzhng/jevgrep",
+        "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+        "language": "TypeScript",
+        "stars": 2135,
+        "created_at": "2026-09-26T04:06:56Z"
+      },
+      {
+        "name": "kaankiziltug/logo-design-skill",
+        "url": "https://github.com/kaankiziltug/logo-design-skill",
+        "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+        "language": "HTML",
+        "stars": 1664,
+        "created_at": "2026-09-26T08:23:34Z"
+      },
+      {
+        "name": "yihui-dev/awesome-opus5-5-videos",
+        "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+        "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+        "language": null,
+        "stars": 1532,
+        "created_at": "2026-09-27T06:19:36Z"
+      },
+      {
+        "name": "feitangyuan/onetake",
+        "url": "https://github.com/feitangyuan/onetake",
+        "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+        "language": "Python",
+        "stars": 1428,
+        "created_at": "2026-09-26T05:35:17Z"
+      },
+      {
+        "name": "wy51ai/floorplan-3d",
+        "url": "https://github.com/wy51ai/floorplan-3d",
+        "description": "",
+        "language": "HTML",
+        "stars": 1360,
+        "created_at": "2026-09-29T02:57:30Z"
+      }
+    ],
+    "Python": [
+      {
+        "name": "feder-cr/dots",
+        "url": "https://github.com/feder-cr/dots",
+        "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+        "language": "Python",
+        "stars": 2572,
+        "created_at": "2026-09-29T23:06:00Z"
+      },
+      {
+        "name": "rehan-remade/universal-modder",
+        "url": "https://github.com/rehan-remade/universal-modder",
+        "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+        "language": "Python",
+        "stars": 2508,
+        "created_at": "2026-09-30T05:00:35Z"
+      },
+      {
+        "name": "feitangyuan/onetake",
+        "url": "https://github.com/feitangyuan/onetake",
+        "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+        "language": "Python",
+        "stars": 1428,
+        "created_at": "2026-09-26T05:35:17Z"
+      },
+      {
+        "name": "firelex/jeff",
+        "url": "https://github.com/firelex/jeff",
+        "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+        "language": "Python",
+        "stars": 1345,
+        "created_at": "2026-09-28T16:18:39Z"
+      },
+      {
+        "name": "nanaism/yomiyasu",
+        "url": "https://github.com/nanaism/yomiyasu",
+        "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+        "language": "Python",
+        "stars": 1292,
+        "created_at": "2026-09-30T11:49:32Z"
+      },
+      {
+        "name": "echris6/motion-video-kit",
+        "url": "https://github.com/echris6/motion-video-kit",
+        "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+        "language": "Python",
+        "stars": 974,
+        "created_at": "2026-09-27T14:11:14Z"
+      },
+      {
+        "name": "Edwardxlai/easyread",
+        "url": "https://github.com/Edwardxlai/easyread",
+        "description": "\u628a\u82f1\u6587\u8bba\u6587\u8bfb\u6210\u8212\u670d\u7684\u4e2d\u6587\uff1a\u672c\u5730 PDF \u8bba\u6587\u7ffb\u8bd1\u3001\u539f\u6587\u5bf9\u7167\u3001\u8fb9\u8bfb\u8fb9\u95ee AI\u3001\u6587\u732e\u7ba1\u7406\u3002Read English papers in comfortable Chinese.",
+        "language": "Python",
+        "stars": 664,
+        "created_at": "2026-09-30T12:52:24Z"
+      },
+      {
+        "name": "OpSafari/hypoarena",
+        "url": "https://github.com/OpSafari/hypoarena",
+        "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+        "language": "Python",
+        "stars": 558,
+        "created_at": "2026-09-30T03:35:45Z"
+      },
+      {
+        "name": "nykooi1/vibe-wise",
+        "url": "https://github.com/nykooi1/vibe-wise",
+        "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+        "language": "Python",
+        "stars": 543,
+        "created_at": "2026-09-29T01:29:57Z"
+      },
+      {
+        "name": "PSRben/VisionHOPE",
+        "url": "https://github.com/PSRben/VisionHOPE",
+        "description": "Official PyTorch implementation of VisionHOPE: Visual Backbones as Self-Modifying Learning Systems.",
+        "language": "Python",
+        "stars": 517,
+        "created_at": "2026-09-27T06:56:59Z"
+      }
+    ],
+    "TypeScript": [
+      {
+        "name": "KKKKhazix/AIHOT",
+        "url": "https://github.com/KKKKhazix/AIHOT",
+        "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
+        "language": "TypeScript",
+        "stars": 5349,
+        "created_at": "2026-09-28T23:40:05Z"
+      },
+      {
+        "name": "CopilotKit/OpenDots",
+        "url": "https://github.com/CopilotKit/OpenDots",
+        "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+        "language": "TypeScript",
+        "stars": 2181,
+        "created_at": "2026-09-29T17:13:58Z"
+      },
+      {
+        "name": "dzhng/jevgrep",
+        "url": "https://github.com/dzhng/jevgrep",
+        "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+        "language": "TypeScript",
+        "stars": 2135,
+        "created_at": "2026-09-26T04:06:56Z"
+      },
+      {
+        "name": "openai/mcp-extensions",
+        "url": "https://github.com/openai/mcp-extensions",
+        "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+        "language": "TypeScript",
+        "stars": 718,
+        "created_at": "2026-09-29T00:45:42Z"
+      },
+      {
+        "name": "AgentSystemLabs/agent-office",
+        "url": "https://github.com/AgentSystemLabs/agent-office",
+        "description": "A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
+        "language": "TypeScript",
+        "stars": 562,
+        "created_at": "2026-09-26T00:32:48Z"
+      },
+      {
+        "name": "fsiaonma/elpis",
+        "url": "https://github.com/fsiaonma/elpis",
+        "description": "elpis",
+        "language": "TypeScript",
+        "stars": 540,
+        "created_at": "2026-09-29T02:19:22Z"
+      },
+      {
+        "name": "composio-community/open-dot",
+        "url": "https://github.com/composio-community/open-dot",
+        "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+        "language": "TypeScript",
+        "stars": 490,
+        "created_at": "2026-09-29T16:34:16Z"
+      },
+      {
+        "name": "Rieranthony/product-film-skill",
+        "url": "https://github.com/Rieranthony/product-film-skill",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 387,
+        "created_at": "2026-09-26T10:42:48Z"
+      },
+      {
+        "name": "ng-native/ng-native",
+        "url": "https://github.com/ng-native/ng-native",
+        "description": "Angular apps, rendered as real native iOS and Android views, on React Native's Fabric renderer.",
+        "language": "TypeScript",
+        "stars": 376,
+        "created_at": "2026-09-27T19:15:46Z"
+      },
+      {
+        "name": "Appllama/liquid-glass-chat-ui",
+        "url": "https://github.com/Appllama/liquid-glass-chat-ui",
+        "description": "Explore liquid-glass chat UIs with animated portraits, interactive stories, and floating composers.",
+        "language": "TypeScript",
+        "stars": 213,
+        "created_at": "2026-09-27T13:33:00Z"
+      }
+    ],
+    "Rust": [
+      {
+        "name": "chasmlol/2010-rust-rewrite-mashup",
+        "url": "https://github.com/chasmlol/2010-rust-rewrite-mashup",
+        "description": "MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map",
+        "language": "Rust",
+        "stars": 679,
+        "created_at": "2026-09-27T23:47:01Z"
+      },
+      {
+        "name": "ZacharyZhang-NY/Ely-GPUI-Components",
+        "url": "https://github.com/ZacharyZhang-NY/Ely-GPUI-Components",
+        "description": "A component library for GPUI, in light and dark. Every component runs live in the browser.",
+        "language": "Rust",
+        "stars": 382,
+        "created_at": "2026-09-30T04:03:37Z"
+      },
+      {
+        "name": "alpcanaydin/tusk",
+        "url": "https://github.com/alpcanaydin/tusk",
+        "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
+        "language": "Rust",
+        "stars": 323,
+        "created_at": "2026-09-28T18:47:06Z"
+      },
+      {
+        "name": "openOMSI-Project/openOMSI",
+        "url": "https://github.com/openOMSI-Project/openOMSI",
+        "description": "OMSI 2 recreated from scratch in Rust, compatible with every map and mod (requires the original OMSI 2)",
+        "language": "Rust",
+        "stars": 320,
+        "created_at": "2026-09-27T22:21:06Z"
+      },
+      {
+        "name": "luxine/CalcKernel",
+        "url": "https://github.com/luxine/CalcKernel",
+        "description": "CalcKernel compiler, runtime, tests, examples, documentation, and public releases",
+        "language": "Rust",
+        "stars": 262,
+        "created_at": "2026-09-27T14:59:35Z"
+      },
+      {
+        "name": "storytold/photocraft",
+        "url": "https://github.com/storytold/photocraft",
+        "description": "",
+        "language": "Rust",
+        "stars": 262,
+        "created_at": "2026-09-30T13:37:48Z"
+      },
+      {
+        "name": "corvofeng/atv-core",
+        "url": "https://github.com/corvofeng/atv-core",
+        "description": "",
+        "language": "Rust",
+        "stars": 224,
+        "created_at": "2026-09-26T09:41:21Z"
+      },
+      {
+        "name": "pch/rawmakase",
+        "url": "https://github.com/pch/rawmakase",
+        "description": "\ud83d\udcf8 Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows.",
+        "language": "Rust",
+        "stars": 216,
+        "created_at": "2026-09-26T13:44:32Z"
+      },
+      {
+        "name": "scarletkc/seiso",
+        "url": "https://github.com/scarletkc/seiso",
+        "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+        "language": "Rust",
+        "stars": 172,
+        "created_at": "2026-09-27T13:27:28Z"
+      },
+      {
+        "name": "NuvexNetwork/nuvex",
+        "url": "https://github.com/NuvexNetwork/nuvex",
+        "description": "Solana-native verifiable compute and oracle protocol.  Programs accept a job, an input, constraints, and a callback. Randomness is the first job. An active node can fulfill a VRF request with an ECVRF proof after it locks the configured stake and sends a heartbeat. Fees still do not move.",
+        "language": "Rust",
+        "stars": 134,
+        "created_at": "2026-10-02T15:38:29Z"
+      }
+    ],
+    "Go": [
+      {
+        "name": "egoist/mygo",
+        "url": "https://github.com/egoist/mygo",
+        "description": "Develop desktop apps with a web frontend or native UI in Go",
+        "language": "Go",
+        "stars": 199,
+        "created_at": "2026-09-26T15:21:37Z"
+      },
+      {
+        "name": "mizorewww/x_gift_bot",
+        "url": "https://github.com/mizorewww/x_gift_bot",
+        "description": "X Premium gift CLI and redemption site",
+        "language": "Go",
+        "stars": 161,
+        "created_at": "2026-10-02T10:29:43Z"
+      },
+      {
+        "name": "frostyard/nsl",
+        "url": "https://github.com/frostyard/nsl",
+        "description": "NSpawn Subsystem for Linux: development environments for atomic hosts and people who want to keep the host clean",
+        "language": "Go",
+        "stars": 92,
+        "created_at": "2026-09-26T20:08:28Z"
+      },
+      {
+        "name": "devilcoolyue/agentbox",
+        "url": "https://github.com/devilcoolyue/agentbox",
+        "description": "Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, files, Git, and usage tracking.",
+        "language": "Go",
+        "stars": 69,
+        "created_at": "2026-09-28T03:32:41Z"
+      },
+      {
+        "name": "Bornholm/indecis",
+        "url": "https://github.com/Bornholm/indecis",
+        "description": "Small decision models in Go",
+        "language": "Go",
+        "stars": 58,
+        "created_at": "2026-09-28T12:42:18Z"
+      },
+      {
+        "name": "Tuskira/ai-agent-gateway",
+        "url": "https://github.com/Tuskira/ai-agent-gateway",
+        "description": "AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
+        "language": "Go",
+        "stars": 54,
+        "created_at": "2026-10-01T11:32:10Z"
+      },
+      {
+        "name": "Slaker19/webkvm",
+        "url": "https://github.com/Slaker19/webkvm",
+        "description": "Self-hosted web panel to manage a Linux virtualization host (KVM/QEMU & Incus)",
+        "language": "Go",
+        "stars": 51,
+        "created_at": "2026-09-26T23:17:14Z"
+      },
+      {
+        "name": "Miroshka000/mikan",
+        "url": "https://github.com/Miroshka000/mikan",
+        "description": "\ud83c\udf4a A fast, beautiful VPN panel on the mihomo core \u2014 one command to install, nothing to babysit.",
+        "language": "Go",
+        "stars": 49,
+        "created_at": "2026-09-28T16:25:37Z"
+      },
+      {
+        "name": "nullism/trunkcms",
+        "url": "https://github.com/nullism/trunkcms",
+        "description": "A small, stateless blog engine in Go. Content lives in a GitHub repo.",
+        "language": "Go",
+        "stars": 46,
+        "created_at": "2026-09-30T23:50:05Z"
+      },
+      {
+        "name": "Vitruves/ghostty-config",
+        "url": "https://github.com/Vitruves/ghostty-config",
+        "description": "TUI for Ghostty terminal customization",
+        "language": "Go",
+        "stars": 38,
+        "created_at": "2026-09-27T08:57:53Z"
+      }
+    ]
+  }
+}
