@@ -77,14 +77,14 @@ def main():
     days = sorted((ROOT / "data").rglob("*.json"))
     readme = (
         "# 📈 Trending Radar\n\n"
-        "A daily archive of the fastest-rising **new** GitHub repositories "
+        "A weekday archive of the fastest-rising **new** GitHub repositories "
         "(created in the last 7 days, ranked by stars), collected automatically by GitHub Actions.\n\n"
         f"**Last updated:** {today} · **Days archived:** {len(days)}\n\n"
         f"## Today's top new repos\n\n{md_table(snapshot['categories']['All languages'])}\n\n"
         f"More languages: [`data/{now:%Y/%m}/{today}.md`](data/{now:%Y/%m}/{today}.md)\n\n"
         "## How it works\n\n"
         "- [`scripts/snapshot.py`](scripts/snapshot.py) queries the GitHub search API (stdlib only, no dependencies).\n"
-        "- [`.github/workflows/daily.yml`](.github/workflows/daily.yml) runs it every day and commits the results.\n"
+        "- [`.github/workflows/daily.yml`](.github/workflows/daily.yml) runs it every weekday and commits the results.\n"
         "- Raw JSON snapshots live in [`data/`](data) for anyone who wants to analyze trends over time.\n"
     )
     (ROOT / "README.md").write_text(readme)
