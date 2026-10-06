@@ -1,0 +1,416 @@
+{
+  "date": "2026-10-06",
+  "window_start": "2026-09-29",
+  "categories": {
+    "All languages": [
+      {
+        "name": "storytold/photocraft",
+        "url": "https://github.com/storytold/photocraft",
+        "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+        "language": "Rust",
+        "stars": 4486,
+        "created_at": "2026-09-30T13:37:48Z"
+      },
+      {
+        "name": "rehan-remade/universal-modder",
+        "url": "https://github.com/rehan-remade/universal-modder",
+        "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+        "language": "Python",
+        "stars": 4474,
+        "created_at": "2026-09-30T05:00:35Z"
+      },
+      {
+        "name": "CopilotKit/OpenDots",
+        "url": "https://github.com/CopilotKit/OpenDots",
+        "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+        "language": "TypeScript",
+        "stars": 3895,
+        "created_at": "2026-09-29T17:13:58Z"
+      },
+      {
+        "name": "omlahore/RemoveMacAI",
+        "url": "https://github.com/omlahore/RemoveMacAI",
+        "description": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
+        "language": "Swift",
+        "stars": 2975,
+        "created_at": "2026-09-29T11:02:39Z"
+      },
+      {
+        "name": "feder-cr/dots",
+        "url": "https://github.com/feder-cr/dots",
+        "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+        "language": "Python",
+        "stars": 2630,
+        "created_at": "2026-09-29T23:06:00Z"
+      },
+      {
+        "name": "nykooi1/vibe-wise",
+        "url": "https://github.com/nykooi1/vibe-wise",
+        "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+        "language": "Python",
+        "stars": 2433,
+        "created_at": "2026-09-29T01:29:57Z"
+      },
+      {
+        "name": "QingYunA/answer-me-with-html",
+        "url": "https://github.com/QingYunA/answer-me-with-html",
+        "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
+        "language": "JavaScript",
+        "stars": 1744,
+        "created_at": "2026-10-02T09:57:40Z"
+      },
+      {
+        "name": "nanaism/yomiyasu",
+        "url": "https://github.com/nanaism/yomiyasu",
+        "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+        "language": "Python",
+        "stars": 1589,
+        "created_at": "2026-09-30T11:49:32Z"
+      },
+      {
+        "name": "kargulstudio/sales-crm",
+        "url": "https://github.com/kargulstudio/sales-crm",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 1571,
+        "created_at": "2026-10-04T10:55:58Z"
+      },
+      {
+        "name": "facebookincubator/muse-gadget-sdk",
+        "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+        "description": "Open source SDK to build Muse gadgets",
+        "language": "C",
+        "stars": 1527,
+        "created_at": "2026-10-02T18:21:23Z"
+      }
+    ],
+    "Python": [
+      {
+        "name": "rehan-remade/universal-modder",
+        "url": "https://github.com/rehan-remade/universal-modder",
+        "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+        "language": "Python",
+        "stars": 4474,
+        "created_at": "2026-09-30T05:00:35Z"
+      },
+      {
+        "name": "feder-cr/dots",
+        "url": "https://github.com/feder-cr/dots",
+        "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+        "language": "Python",
+        "stars": 2630,
+        "created_at": "2026-09-29T23:06:00Z"
+      },
+      {
+        "name": "nykooi1/vibe-wise",
+        "url": "https://github.com/nykooi1/vibe-wise",
+        "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+        "language": "Python",
+        "stars": 2433,
+        "created_at": "2026-09-29T01:29:57Z"
+      },
+      {
+        "name": "nanaism/yomiyasu",
+        "url": "https://github.com/nanaism/yomiyasu",
+        "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+        "language": "Python",
+        "stars": 1589,
+        "created_at": "2026-09-30T11:49:32Z"
+      },
+      {
+        "name": "Edwardxlai/easyread",
+        "url": "https://github.com/Edwardxlai/easyread",
+        "description": "\u628a\u82f1\u6587\u8bba\u6587\u8bfb\u6210\u8212\u670d\u7684\u4e2d\u6587\uff1a\u672c\u5730 PDF \u8bba\u6587\u7ffb\u8bd1\u3001\u539f\u6587\u5bf9\u7167\u3001\u8fb9\u8bfb\u8fb9\u95ee AI\u3001\u6587\u732e\u7ba1\u7406\u3002Read English papers in comfortable Chinese.",
+        "language": "Python",
+        "stars": 821,
+        "created_at": "2026-09-30T12:52:24Z"
+      },
+      {
+        "name": "oil-oil/oil-ui",
+        "url": "https://github.com/oil-oil/oil-ui",
+        "description": "\u628a AI \u7684 UI \u8bbe\u8ba1\u80fd\u529b\u63a8\u5230\u6781\u9650\u3002",
+        "language": "Python",
+        "stars": 787,
+        "created_at": "2026-09-30T03:55:35Z"
+      },
+      {
+        "name": "StayLameBro/backburner",
+        "url": "https://github.com/StayLameBro/backburner",
+        "description": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
+        "language": "Python",
+        "stars": 752,
+        "created_at": "2026-10-01T20:59:56Z"
+      },
+      {
+        "name": "Jakeschincariol/replica-skill",
+        "url": "https://github.com/Jakeschincariol/replica-skill",
+        "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+        "language": "Python",
+        "stars": 665,
+        "created_at": "2026-10-03T12:07:49Z"
+      },
+      {
+        "name": "OpSafari/hypoarena",
+        "url": "https://github.com/OpSafari/hypoarena",
+        "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+        "language": "Python",
+        "stars": 557,
+        "created_at": "2026-09-30T03:35:45Z"
+      },
+      {
+        "name": "amywork777/lipflow",
+        "url": "https://github.com/amywork777/lipflow",
+        "description": "Wispr Flow for your lips: hold a key, silently mouth words, and they're typed at your cursor. Runs locally on your Mac.",
+        "language": "Python",
+        "stars": 522,
+        "created_at": "2026-09-29T20:05:06Z"
+      }
+    ],
+    "TypeScript": [
+      {
+        "name": "CopilotKit/OpenDots",
+        "url": "https://github.com/CopilotKit/OpenDots",
+        "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+        "language": "TypeScript",
+        "stars": 3895,
+        "created_at": "2026-09-29T17:13:58Z"
+      },
+      {
+        "name": "kargulstudio/sales-crm",
+        "url": "https://github.com/kargulstudio/sales-crm",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 1571,
+        "created_at": "2026-10-04T10:55:58Z"
+      },
+      {
+        "name": "shader-effects-inc/shaders",
+        "url": "https://github.com/shader-effects-inc/shaders",
+        "description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
+        "language": "TypeScript",
+        "stars": 930,
+        "created_at": "2026-09-29T16:36:26Z"
+      },
+      {
+        "name": "openai/mcp-extensions",
+        "url": "https://github.com/openai/mcp-extensions",
+        "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+        "language": "TypeScript",
+        "stars": 784,
+        "created_at": "2026-09-29T00:45:42Z"
+      },
+      {
+        "name": "lucasmarkes/hairline",
+        "url": "https://github.com/lucasmarkes/hairline",
+        "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
+        "language": "TypeScript",
+        "stars": 767,
+        "created_at": "2026-10-01T13:52:19Z"
+      },
+      {
+        "name": "rauchg/gdp-ts",
+        "url": "https://github.com/rauchg/gdp-ts",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 683,
+        "created_at": "2026-10-04T18:55:18Z"
+      },
+      {
+        "name": "extend-hq/jevbox",
+        "url": "https://github.com/extend-hq/jevbox",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 657,
+        "created_at": "2026-09-29T20:54:42Z"
+      },
+      {
+        "name": "composio-community/open-dot",
+        "url": "https://github.com/composio-community/open-dot",
+        "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+        "language": "TypeScript",
+        "stars": 582,
+        "created_at": "2026-09-29T16:34:16Z"
+      },
+      {
+        "name": "fsiaonma/elpis",
+        "url": "https://github.com/fsiaonma/elpis",
+        "description": "elpis",
+        "language": "TypeScript",
+        "stars": 552,
+        "created_at": "2026-09-29T02:19:22Z"
+      },
+      {
+        "name": "whirlchat/whirl",
+        "url": "https://github.com/whirlchat/whirl",
+        "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+        "language": "TypeScript",
+        "stars": 489,
+        "created_at": "2026-10-02T13:50:42Z"
+      }
+    ],
+    "Rust": [
+      {
+        "name": "storytold/photocraft",
+        "url": "https://github.com/storytold/photocraft",
+        "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+        "language": "Rust",
+        "stars": 4487,
+        "created_at": "2026-09-30T13:37:48Z"
+      },
+      {
+        "name": "storytold/filmcraft",
+        "url": "https://github.com/storytold/filmcraft",
+        "description": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
+        "language": "Rust",
+        "stars": 1149,
+        "created_at": "2026-09-30T13:41:20Z"
+      },
+      {
+        "name": "storytold/lightcraft",
+        "url": "https://github.com/storytold/lightcraft",
+        "description": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
+        "language": "Rust",
+        "stars": 844,
+        "created_at": "2026-09-30T14:09:27Z"
+      },
+      {
+        "name": "storytold/printcraft",
+        "url": "https://github.com/storytold/printcraft",
+        "description": "An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust",
+        "language": "Rust",
+        "stars": 770,
+        "created_at": "2026-09-30T13:39:37Z"
+      },
+      {
+        "name": "storytold/vectorcraft",
+        "url": "https://github.com/storytold/vectorcraft",
+        "description": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
+        "language": "Rust",
+        "stars": 749,
+        "created_at": "2026-09-30T13:43:03Z"
+      },
+      {
+        "name": "storytold/effectcraft",
+        "url": "https://github.com/storytold/effectcraft",
+        "description": "",
+        "language": "Rust",
+        "stars": 623,
+        "created_at": "2026-10-01T14:24:46Z"
+      },
+      {
+        "name": "elstongun/leviathan",
+        "url": "https://github.com/elstongun/leviathan",
+        "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+        "language": "Rust",
+        "stars": 609,
+        "created_at": "2026-10-05T08:57:44Z"
+      },
+      {
+        "name": "ZacharyZhang-NY/Ely-GPUI-Components",
+        "url": "https://github.com/ZacharyZhang-NY/Ely-GPUI-Components",
+        "description": "A component library for GPUI, in light and dark. Every component runs live in the browser.",
+        "language": "Rust",
+        "stars": 561,
+        "created_at": "2026-09-30T04:03:37Z"
+      },
+      {
+        "name": "storytold/designcraft",
+        "url": "https://github.com/storytold/designcraft",
+        "description": "",
+        "language": "Rust",
+        "stars": 403,
+        "created_at": "2026-10-01T13:13:14Z"
+      },
+      {
+        "name": "NuvexNetwork/nuvex",
+        "url": "https://github.com/NuvexNetwork/nuvex",
+        "description": "Solana-native verifiable compute and oracle protocol.  Programs accept a job, an input, constraints, and a callback. Randomness is the first job. An active node can fulfill a VRF request with an ECVRF proof after it locks the configured stake and sends a heartbeat. Fees still do not move.",
+        "language": "Rust",
+        "stars": 152,
+        "created_at": "2026-10-02T15:38:29Z"
+      }
+    ],
+    "Go": [
+      {
+        "name": "mizorewww/x_gift_bot",
+        "url": "https://github.com/mizorewww/x_gift_bot",
+        "description": "X Premium gift CLI and redemption site",
+        "language": "Go",
+        "stars": 612,
+        "created_at": "2026-10-02T10:29:43Z"
+      },
+      {
+        "name": "egoist/godiff",
+        "url": "https://github.com/egoist/godiff",
+        "description": "Fast native diff viewer",
+        "language": "Go",
+        "stars": 99,
+        "created_at": "2026-10-04T16:10:38Z"
+      },
+      {
+        "name": "MatinSenPai/Gemini-Config-Checker",
+        "url": "https://github.com/MatinSenPai/Gemini-Config-Checker",
+        "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+        "language": "Go",
+        "stars": 95,
+        "created_at": "2026-10-03T15:08:10Z"
+      },
+      {
+        "name": "jiwoochris/artex-ko",
+        "url": "https://github.com/jiwoochris/artex-ko",
+        "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7 AI \uc790\uc728 \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud504\ub808\uc784\uc6cc\ud06c \ud604\uc9c0\ud654 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+        "language": "Go",
+        "stars": 66,
+        "created_at": "2026-10-03T14:49:48Z"
+      },
+      {
+        "name": "Tuskira/ai-agent-gateway",
+        "url": "https://github.com/Tuskira/ai-agent-gateway",
+        "description": "AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
+        "language": "Go",
+        "stars": 61,
+        "created_at": "2026-10-01T11:32:10Z"
+      },
+      {
+        "name": "hashcott/ghostline",
+        "url": "https://github.com/hashcott/ghostline",
+        "description": "One-click encrypted DNS (DoH/DoT/DoQ/DNSCrypt), DPI bypass with zapret2 or GoodbyeDPI, a local HTTP/SOCKS proxy with TLS fragmentation, and domain rules for Windows. ~30 MB RAM in the tray, no telemetry, always restores your original DNS. For research and educational use.",
+        "language": "Go",
+        "stars": 52,
+        "created_at": "2026-10-04T06:13:58Z"
+      },
+      {
+        "name": "nullism/trunkcms",
+        "url": "https://github.com/nullism/trunkcms",
+        "description": "A small, stateless blog engine in Go. Content lives in a GitHub repo.",
+        "language": "Go",
+        "stars": 47,
+        "created_at": "2026-09-30T23:50:05Z"
+      },
+      {
+        "name": "egoist/gorex",
+        "url": "https://github.com/egoist/gorex",
+        "description": "Rex terminal clone in MyGo native UI",
+        "language": "Go",
+        "stars": 40,
+        "created_at": "2026-10-05T18:04:34Z"
+      },
+      {
+        "name": "holdmysocks/ps5-tailscale",
+        "url": "https://github.com/holdmysocks/ps5-tailscale",
+        "description": "Tailscale for jailbroken PS5: reach the console over your tailnet for Remote Play and stream to it with Moonlight/Sunshine (unofficial)",
+        "language": "Go",
+        "stars": 40,
+        "created_at": "2026-10-02T14:29:43Z"
+      },
+      {
+        "name": "antonmedv/termablo",
+        "url": "https://github.com/antonmedv/termablo",
+        "description": "A Diablo-like terminal roguelike",
+        "language": "Go",
+        "stars": 35,
+        "created_at": "2026-09-29T21:21:48Z"
+      }
+    ]
+  }
+}
