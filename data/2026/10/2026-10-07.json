@@ -1,0 +1,416 @@
+{
+  "date": "2026-10-07",
+  "window_start": "2026-09-30",
+  "categories": {
+    "All languages": [
+      {
+        "name": "storytold/photocraft",
+        "url": "https://github.com/storytold/photocraft",
+        "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+        "language": "Rust",
+        "stars": 15556,
+        "created_at": "2026-09-30T13:37:48Z"
+      },
+      {
+        "name": "openai/math",
+        "url": "https://github.com/openai/math",
+        "description": "",
+        "language": "Lean",
+        "stars": 8927,
+        "created_at": "2026-10-06T21:47:02Z"
+      },
+      {
+        "name": "rehan-remade/universal-modder",
+        "url": "https://github.com/rehan-remade/universal-modder",
+        "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+        "language": "Python",
+        "stars": 5103,
+        "created_at": "2026-09-30T05:00:35Z"
+      },
+      {
+        "name": "storytold/filmcraft",
+        "url": "https://github.com/storytold/filmcraft",
+        "description": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
+        "language": "Rust",
+        "stars": 3013,
+        "created_at": "2026-09-30T13:41:20Z"
+      },
+      {
+        "name": "storytold/lightcraft",
+        "url": "https://github.com/storytold/lightcraft",
+        "description": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
+        "language": "Rust",
+        "stars": 2709,
+        "created_at": "2026-09-30T14:09:27Z"
+      },
+      {
+        "name": "storytold/pdfcraft",
+        "url": "https://github.com/storytold/pdfcraft",
+        "description": "An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust",
+        "language": "Rust",
+        "stars": 2094,
+        "created_at": "2026-09-30T13:39:37Z"
+      },
+      {
+        "name": "QingYunA/answer-me-with-html",
+        "url": "https://github.com/QingYunA/answer-me-with-html",
+        "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
+        "language": "JavaScript",
+        "stars": 2023,
+        "created_at": "2026-10-02T09:57:40Z"
+      },
+      {
+        "name": "storytold/vectorcraft",
+        "url": "https://github.com/storytold/vectorcraft",
+        "description": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
+        "language": "Rust",
+        "stars": 2004,
+        "created_at": "2026-09-30T13:43:03Z"
+      },
+      {
+        "name": "nanaism/yomiyasu",
+        "url": "https://github.com/nanaism/yomiyasu",
+        "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+        "language": "Python",
+        "stars": 1698,
+        "created_at": "2026-09-30T11:49:32Z"
+      },
+      {
+        "name": "facebookincubator/muse-gadget-sdk",
+        "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+        "description": "Open source SDK to build Muse gadgets",
+        "language": "C",
+        "stars": 1644,
+        "created_at": "2026-10-02T18:21:23Z"
+      }
+    ],
+    "Python": [
+      {
+        "name": "rehan-remade/universal-modder",
+        "url": "https://github.com/rehan-remade/universal-modder",
+        "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+        "language": "Python",
+        "stars": 5103,
+        "created_at": "2026-09-30T05:00:35Z"
+      },
+      {
+        "name": "nanaism/yomiyasu",
+        "url": "https://github.com/nanaism/yomiyasu",
+        "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+        "language": "Python",
+        "stars": 1698,
+        "created_at": "2026-09-30T11:49:32Z"
+      },
+      {
+        "name": "oil-oil/oil-ui",
+        "url": "https://github.com/oil-oil/oil-ui",
+        "description": "Push AI UI design to its limits: explore distinct directions, compare them side by side, and refine against real screenshots. \u628a AI \u7684 UI \u8bbe\u8ba1\u80fd\u529b\u63a8\u5230\u6781\u9650\u3002",
+        "language": "Python",
+        "stars": 1005,
+        "created_at": "2026-09-30T03:55:35Z"
+      },
+      {
+        "name": "StayLameBro/backburner",
+        "url": "https://github.com/StayLameBro/backburner",
+        "description": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
+        "language": "Python",
+        "stars": 840,
+        "created_at": "2026-10-01T20:59:56Z"
+      },
+      {
+        "name": "Edwardxlai/easyread",
+        "url": "https://github.com/Edwardxlai/easyread",
+        "description": "\u628a\u82f1\u6587\u8bba\u6587\u8bfb\u6210\u8212\u670d\u7684\u4e2d\u6587\uff1a\u672c\u5730 PDF \u8bba\u6587\u7ffb\u8bd1\u3001\u539f\u6587\u5bf9\u7167\u3001\u8fb9\u8bfb\u8fb9\u95ee AI\u3001\u6587\u732e\u7ba1\u7406\u3002Read English papers in comfortable Chinese.",
+        "language": "Python",
+        "stars": 835,
+        "created_at": "2026-09-30T12:52:24Z"
+      },
+      {
+        "name": "Jakeschincariol/replica-skill",
+        "url": "https://github.com/Jakeschincariol/replica-skill",
+        "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+        "language": "Python",
+        "stars": 823,
+        "created_at": "2026-10-03T12:07:49Z"
+      },
+      {
+        "name": "OpSafari/hypoarena",
+        "url": "https://github.com/OpSafari/hypoarena",
+        "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+        "language": "Python",
+        "stars": 556,
+        "created_at": "2026-09-30T03:35:45Z"
+      },
+      {
+        "name": "zzzz7788990213-ops/EvoVLM",
+        "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
+        "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+        "language": "Python",
+        "stars": 507,
+        "created_at": "2026-10-02T01:03:55Z"
+      },
+      {
+        "name": "szabadkai/c64-keyboard-font",
+        "url": "https://github.com/szabadkai/c64-keyboard-font",
+        "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+        "language": "Python",
+        "stars": 434,
+        "created_at": "2026-10-05T11:03:06Z"
+      },
+      {
+        "name": "Chengjun023/agent-smith",
+        "url": "https://github.com/Chengjun023/agent-smith",
+        "description": "Token \u8d85\u652f\uff1f\u5feb\u7ed9\u53f2\u5bc6\u65af\u6253\u7535\u8bdd\uff01 Better Call Smith. Adaptive model routing, a glassy Codex usage monitor, and reproducible benchmarks with receipts.",
+        "language": "Python",
+        "stars": 421,
+        "created_at": "2026-09-30T15:58:32Z"
+      }
+    ],
+    "TypeScript": [
+      {
+        "name": "kargulstudio/sales-crm",
+        "url": "https://github.com/kargulstudio/sales-crm",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 1632,
+        "created_at": "2026-10-04T10:55:58Z"
+      },
+      {
+        "name": "lucasmarkes/hairline",
+        "url": "https://github.com/lucasmarkes/hairline",
+        "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
+        "language": "TypeScript",
+        "stars": 1054,
+        "created_at": "2026-10-01T13:52:19Z"
+      },
+      {
+        "name": "rauchg/gdp-ts",
+        "url": "https://github.com/rauchg/gdp-ts",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 734,
+        "created_at": "2026-10-04T18:55:18Z"
+      },
+      {
+        "name": "whirlchat/whirl",
+        "url": "https://github.com/whirlchat/whirl",
+        "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+        "language": "TypeScript",
+        "stars": 494,
+        "created_at": "2026-10-02T13:50:42Z"
+      },
+      {
+        "name": "shinshin86/mesh-avatar-studio",
+        "url": "https://github.com/shinshin86/mesh-avatar-studio",
+        "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+        "language": "TypeScript",
+        "stars": 455,
+        "created_at": "2026-10-04T03:33:57Z"
+      },
+      {
+        "name": "genex-games/genex-desktop",
+        "url": "https://github.com/genex-games/genex-desktop",
+        "description": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
+        "language": "TypeScript",
+        "stars": 410,
+        "created_at": "2026-10-02T17:17:59Z"
+      },
+      {
+        "name": "gatewai-dev/framefields",
+        "url": "https://github.com/gatewai-dev/framefields",
+        "description": "Code-first video, rendered natively on WebGPU.",
+        "language": "TypeScript",
+        "stars": 284,
+        "created_at": "2026-10-02T20:52:53Z"
+      },
+      {
+        "name": "arielshad/3d-asset-server",
+        "url": "https://github.com/arielshad/3d-asset-server",
+        "description": "3d assets api and mcp",
+        "language": "TypeScript",
+        "stars": 258,
+        "created_at": "2026-10-04T19:28:37Z"
+      },
+      {
+        "name": "sean-brydon/berthd",
+        "url": "https://github.com/sean-brydon/berthd",
+        "description": "Run coding agents on your dev boxes: worktrees, terminals, orchestration, kits and automations, with a desktop app.",
+        "language": "TypeScript",
+        "stars": 255,
+        "created_at": "2026-10-02T19:49:23Z"
+      },
+      {
+        "name": "mariagorskikh/open-instinct",
+        "url": "https://github.com/mariagorskikh/open-instinct",
+        "description": "Open Instinct: an open-source Instinct. A personal agent you text on iMessage, with its own computer and a trusted network of other agents. Built on Pi, Inkbox, Maritime and Composio.",
+        "language": "TypeScript",
+        "stars": 237,
+        "created_at": "2026-10-03T20:07:59Z"
+      }
+    ],
+    "Rust": [
+      {
+        "name": "storytold/photocraft",
+        "url": "https://github.com/storytold/photocraft",
+        "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+        "language": "Rust",
+        "stars": 15557,
+        "created_at": "2026-09-30T13:37:48Z"
+      },
+      {
+        "name": "storytold/filmcraft",
+        "url": "https://github.com/storytold/filmcraft",
+        "description": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
+        "language": "Rust",
+        "stars": 3013,
+        "created_at": "2026-09-30T13:41:20Z"
+      },
+      {
+        "name": "storytold/lightcraft",
+        "url": "https://github.com/storytold/lightcraft",
+        "description": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
+        "language": "Rust",
+        "stars": 2710,
+        "created_at": "2026-09-30T14:09:27Z"
+      },
+      {
+        "name": "storytold/pdfcraft",
+        "url": "https://github.com/storytold/pdfcraft",
+        "description": "An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust",
+        "language": "Rust",
+        "stars": 2094,
+        "created_at": "2026-09-30T13:39:37Z"
+      },
+      {
+        "name": "storytold/vectorcraft",
+        "url": "https://github.com/storytold/vectorcraft",
+        "description": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
+        "language": "Rust",
+        "stars": 2004,
+        "created_at": "2026-09-30T13:43:03Z"
+      },
+      {
+        "name": "storytold/effectcraft",
+        "url": "https://github.com/storytold/effectcraft",
+        "description": "",
+        "language": "Rust",
+        "stars": 1522,
+        "created_at": "2026-10-01T14:24:46Z"
+      },
+      {
+        "name": "storytold/designcraft",
+        "url": "https://github.com/storytold/designcraft",
+        "description": "",
+        "language": "Rust",
+        "stars": 885,
+        "created_at": "2026-10-01T13:13:14Z"
+      },
+      {
+        "name": "elstongun/leviathan",
+        "url": "https://github.com/elstongun/leviathan",
+        "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+        "language": "Rust",
+        "stars": 659,
+        "created_at": "2026-10-05T08:57:44Z"
+      },
+      {
+        "name": "ZacharyZhang-NY/Ely-GPUI-Components",
+        "url": "https://github.com/ZacharyZhang-NY/Ely-GPUI-Components",
+        "description": "A component library for GPUI, in light and dark. Every component runs live in the browser.",
+        "language": "Rust",
+        "stars": 594,
+        "created_at": "2026-09-30T04:03:37Z"
+      },
+      {
+        "name": "pingdotgg/ts-rust",
+        "url": "https://github.com/pingdotgg/ts-rust",
+        "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
+        "language": "Rust",
+        "stars": 368,
+        "created_at": "2026-10-07T05:17:07Z"
+      }
+    ],
+    "Go": [
+      {
+        "name": "mizorewww/x_gift_bot",
+        "url": "https://github.com/mizorewww/x_gift_bot",
+        "description": "X Premium gift CLI and redemption site",
+        "language": "Go",
+        "stars": 902,
+        "created_at": "2026-10-02T10:29:43Z"
+      },
+      {
+        "name": "jiwoochris/artex-ko",
+        "url": "https://github.com/jiwoochris/artex-ko",
+        "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7 AI \uc790\uc728 \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud504\ub808\uc784\uc6cc\ud06c \ud604\uc9c0\ud654 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+        "language": "Go",
+        "stars": 233,
+        "created_at": "2026-10-03T14:49:48Z"
+      },
+      {
+        "name": "Stellar-Pathfinder/stellar-pathfinder",
+        "url": "https://github.com/Stellar-Pathfinder/stellar-pathfinder",
+        "description": "A corridor-integrity monitor for the Stellar network. Prices stablecoin\u2192fiat-token corridors, scores routes against independent reference rates, and refuses to recommend when all options are unusable. Features wallet integration (Freighter/Albedo) and on-chain attestations via Soroban smart contracts.",
+        "language": "Go",
+        "stars": 130,
+        "created_at": "2026-10-06T20:24:40Z"
+      },
+      {
+        "name": "egoist/godiff",
+        "url": "https://github.com/egoist/godiff",
+        "description": "Fast native diff viewer",
+        "language": "Go",
+        "stars": 109,
+        "created_at": "2026-10-04T16:10:38Z"
+      },
+      {
+        "name": "MatinSenPai/Gemini-Config-Checker",
+        "url": "https://github.com/MatinSenPai/Gemini-Config-Checker",
+        "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+        "language": "Go",
+        "stars": 105,
+        "created_at": "2026-10-03T15:08:10Z"
+      },
+      {
+        "name": "hashcott/ghostline",
+        "url": "https://github.com/hashcott/ghostline",
+        "description": "One-click encrypted DNS (DoH/DoT/DoQ/DNSCrypt), DPI bypass with zapret2 or GoodbyeDPI, a local HTTP/SOCKS proxy with TLS fragmentation, and domain rules for Windows. ~30 MB RAM in the tray, no telemetry, always restores your original DNS. For research and educational use.",
+        "language": "Go",
+        "stars": 80,
+        "created_at": "2026-10-04T06:13:58Z"
+      },
+      {
+        "name": "Tuskira/ai-agent-gateway",
+        "url": "https://github.com/Tuskira/ai-agent-gateway",
+        "description": "AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
+        "language": "Go",
+        "stars": 69,
+        "created_at": "2026-10-01T11:32:10Z"
+      },
+      {
+        "name": "LAGcomcom/zen-gate",
+        "url": "https://github.com/LAGcomcom/zen-gate",
+        "description": "\u628a OpenCode Zen \u514d\u8d39\u6a21\u578b\u88c5\u8fdb\u4f60\u6240\u6709\u7684 AI Agent \u2014\u2014 Windows \u6258\u76d8\u7f51\u5173\uff0cOpenAI/Anthropic \u517c\u5bb9\uff0c\u81ea\u52a8\u9002\u914d 10+ Agent\uff0c\u9650\u6d41\u81ea\u52a8\u5207\u6362",
+        "language": "Go",
+        "stars": 56,
+        "created_at": "2026-10-04T07:32:31Z"
+      },
+      {
+        "name": "egoist/gorex",
+        "url": "https://github.com/egoist/gorex",
+        "description": "Rex terminal clone in MyGo native UI",
+        "language": "Go",
+        "stars": 51,
+        "created_at": "2026-10-05T18:04:34Z"
+      },
+      {
+        "name": "nullism/trunkcms",
+        "url": "https://github.com/nullism/trunkcms",
+        "description": "A small, stateless blog engine in Go. Content lives in a GitHub repo.",
+        "language": "Go",
+        "stars": 47,
+        "created_at": "2026-09-30T23:50:05Z"
+      }
+    ]
+  }
+}
