@@ -2,24 +2,24 @@
 
 A weekday archive of the fastest-rising **new** GitHub repositories (created in the last 7 days, ranked by stars), collected automatically by GitHub Actions.
 
-**Last updated:** 2026-10-06 · **Days archived:** 22
+**Last updated:** 2026-10-07 · **Days archived:** 23
 
 ## Today's top new repos
 
 | # | Repo | ⭐ | Description |
 |---|---|---|---|
-| 1 | [storytold/photocraft](https://github.com/storytold/photocraft) | 4,486 | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust |
-| 2 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 4,474 | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC ga... |
-| 3 | [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | 3,895 | Your always-on AI coworkers that move between text, calls, and Slack. |
-| 4 | [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) | 2,975 | Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible. |
-| 5 | [feder-cr/dots](https://github.com/feder-cr/dots) | 2,630 | Open-source dots for the web: an AI agent with its own browser, one that does not get blocked. |
-| 6 | [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) | 2,433 | A Claude Code plugin that helps you learn how to build while AI writes the code. |
-| 7 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 1,744 | Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can act... |
-| 8 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | 1,589 | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Jap... |
-| 9 | [kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm) | 1,571 |  |
-| 10 | [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) | 1,527 | Open source SDK to build Muse gadgets |
+| 1 | [storytold/photocraft](https://github.com/storytold/photocraft) | 15,556 | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust |
+| 2 | [openai/math](https://github.com/openai/math) | 8,927 |  |
+| 3 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 5,103 | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC ga... |
+| 4 | [storytold/filmcraft](https://github.com/storytold/filmcraft) | 3,013 | An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust. |
+| 5 | [storytold/lightcraft](https://github.com/storytold/lightcraft) | 2,709 | An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust. |
+| 6 | [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | 2,094 | An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust |
+| 7 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 2,023 | Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can act... |
+| 8 | [storytold/vectorcraft](https://github.com/storytold/vectorcraft) | 2,004 | An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust. |
+| 9 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | 1,698 | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Jap... |
+| 10 | [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) | 1,644 | Open source SDK to build Muse gadgets |
 
-More languages: [`data/2026/10/2026-10-06.md`](data/2026/10/2026-10-06.md)
+More languages: [`data/2026/10/2026-10-07.md`](data/2026/10/2026-10-07.md)
 
 ## How it works
 
