@@ -1,0 +1,416 @@
+{
+  "date": "2026-10-08",
+  "window_start": "2026-10-01",
+  "categories": {
+    "All languages": [
+      {
+        "name": "openai/math",
+        "url": "https://github.com/openai/math",
+        "description": "",
+        "language": "Lean",
+        "stars": 11909,
+        "created_at": "2026-10-06T21:47:02Z"
+      },
+      {
+        "name": "storytold/effectcraft",
+        "url": "https://github.com/storytold/effectcraft",
+        "description": "",
+        "language": "Rust",
+        "stars": 2544,
+        "created_at": "2026-10-01T14:24:46Z"
+      },
+      {
+        "name": "alchaincyf/huashu-art-motion",
+        "url": "https://github.com/alchaincyf/huashu-art-motion",
+        "description": "\u827a\u672f\u52a8\u753bskill\uff1a35\u79cd\u827a\u672f\u98ce\u683c\u30019\u79cd\u89e3\u8bf4\u8bed\u6cd5\uff0c\u7528\u4ee3\u7801\u8ba9\u753b\u52a8\u8d77\u6765\u3002",
+        "language": "JavaScript",
+        "stars": 2393,
+        "created_at": "2026-10-06T04:49:37Z"
+      },
+      {
+        "name": "QingYunA/answer-me-with-html",
+        "url": "https://github.com/QingYunA/answer-me-with-html",
+        "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
+        "language": "JavaScript",
+        "stars": 2319,
+        "created_at": "2026-10-02T09:57:40Z"
+      },
+      {
+        "name": "deadinside28/bloodborne_pc",
+        "url": "https://github.com/deadinside28/bloodborne_pc",
+        "description": "",
+        "language": "C++",
+        "stars": 1892,
+        "created_at": "2026-10-01T05:50:31Z"
+      },
+      {
+        "name": "facebookincubator/muse-gadget-sdk",
+        "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+        "description": "Open source SDK to build Muse gadgets",
+        "language": "C",
+        "stars": 1785,
+        "created_at": "2026-10-02T18:21:23Z"
+      },
+      {
+        "name": "kargulstudio/sales-crm",
+        "url": "https://github.com/kargulstudio/sales-crm",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 1653,
+        "created_at": "2026-10-04T10:55:58Z"
+      },
+      {
+        "name": "storytold/designcraft",
+        "url": "https://github.com/storytold/designcraft",
+        "description": "",
+        "language": "Rust",
+        "stars": 1532,
+        "created_at": "2026-10-01T13:13:14Z"
+      },
+      {
+        "name": "lucasmarkes/hairline",
+        "url": "https://github.com/lucasmarkes/hairline",
+        "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
+        "language": "TypeScript",
+        "stars": 1308,
+        "created_at": "2026-10-01T13:52:19Z"
+      },
+      {
+        "name": "mizorewww/x_gift_bot",
+        "url": "https://github.com/mizorewww/x_gift_bot",
+        "description": "X Premium gift CLI and redemption site",
+        "language": "Go",
+        "stars": 1075,
+        "created_at": "2026-10-02T10:29:43Z"
+      }
+    ],
+    "Python": [
+      {
+        "name": "Jakeschincariol/replica-skill",
+        "url": "https://github.com/Jakeschincariol/replica-skill",
+        "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+        "language": "Python",
+        "stars": 1038,
+        "created_at": "2026-10-03T12:07:49Z"
+      },
+      {
+        "name": "StayLameBro/backburner",
+        "url": "https://github.com/StayLameBro/backburner",
+        "description": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
+        "language": "Python",
+        "stars": 889,
+        "created_at": "2026-10-01T20:59:56Z"
+      },
+      {
+        "name": "szabadkai/c64-keyboard-font",
+        "url": "https://github.com/szabadkai/c64-keyboard-font",
+        "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+        "language": "Python",
+        "stars": 552,
+        "created_at": "2026-10-05T11:03:06Z"
+      },
+      {
+        "name": "BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo",
+        "url": "https://github.com/BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo",
+        "description": "Real-time browser demo for Talk Like You",
+        "language": "Python",
+        "stars": 524,
+        "created_at": "2026-10-04T05:57:06Z"
+      },
+      {
+        "name": "zzzz7788990213-ops/EvoVLM",
+        "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
+        "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+        "language": "Python",
+        "stars": 508,
+        "created_at": "2026-10-02T01:03:55Z"
+      },
+      {
+        "name": "Vincentwei1021/mg-styles-15",
+        "url": "https://github.com/Vincentwei1021/mg-styles-15",
+        "description": "15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
+        "language": "Python",
+        "stars": 477,
+        "created_at": "2026-10-02T09:43:06Z"
+      },
+      {
+        "name": "LosaLosSantos/aurelio-finance",
+        "url": "https://github.com/LosaLosSantos/aurelio-finance",
+        "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+        "language": "Python",
+        "stars": 356,
+        "created_at": "2026-10-06T20:14:19Z"
+      },
+      {
+        "name": "BootLoops-ai/bootloops",
+        "url": "https://github.com/BootLoops-ai/bootloops",
+        "description": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
+        "language": "Python",
+        "stars": 317,
+        "created_at": "2026-10-01T15:29:28Z"
+      },
+      {
+        "name": "hezhanleiok/gate",
+        "url": "https://github.com/hezhanleiok/gate",
+        "description": "",
+        "language": "Python",
+        "stars": 294,
+        "created_at": "2026-10-01T03:04:26Z"
+      },
+      {
+        "name": "zhongerxin/iPhone-use",
+        "url": "https://github.com/zhongerxin/iPhone-use",
+        "description": "\u8ba9 Codex \u901a\u8fc7 USB \u64cd\u4f5c\u771f\u5b9e iPhone\uff1a\u5f15\u5bfc\u5b89\u88c5\u3001App \u81ea\u52a8\u5316\u3001\u5b9e\u65f6\u5c4f\u5e55\u4e0e\u622a\u56fe\u56de\u9000\u3002",
+        "language": "Python",
+        "stars": 263,
+        "created_at": "2026-10-06T15:09:33Z"
+      }
+    ],
+    "TypeScript": [
+      {
+        "name": "kargulstudio/sales-crm",
+        "url": "https://github.com/kargulstudio/sales-crm",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 1653,
+        "created_at": "2026-10-04T10:55:58Z"
+      },
+      {
+        "name": "lucasmarkes/hairline",
+        "url": "https://github.com/lucasmarkes/hairline",
+        "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
+        "language": "TypeScript",
+        "stars": 1308,
+        "created_at": "2026-10-01T13:52:19Z"
+      },
+      {
+        "name": "rauchg/gdp-ts",
+        "url": "https://github.com/rauchg/gdp-ts",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 760,
+        "created_at": "2026-10-04T18:55:18Z"
+      },
+      {
+        "name": "bas3line/ascii",
+        "url": "https://github.com/bas3line/ascii",
+        "description": "Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
+        "language": "TypeScript",
+        "stars": 578,
+        "created_at": "2026-10-07T06:48:54Z"
+      },
+      {
+        "name": "shinshin86/mesh-avatar-studio",
+        "url": "https://github.com/shinshin86/mesh-avatar-studio",
+        "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+        "language": "TypeScript",
+        "stars": 503,
+        "created_at": "2026-10-04T03:33:57Z"
+      },
+      {
+        "name": "whirlchat/whirl",
+        "url": "https://github.com/whirlchat/whirl",
+        "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+        "language": "TypeScript",
+        "stars": 502,
+        "created_at": "2026-10-02T13:50:42Z"
+      },
+      {
+        "name": "genex-games/genex-desktop",
+        "url": "https://github.com/genex-games/genex-desktop",
+        "description": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
+        "language": "TypeScript",
+        "stars": 453,
+        "created_at": "2026-10-02T17:17:59Z"
+      },
+      {
+        "name": "openqodex/openqodex",
+        "url": "https://github.com/openqodex/openqodex",
+        "description": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner finding and is given every changed line. No other API key.",
+        "language": "TypeScript",
+        "stars": 419,
+        "created_at": "2026-10-02T06:19:06Z"
+      },
+      {
+        "name": "gatewai-dev/framefields",
+        "url": "https://github.com/gatewai-dev/framefields",
+        "description": "Code-first video, rendered natively on WebGPU.",
+        "language": "TypeScript",
+        "stars": 328,
+        "created_at": "2026-10-02T20:52:53Z"
+      },
+      {
+        "name": "cosscom/shipyard",
+        "url": "https://github.com/cosscom/shipyard",
+        "description": "Run coding agents on your dev boxes: worktrees, terminals, orchestration, kits and automations, with a desktop app.",
+        "language": "TypeScript",
+        "stars": 282,
+        "created_at": "2026-10-02T19:49:23Z"
+      }
+    ],
+    "Rust": [
+      {
+        "name": "storytold/effectcraft",
+        "url": "https://github.com/storytold/effectcraft",
+        "description": "",
+        "language": "Rust",
+        "stars": 2544,
+        "created_at": "2026-10-01T14:24:46Z"
+      },
+      {
+        "name": "storytold/designcraft",
+        "url": "https://github.com/storytold/designcraft",
+        "description": "",
+        "language": "Rust",
+        "stars": 1532,
+        "created_at": "2026-10-01T13:13:14Z"
+      },
+      {
+        "name": "nullmoth/nvidia-macos-driver",
+        "url": "https://github.com/nullmoth/nvidia-macos-driver",
+        "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+        "language": "Rust",
+        "stars": 886,
+        "created_at": "2026-10-07T08:13:12Z"
+      },
+      {
+        "name": "storytold/wordcraft",
+        "url": "https://github.com/storytold/wordcraft",
+        "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+        "language": "Rust",
+        "stars": 709,
+        "created_at": "2026-10-07T08:34:24Z"
+      },
+      {
+        "name": "elstongun/leviathan",
+        "url": "https://github.com/elstongun/leviathan",
+        "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+        "language": "Rust",
+        "stars": 693,
+        "created_at": "2026-10-05T08:57:44Z"
+      },
+      {
+        "name": "pingdotgg/ts-rust",
+        "url": "https://github.com/pingdotgg/ts-rust",
+        "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
+        "language": "Rust",
+        "stars": 671,
+        "created_at": "2026-10-07T05:17:07Z"
+      },
+      {
+        "name": "storytold/cadcraft",
+        "url": "https://github.com/storytold/cadcraft",
+        "description": "CADCraft: computer-aided design and drafting \u2014 an open-source, clean-room AutoCAD-style app in pure Rust",
+        "language": "Rust",
+        "stars": 645,
+        "created_at": "2026-10-07T05:22:31Z"
+      },
+      {
+        "name": "storytold/soundcraft",
+        "url": "https://github.com/storytold/soundcraft",
+        "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+        "language": "Rust",
+        "stars": 457,
+        "created_at": "2026-10-07T08:31:31Z"
+      },
+      {
+        "name": "storytold/gridcraft",
+        "url": "https://github.com/storytold/gridcraft",
+        "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+        "language": "Rust",
+        "stars": 451,
+        "created_at": "2026-10-07T05:18:16Z"
+      },
+      {
+        "name": "storytold/deckcraft",
+        "url": "https://github.com/storytold/deckcraft",
+        "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+        "language": "Rust",
+        "stars": 390,
+        "created_at": "2026-10-07T05:27:21Z"
+      }
+    ],
+    "Go": [
+      {
+        "name": "mizorewww/x_gift_bot",
+        "url": "https://github.com/mizorewww/x_gift_bot",
+        "description": "X Premium gift CLI and redemption site",
+        "language": "Go",
+        "stars": 1075,
+        "created_at": "2026-10-02T10:29:43Z"
+      },
+      {
+        "name": "jiwoochris/artex-ko",
+        "url": "https://github.com/jiwoochris/artex-ko",
+        "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7 AI \uc790\uc728 \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud504\ub808\uc784\uc6cc\ud06c \ud604\uc9c0\ud654 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+        "language": "Go",
+        "stars": 658,
+        "created_at": "2026-10-03T14:49:48Z"
+      },
+      {
+        "name": "mhtsec/ARTEX",
+        "url": "https://github.com/mhtsec/ARTEX",
+        "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
+        "language": "Go",
+        "stars": 657,
+        "created_at": "2026-10-08T05:33:06Z"
+      },
+      {
+        "name": "cskwork/scopeweaver",
+        "url": "https://github.com/cskwork/scopeweaver",
+        "description": "ScopeWeaver: English and Korean localization of ARTEX, with preserved AGPL-3.0 attribution.",
+        "language": "Go",
+        "stars": 150,
+        "created_at": "2026-10-02T14:58:04Z"
+      },
+      {
+        "name": "Stellar-Pathfinder/stellar-pathfinder",
+        "url": "https://github.com/Stellar-Pathfinder/stellar-pathfinder",
+        "description": "A corridor-integrity monitor for the Stellar network. Prices stablecoin\u2192fiat-token corridors, scores routes against independent reference rates, and refuses to recommend when all options are unusable. Features wallet integration (Freighter/Albedo) and on-chain attestations via Soroban smart contracts.",
+        "language": "Go",
+        "stars": 131,
+        "created_at": "2026-10-06T20:24:40Z"
+      },
+      {
+        "name": "MatinSenPai/Gemini-Config-Checker",
+        "url": "https://github.com/MatinSenPai/Gemini-Config-Checker",
+        "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+        "language": "Go",
+        "stars": 110,
+        "created_at": "2026-10-03T15:08:10Z"
+      },
+      {
+        "name": "egoist/godiff",
+        "url": "https://github.com/egoist/godiff",
+        "description": "Fast native diff viewer",
+        "language": "Go",
+        "stars": 110,
+        "created_at": "2026-10-04T16:10:38Z"
+      },
+      {
+        "name": "hashcott/ghostline",
+        "url": "https://github.com/hashcott/ghostline",
+        "description": "One-click encrypted DNS (DoH/DoT/DoQ/DNSCrypt), DPI bypass with zapret2 or GoodbyeDPI, a local HTTP/SOCKS proxy with TLS fragmentation, and domain rules for Windows. ~30 MB RAM in the tray, no telemetry, always restores your original DNS. For research and educational use.",
+        "language": "Go",
+        "stars": 89,
+        "created_at": "2026-10-04T06:13:58Z"
+      },
+      {
+        "name": "egoist/gorex",
+        "url": "https://github.com/egoist/gorex",
+        "description": "Rex terminal clone in MyGo native UI",
+        "language": "Go",
+        "stars": 77,
+        "created_at": "2026-10-05T18:04:34Z"
+      },
+      {
+        "name": "JinHo-von-Choi/anti-samcheonpo",
+        "url": "https://github.com/JinHo-von-Choi/anti-samcheonpo",
+        "description": "AI \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8\uc758 \ud5db\uc9d3(\uacfc\uc789 \uac80\uc99d\u00b7\ub9e5\ub77d \uc774\ud0c8\u00b7\ubb34\ud55c \ub8e8\ud504\u00b7\ud5c8\uc704 \uc644\ub8cc)\uc744 \uac10\uc9c0\u00b7\uacbd\uace0\u00b7\ucc28\ub2e8\ud558\ub294 \ud558\ub124\uc2a4 / A harness that catches AI coding agents wasting time and money",
+        "language": "Go",
+        "stars": 76,
+        "created_at": "2026-10-07T02:32:48Z"
+      }
+    ]
+  }
+}
