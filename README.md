@@ -2,24 +2,24 @@
 
 A weekday archive of the fastest-rising **new** GitHub repositories (created in the last 7 days, ranked by stars), collected automatically by GitHub Actions.
 
-**Last updated:** 2026-10-08 · **Days archived:** 24
+**Last updated:** 2026-10-09 · **Days archived:** 25
 
 ## Today's top new repos
 
 | # | Repo | ⭐ | Description |
 |---|---|---|---|
-| 1 | [openai/math](https://github.com/openai/math) | 11,909 |  |
-| 2 | [storytold/effectcraft](https://github.com/storytold/effectcraft) | 2,544 |  |
-| 3 | [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 2,393 | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
-| 4 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 2,319 | Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can act... |
-| 5 | [deadinside28/bloodborne_pc](https://github.com/deadinside28/bloodborne_pc) | 1,892 |  |
-| 6 | [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) | 1,785 | Open source SDK to build Muse gadgets |
-| 7 | [kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm) | 1,653 |  |
-| 8 | [storytold/designcraft](https://github.com/storytold/designcraft) | 1,532 |  |
-| 9 | [lucasmarkes/hairline](https://github.com/lucasmarkes/hairline) | 1,308 | Six isometric line figures that answer the pointer. For React and for anything with a DOM. |
-| 10 | [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot) | 1,075 | X Premium gift CLI and redemption site |
+| 1 | [openai/math](https://github.com/openai/math) | 12,971 |  |
+| 2 | [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 2,844 | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
+| 3 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 2,486 | Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can act... |
+| 4 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | 2,095 | AI 自主渗透测试系统 \| 百度“agent+”攻防挑战赛冠军项目 |
+| 5 | [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) | 1,881 | Open source SDK to build Muse gadgets |
+| 6 | [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) | 1,797 | Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source in... |
+| 7 | [kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm) | 1,672 |  |
+| 8 | [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | 1,636 | 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。 |
+| 9 | [storytold/wordcraft](https://github.com/storytold/wordcraft) | 1,552 | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
+| 10 | [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) | 1,328 | Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, ... |
 
-More languages: [`data/2026/10/2026-10-08.md`](data/2026/10/2026-10-08.md)
+More languages: [`data/2026/10/2026-10-09.md`](data/2026/10/2026-10-09.md)
 
 ## How it works
 
