@@ -1,0 +1,416 @@
+{
+  "date": "2026-10-12",
+  "window_start": "2026-10-05",
+  "categories": {
+    "All languages": [
+      {
+        "name": "openai/math",
+        "url": "https://github.com/openai/math",
+        "description": "",
+        "language": "Lean",
+        "stars": 14403,
+        "created_at": "2026-10-06T21:47:02Z"
+      },
+      {
+        "name": "storytold/wordcraft",
+        "url": "https://github.com/storytold/wordcraft",
+        "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+        "language": "Rust",
+        "stars": 8956,
+        "created_at": "2026-10-07T08:34:24Z"
+      },
+      {
+        "name": "wheresryan22/anatomy",
+        "url": "https://github.com/wheresryan22/anatomy",
+        "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+        "language": "JavaScript",
+        "stars": 6040,
+        "created_at": "2026-10-08T10:12:49Z"
+      },
+      {
+        "name": "storytold/gridcraft",
+        "url": "https://github.com/storytold/gridcraft",
+        "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+        "language": "Rust",
+        "stars": 3770,
+        "created_at": "2026-10-07T05:18:16Z"
+      },
+      {
+        "name": "alchaincyf/huashu-art-motion",
+        "url": "https://github.com/alchaincyf/huashu-art-motion",
+        "description": "\u827a\u672f\u52a8\u753bskill\uff1a35\u79cd\u827a\u672f\u98ce\u683c\u30019\u79cd\u89e3\u8bf4\u8bed\u6cd5\uff0c\u7528\u4ee3\u7801\u8ba9\u753b\u52a8\u8d77\u6765\u3002",
+        "language": "JavaScript",
+        "stars": 3603,
+        "created_at": "2026-10-06T04:49:37Z"
+      },
+      {
+        "name": "mhtsec/ARTEX",
+        "url": "https://github.com/mhtsec/ARTEX",
+        "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
+        "language": "Go",
+        "stars": 3554,
+        "created_at": "2026-10-08T05:33:06Z"
+      },
+      {
+        "name": "storytold/cadcraft",
+        "url": "https://github.com/storytold/cadcraft",
+        "description": "CADCraft: computer-aided design and drafting \u2014 an open-source, clean-room AutoCAD-style app in pure Rust",
+        "language": "Rust",
+        "stars": 3409,
+        "created_at": "2026-10-07T05:22:31Z"
+      },
+      {
+        "name": "zhongerxin/iPhone-use",
+        "url": "https://github.com/zhongerxin/iPhone-use",
+        "description": "\u8ba9 Codex \u901a\u8fc7 USB \u64cd\u4f5c\u771f\u5b9e iPhone\uff1a\u5f15\u5bfc\u5b89\u88c5\u3001App \u81ea\u52a8\u5316\u3001\u5b9e\u65f6\u5c4f\u5e55\u4e0e\u622a\u56fe\u56de\u9000\u3002",
+        "language": "Python",
+        "stars": 3347,
+        "created_at": "2026-10-06T15:09:33Z"
+      },
+      {
+        "name": "LosaLosSantos/aurelio-finance",
+        "url": "https://github.com/LosaLosSantos/aurelio-finance",
+        "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+        "language": "Python",
+        "stars": 2808,
+        "created_at": "2026-10-06T20:14:19Z"
+      },
+      {
+        "name": "nullmoth/nvidia-macos-driver",
+        "url": "https://github.com/nullmoth/nvidia-macos-driver",
+        "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+        "language": "Rust",
+        "stars": 2728,
+        "created_at": "2026-10-07T08:13:12Z"
+      }
+    ],
+    "Python": [
+      {
+        "name": "zhongerxin/iPhone-use",
+        "url": "https://github.com/zhongerxin/iPhone-use",
+        "description": "\u8ba9 Codex \u901a\u8fc7 USB \u64cd\u4f5c\u771f\u5b9e iPhone\uff1a\u5f15\u5bfc\u5b89\u88c5\u3001App \u81ea\u52a8\u5316\u3001\u5b9e\u65f6\u5c4f\u5e55\u4e0e\u622a\u56fe\u56de\u9000\u3002",
+        "language": "Python",
+        "stars": 3347,
+        "created_at": "2026-10-06T15:09:33Z"
+      },
+      {
+        "name": "LosaLosSantos/aurelio-finance",
+        "url": "https://github.com/LosaLosSantos/aurelio-finance",
+        "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+        "language": "Python",
+        "stars": 2808,
+        "created_at": "2026-10-06T20:14:19Z"
+      },
+      {
+        "name": "academa-labs/manimgx",
+        "url": "https://github.com/academa-labs/manimgx",
+        "description": "The animation engine for agents: blazingly fast math and 3D videos with Manim's Python API, on a Rust GPU core.",
+        "language": "Python",
+        "stars": 936,
+        "created_at": "2026-10-05T20:57:05Z"
+      },
+      {
+        "name": "wesbos/photo-frame-dashboard",
+        "url": "https://github.com/wesbos/photo-frame-dashboard",
+        "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+        "language": "Python",
+        "stars": 934,
+        "created_at": "2026-10-08T18:22:19Z"
+      },
+      {
+        "name": "sirioberati/Genjustsu-Open-Source-Workflow",
+        "url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
+        "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
+        "language": "Python",
+        "stars": 726,
+        "created_at": "2026-10-06T23:18:18Z"
+      },
+      {
+        "name": "n1tr00-10/tiktok-web-signature",
+        "url": "https://github.com/n1tr00-10/tiktok-web-signature",
+        "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
+        "language": "Python",
+        "stars": 711,
+        "created_at": "2026-10-09T19:30:14Z"
+      },
+      {
+        "name": "szabadkai/c64-keyboard-font",
+        "url": "https://github.com/szabadkai/c64-keyboard-font",
+        "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+        "language": "Python",
+        "stars": 608,
+        "created_at": "2026-10-05T11:03:06Z"
+      },
+      {
+        "name": "zhuyansen/new-term-radar",
+        "url": "https://github.com/zhuyansen/new-term-radar",
+        "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+        "language": "Python",
+        "stars": 510,
+        "created_at": "2026-10-12T07:11:01Z"
+      },
+      {
+        "name": "onehumanbeing/esp32-iphone-agent",
+        "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+        "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+        "language": "Python",
+        "stars": 503,
+        "created_at": "2026-10-11T19:10:25Z"
+      },
+      {
+        "name": "jwuthri-cloud/Tracely-ai",
+        "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+        "description": "",
+        "language": "Python",
+        "stars": 481,
+        "created_at": "2026-10-11T15:38:03Z"
+      }
+    ],
+    "TypeScript": [
+      {
+        "name": "HelixDB/helix-foundry",
+        "url": "https://github.com/HelixDB/helix-foundry",
+        "description": "Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
+        "language": "TypeScript",
+        "stars": 1331,
+        "created_at": "2026-10-07T05:10:45Z"
+      },
+      {
+        "name": "rociiu/talorys",
+        "url": "https://github.com/rociiu/talorys",
+        "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+        "language": "TypeScript",
+        "stars": 891,
+        "created_at": "2026-10-10T09:46:56Z"
+      },
+      {
+        "name": "bas3line/ascii",
+        "url": "https://github.com/bas3line/ascii",
+        "description": "Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
+        "language": "TypeScript",
+        "stars": 802,
+        "created_at": "2026-10-07T06:48:54Z"
+      },
+      {
+        "name": "shaongitbd/doory",
+        "url": "https://github.com/shaongitbd/doory",
+        "description": "Open source canva alternative",
+        "language": "TypeScript",
+        "stars": 770,
+        "created_at": "2026-10-10T00:03:25Z"
+      },
+      {
+        "name": "ThariqS/ai-newtab",
+        "url": "https://github.com/ThariqS/ai-newtab",
+        "description": "Claude generates a daily new tab page based on your browser history.",
+        "language": "TypeScript",
+        "stars": 765,
+        "created_at": "2026-10-08T17:44:43Z"
+      },
+      {
+        "name": "iamlukethedev/Herald-OS",
+        "url": "https://github.com/iamlukethedev/Herald-OS",
+        "description": "An agent-native operating system, with Hermes Agent as the interface. Independent project, not affiliated with Nous Research.",
+        "language": "TypeScript",
+        "stars": 451,
+        "created_at": "2026-10-06T20:37:44Z"
+      },
+      {
+        "name": "marmottajr/habblaud",
+        "url": "https://github.com/marmottajr/habblaud",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 405,
+        "created_at": "2026-10-06T15:41:06Z"
+      },
+      {
+        "name": "Glass-HQ/liquid-glass",
+        "url": "https://github.com/Glass-HQ/liquid-glass",
+        "description": "Liquid Glass materials for web and Electron, built with vgpu.",
+        "language": "TypeScript",
+        "stars": 380,
+        "created_at": "2026-10-06T00:23:48Z"
+      },
+      {
+        "name": "thesysdev/open-intelligent-ui",
+        "url": "https://github.com/thesysdev/open-intelligent-ui",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 344,
+        "created_at": "2026-10-08T05:37:45Z"
+      },
+      {
+        "name": "Shyboy0499/antibody",
+        "url": "https://github.com/Shyboy0499/antibody",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 295,
+        "created_at": "2026-10-05T02:08:17Z"
+      }
+    ],
+    "Rust": [
+      {
+        "name": "storytold/wordcraft",
+        "url": "https://github.com/storytold/wordcraft",
+        "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+        "language": "Rust",
+        "stars": 8956,
+        "created_at": "2026-10-07T08:34:24Z"
+      },
+      {
+        "name": "storytold/gridcraft",
+        "url": "https://github.com/storytold/gridcraft",
+        "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+        "language": "Rust",
+        "stars": 3770,
+        "created_at": "2026-10-07T05:18:16Z"
+      },
+      {
+        "name": "storytold/cadcraft",
+        "url": "https://github.com/storytold/cadcraft",
+        "description": "CADCraft: computer-aided design and drafting \u2014 an open-source, clean-room AutoCAD-style app in pure Rust",
+        "language": "Rust",
+        "stars": 3409,
+        "created_at": "2026-10-07T05:22:31Z"
+      },
+      {
+        "name": "nullmoth/nvidia-macos-driver",
+        "url": "https://github.com/nullmoth/nvidia-macos-driver",
+        "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+        "language": "Rust",
+        "stars": 2728,
+        "created_at": "2026-10-07T08:13:12Z"
+      },
+      {
+        "name": "storytold/deckcraft",
+        "url": "https://github.com/storytold/deckcraft",
+        "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+        "language": "Rust",
+        "stars": 2546,
+        "created_at": "2026-10-07T05:27:21Z"
+      },
+      {
+        "name": "storytold/soundcraft",
+        "url": "https://github.com/storytold/soundcraft",
+        "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+        "language": "Rust",
+        "stars": 2228,
+        "created_at": "2026-10-07T08:31:31Z"
+      },
+      {
+        "name": "noahdunnagan/fsearch",
+        "url": "https://github.com/noahdunnagan/fsearch",
+        "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+        "language": "Rust",
+        "stars": 1961,
+        "created_at": "2026-10-08T17:50:33Z"
+      },
+      {
+        "name": "storytold/craft-launcher",
+        "url": "https://github.com/storytold/craft-launcher",
+        "description": "The Craft App Launcher",
+        "language": "Rust",
+        "stars": 1774,
+        "created_at": "2026-10-09T23:21:59Z"
+      },
+      {
+        "name": "liseami/CCBaga",
+        "url": "https://github.com/liseami/CCBaga",
+        "description": "",
+        "language": "Rust",
+        "stars": 1573,
+        "created_at": "2026-10-11T03:47:06Z"
+      },
+      {
+        "name": "pingdotgg/ts-rust",
+        "url": "https://github.com/pingdotgg/ts-rust",
+        "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
+        "language": "Rust",
+        "stars": 1120,
+        "created_at": "2026-10-07T05:17:07Z"
+      }
+    ],
+    "Go": [
+      {
+        "name": "mhtsec/ARTEX",
+        "url": "https://github.com/mhtsec/ARTEX",
+        "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
+        "language": "Go",
+        "stars": 3554,
+        "created_at": "2026-10-08T05:33:06Z"
+      },
+      {
+        "name": "Hinln/ARTEX",
+        "url": "https://github.com/Hinln/ARTEX",
+        "description": "ARTEX \u6e90\u7801\u5907\u4efd\uff1a\u57fa\u4e8e Autumn-27/ARTEX v0.3.15\uff0c\u4fdd\u7559\u539f\u59cb\u63d0\u4ea4\u5386\u53f2\u4e0e AGPL-3.0 \u8bb8\u53ef\u8bc1\u3002",
+        "language": "Go",
+        "stars": 727,
+        "created_at": "2026-10-08T11:00:36Z"
+      },
+      {
+        "name": "trhhubsd/ARTEXX",
+        "url": "https://github.com/trhhubsd/ARTEXX",
+        "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee Autumn-27/ARTEX",
+        "language": "Go",
+        "stars": 466,
+        "created_at": "2026-10-08T20:35:22Z"
+      },
+      {
+        "name": "aindeev/agent-chrome-relay",
+        "url": "https://github.com/aindeev/agent-chrome-relay",
+        "description": "Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev \u00b7 blog: read.aindeev.com \u00b7 X: @AlexeyIndeev",
+        "language": "Go",
+        "stars": 256,
+        "created_at": "2026-10-10T07:38:27Z"
+      },
+      {
+        "name": "jdx/jactionlint",
+        "url": "https://github.com/jdx/jactionlint",
+        "description": ":octocat: Static checker for GitHub Actions workflow files",
+        "language": "Go",
+        "stars": 219,
+        "created_at": "2026-10-05T00:42:21Z"
+      },
+      {
+        "name": "bdg9412/artex-ko-plus",
+        "url": "https://github.com/bdg9412/artex-ko-plus",
+        "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7AI \uae30\ubc18 \uce68\ud574\uc0ac\uace0 \ub300\uc751 \uae30\ub2a5 \ucd94\uac00 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+        "language": "Go",
+        "stars": 165,
+        "created_at": "2026-10-09T11:36:03Z"
+      },
+      {
+        "name": "RuoJi6/ARTEX",
+        "url": "https://github.com/RuoJi6/ARTEX",
+        "description": "Autumn-27/ARTEX \u4e8c\u5f00",
+        "language": "Go",
+        "stars": 155,
+        "created_at": "2026-10-09T00:56:36Z"
+      },
+      {
+        "name": "alex0ptr/once",
+        "url": "https://github.com/alex0ptr/once",
+        "description": "Run a command once, reuse its output for a while.",
+        "language": "Go",
+        "stars": 153,
+        "created_at": "2026-10-08T19:51:28Z"
+      },
+      {
+        "name": "Stellar-Pathfinder/stellar-pathfinder",
+        "url": "https://github.com/Stellar-Pathfinder/stellar-pathfinder",
+        "description": "A corridor-integrity monitor for the Stellar network. Prices stablecoin\u2192fiat-token corridors, scores routes against independent reference rates, and refuses to recommend when all options are unusable. Features wallet integration (Freighter/Albedo) and on-chain attestations via Soroban smart contracts.",
+        "language": "Go",
+        "stars": 131,
+        "created_at": "2026-10-06T20:24:40Z"
+      },
+      {
+        "name": "kutukam/autonomous-pentest-agent",
+        "url": "https://github.com/kutukam/autonomous-pentest-agent",
+        "description": "Autonomous Pentest Agent \u2014 LLM multi-agent autonomous penetration testing system (Go backend + Next.js UI). AGPL-3.0.",
+        "language": "Go",
+        "stars": 126,
+        "created_at": "2026-10-08T18:47:12Z"
+      }
+    ]
+  }
+}
