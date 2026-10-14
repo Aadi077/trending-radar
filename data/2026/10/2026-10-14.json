@@ -1,0 +1,416 @@
+{
+  "date": "2026-10-14",
+  "window_start": "2026-10-07",
+  "categories": {
+    "All languages": [
+      {
+        "name": "storytold/wordcraft",
+        "url": "https://github.com/storytold/wordcraft",
+        "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+        "language": "Rust",
+        "stars": 12166,
+        "created_at": "2026-10-07T08:34:24Z"
+      },
+      {
+        "name": "wheresryan22/anatomy",
+        "url": "https://github.com/wheresryan22/anatomy",
+        "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+        "language": "JavaScript",
+        "stars": 9679,
+        "created_at": "2026-10-08T10:12:49Z"
+      },
+      {
+        "name": "storytold/gridcraft",
+        "url": "https://github.com/storytold/gridcraft",
+        "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+        "language": "Rust",
+        "stars": 4776,
+        "created_at": "2026-10-07T05:18:16Z"
+      },
+      {
+        "name": "storytold/cadcraft",
+        "url": "https://github.com/storytold/cadcraft",
+        "description": "CADCraft: computer-aided design and drafting \u2014 an open-source, clean-room AutoCAD-style app in pure Rust",
+        "language": "Rust",
+        "stars": 4695,
+        "created_at": "2026-10-07T05:22:31Z"
+      },
+      {
+        "name": "mhtsec/ARTEX",
+        "url": "https://github.com/mhtsec/ARTEX",
+        "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
+        "language": "Go",
+        "stars": 4062,
+        "created_at": "2026-10-08T05:33:06Z"
+      },
+      {
+        "name": "ARahim3/DigUp",
+        "url": "https://github.com/ARahim3/DigUp",
+        "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
+        "language": "Swift",
+        "stars": 3478,
+        "created_at": "2026-10-08T20:37:51Z"
+      },
+      {
+        "name": "storytold/deckcraft",
+        "url": "https://github.com/storytold/deckcraft",
+        "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+        "language": "Rust",
+        "stars": 3181,
+        "created_at": "2026-10-07T05:27:21Z"
+      },
+      {
+        "name": "nullmoth/nvidia-macos-driver",
+        "url": "https://github.com/nullmoth/nvidia-macos-driver",
+        "description": "Metal driver for NVIDIA GeForce cards on macOS Sequoia",
+        "language": "Rust",
+        "stars": 2986,
+        "created_at": "2026-10-07T08:13:12Z"
+      },
+      {
+        "name": "storytold/soundcraft",
+        "url": "https://github.com/storytold/soundcraft",
+        "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+        "language": "Rust",
+        "stars": 2747,
+        "created_at": "2026-10-07T08:31:31Z"
+      },
+      {
+        "name": "t4t5/omdrop-owl",
+        "url": "https://github.com/t4t5/omdrop-owl",
+        "description": "airdrop for non-apple devices",
+        "language": "Shell",
+        "stars": 2659,
+        "created_at": "2026-10-08T06:38:33Z"
+      }
+    ],
+    "Python": [
+      {
+        "name": "onehumanbeing/esp32-iphone-agent",
+        "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+        "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+        "language": "Python",
+        "stars": 2050,
+        "created_at": "2026-10-11T19:10:25Z"
+      },
+      {
+        "name": "Arekejoker/qwen21-nsfw-pose-skill",
+        "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+        "description": "Qwen-Image 2.1 NSFW/\u59ff\u52bf\u51fa\u56fe skill\uff1a\u4f5c\u8005\u7ea7\u63d0\u793a\u8bcd\u914d\u65b9 + NSFW LoRA + 136 \u59ff\u52bf VNCCS \u4eba\u5076\u63a7\u5236\uff1b\u9002\u7528 Claude Code / Codex / Cursor / OpenClaw",
+        "language": "Python",
+        "stars": 1215,
+        "created_at": "2026-10-13T03:09:42Z"
+      },
+      {
+        "name": "wesbos/photo-frame-dashboard",
+        "url": "https://github.com/wesbos/photo-frame-dashboard",
+        "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+        "language": "Python",
+        "stars": 1134,
+        "created_at": "2026-10-08T18:22:19Z"
+      },
+      {
+        "name": "zhuyansen/new-term-radar",
+        "url": "https://github.com/zhuyansen/new-term-radar",
+        "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+        "language": "Python",
+        "stars": 943,
+        "created_at": "2026-10-12T07:11:01Z"
+      },
+      {
+        "name": "jwuthri-cloud/Tracely-ai",
+        "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+        "description": "",
+        "language": "Python",
+        "stars": 817,
+        "created_at": "2026-10-11T15:38:03Z"
+      },
+      {
+        "name": "n1tr00-10/tiktok-web-signature",
+        "url": "https://github.com/n1tr00-10/tiktok-web-signature",
+        "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
+        "language": "Python",
+        "stars": 710,
+        "created_at": "2026-10-09T19:30:14Z"
+      },
+      {
+        "name": "Jakeschincariol/founder-skill",
+        "url": "https://github.com/Jakeschincariol/founder-skill",
+        "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
+        "language": "Python",
+        "stars": 638,
+        "created_at": "2026-10-07T01:07:13Z"
+      },
+      {
+        "name": "SubmitGame/awesome-decomp-games",
+        "url": "https://github.com/SubmitGame/awesome-decomp-games",
+        "description": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
+        "language": "Python",
+        "stars": 634,
+        "created_at": "2026-10-09T15:15:18Z"
+      },
+      {
+        "name": "chenwei810/Semiconductor_Manufacturing_Introduction",
+        "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
+        "description": "Introduction to Semiconductor Manufacturing",
+        "language": "Python",
+        "stars": 566,
+        "created_at": "2026-10-11T02:01:01Z"
+      },
+      {
+        "name": "nullmoth/1401",
+        "url": "https://github.com/nullmoth/1401",
+        "description": "Install macOS on your PC from Windows",
+        "language": "Python",
+        "stars": 471,
+        "created_at": "2026-10-07T08:13:16Z"
+      }
+    ],
+    "TypeScript": [
+      {
+        "name": "HelixDB/helix-foundry",
+        "url": "https://github.com/HelixDB/helix-foundry",
+        "description": "Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
+        "language": "TypeScript",
+        "stars": 1457,
+        "created_at": "2026-10-07T05:10:45Z"
+      },
+      {
+        "name": "shaongitbd/doory",
+        "url": "https://github.com/shaongitbd/doory",
+        "description": "Open source canva alternative",
+        "language": "TypeScript",
+        "stars": 1171,
+        "created_at": "2026-10-10T00:03:25Z"
+      },
+      {
+        "name": "rociiu/talorys",
+        "url": "https://github.com/rociiu/talorys",
+        "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+        "language": "TypeScript",
+        "stars": 992,
+        "created_at": "2026-10-10T09:46:56Z"
+      },
+      {
+        "name": "bas3line/ascii",
+        "url": "https://github.com/bas3line/ascii",
+        "description": "Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
+        "language": "TypeScript",
+        "stars": 847,
+        "created_at": "2026-10-07T06:48:54Z"
+      },
+      {
+        "name": "ThariqS/ai-newtab",
+        "url": "https://github.com/ThariqS/ai-newtab",
+        "description": "Claude generates a daily new tab page based on your browser history.",
+        "language": "TypeScript",
+        "stars": 794,
+        "created_at": "2026-10-08T17:44:43Z"
+      },
+      {
+        "name": "YeonwooSung/my-claude-code-mods",
+        "url": "https://github.com/YeonwooSung/my-claude-code-mods",
+        "description": "Custom Claude Code Mods that I need",
+        "language": "TypeScript",
+        "stars": 766,
+        "created_at": "2026-10-09T13:09:11Z"
+      },
+      {
+        "name": "CoolkHz/gptibo",
+        "url": "https://github.com/CoolkHz/gptibo",
+        "description": "Self-hosted GPTibo storefront, admin and Go backend \u2014 sanitized MIT source",
+        "language": "TypeScript",
+        "stars": 713,
+        "created_at": "2026-10-13T15:57:19Z"
+      },
+      {
+        "name": "outcrawlai/scout",
+        "url": "https://github.com/outcrawlai/scout",
+        "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+        "language": "TypeScript",
+        "stars": 605,
+        "created_at": "2026-10-13T09:18:55Z"
+      },
+      {
+        "name": "deeplethe/solid-glass",
+        "url": "https://github.com/deeplethe/solid-glass",
+        "description": "A design system for AI applications. Material, physical, tactile, technical.",
+        "language": "TypeScript",
+        "stars": 589,
+        "created_at": "2026-10-12T09:19:02Z"
+      },
+      {
+        "name": "AnkioTomas/qqpet",
+        "url": "https://github.com/AnkioTomas/qqpet",
+        "description": "QQ\u5ba0\u7269\u5355\u673a\u590d\u523b\u7248(AI)",
+        "language": "TypeScript",
+        "stars": 495,
+        "created_at": "2026-10-07T02:41:52Z"
+      }
+    ],
+    "Rust": [
+      {
+        "name": "storytold/wordcraft",
+        "url": "https://github.com/storytold/wordcraft",
+        "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+        "language": "Rust",
+        "stars": 12166,
+        "created_at": "2026-10-07T08:34:24Z"
+      },
+      {
+        "name": "storytold/gridcraft",
+        "url": "https://github.com/storytold/gridcraft",
+        "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+        "language": "Rust",
+        "stars": 4776,
+        "created_at": "2026-10-07T05:18:16Z"
+      },
+      {
+        "name": "storytold/cadcraft",
+        "url": "https://github.com/storytold/cadcraft",
+        "description": "CADCraft: computer-aided design and drafting \u2014 an open-source, clean-room AutoCAD-style app in pure Rust",
+        "language": "Rust",
+        "stars": 4695,
+        "created_at": "2026-10-07T05:22:31Z"
+      },
+      {
+        "name": "storytold/deckcraft",
+        "url": "https://github.com/storytold/deckcraft",
+        "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+        "language": "Rust",
+        "stars": 3181,
+        "created_at": "2026-10-07T05:27:21Z"
+      },
+      {
+        "name": "nullmoth/nvidia-macos-driver",
+        "url": "https://github.com/nullmoth/nvidia-macos-driver",
+        "description": "Metal driver for NVIDIA GeForce cards on macOS Sequoia",
+        "language": "Rust",
+        "stars": 2986,
+        "created_at": "2026-10-07T08:13:12Z"
+      },
+      {
+        "name": "storytold/soundcraft",
+        "url": "https://github.com/storytold/soundcraft",
+        "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+        "language": "Rust",
+        "stars": 2747,
+        "created_at": "2026-10-07T08:31:31Z"
+      },
+      {
+        "name": "storytold/craft-launcher",
+        "url": "https://github.com/storytold/craft-launcher",
+        "description": "The Craft App Launcher",
+        "language": "Rust",
+        "stars": 2587,
+        "created_at": "2026-10-09T23:21:59Z"
+      },
+      {
+        "name": "bherbruck/solidcraft",
+        "url": "https://github.com/bherbruck/solidcraft",
+        "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+        "language": "Rust",
+        "stars": 2255,
+        "created_at": "2026-10-07T18:57:48Z"
+      },
+      {
+        "name": "liseami/CCBaga",
+        "url": "https://github.com/liseami/CCBaga",
+        "description": "",
+        "language": "Rust",
+        "stars": 2242,
+        "created_at": "2026-10-11T03:47:06Z"
+      },
+      {
+        "name": "noahdunnagan/fsearch",
+        "url": "https://github.com/noahdunnagan/fsearch",
+        "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+        "language": "Rust",
+        "stars": 2046,
+        "created_at": "2026-10-08T17:50:33Z"
+      }
+    ],
+    "Go": [
+      {
+        "name": "mhtsec/ARTEX",
+        "url": "https://github.com/mhtsec/ARTEX",
+        "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
+        "language": "Go",
+        "stars": 4062,
+        "created_at": "2026-10-08T05:33:06Z"
+      },
+      {
+        "name": "trhhubsd/ARTEXX",
+        "url": "https://github.com/trhhubsd/ARTEXX",
+        "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee Autumn-27/ARTEX",
+        "language": "Go",
+        "stars": 1207,
+        "created_at": "2026-10-08T20:35:22Z"
+      },
+      {
+        "name": "Hinln/ARTEX",
+        "url": "https://github.com/Hinln/ARTEX",
+        "description": "ARTEX \u6e90\u7801\u5907\u4efd\uff1a\u57fa\u4e8e Autumn-27/ARTEX v0.3.15\uff0c\u4fdd\u7559\u539f\u59cb\u63d0\u4ea4\u5386\u53f2\u4e0e AGPL-3.0 \u8bb8\u53ef\u8bc1\u3002",
+        "language": "Go",
+        "stars": 762,
+        "created_at": "2026-10-08T11:00:36Z"
+      },
+      {
+        "name": "aindeev/agent-chrome-relay",
+        "url": "https://github.com/aindeev/agent-chrome-relay",
+        "description": "Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev \u00b7 blog: read.aindeev.com \u00b7 X: @AlexeyIndeev",
+        "language": "Go",
+        "stars": 284,
+        "created_at": "2026-10-10T07:38:27Z"
+      },
+      {
+        "name": "RuoJi6/ARTEX",
+        "url": "https://github.com/RuoJi6/ARTEX",
+        "description": "Autumn-27/ARTEX \u4e8c\u5f00",
+        "language": "Go",
+        "stars": 200,
+        "created_at": "2026-10-09T00:56:36Z"
+      },
+      {
+        "name": "bdg9412/artex-ko-plus",
+        "url": "https://github.com/bdg9412/artex-ko-plus",
+        "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7AI \uae30\ubc18 \uce68\ud574\uc0ac\uace0 \ub300\uc751 \uae30\ub2a5 \ucd94\uac00 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+        "language": "Go",
+        "stars": 184,
+        "created_at": "2026-10-09T11:36:03Z"
+      },
+      {
+        "name": "honwee/mynah",
+        "url": "https://github.com/honwee/mynah",
+        "description": "Mynah \u2014 self-hosted realtime digital human. One GPU, full admin console, Apache-2.0. \u81ea\u5df1\u670d\u52a1\u5668\u4e0a\u7684\u5b9e\u65f6\u6570\u5b57\u4eba\u7cfb\u7edf",
+        "language": "Go",
+        "stars": 175,
+        "created_at": "2026-10-07T09:27:35Z"
+      },
+      {
+        "name": "alex0ptr/once",
+        "url": "https://github.com/alex0ptr/once",
+        "description": "Run a command once, reuse its output for a while.",
+        "language": "Go",
+        "stars": 155,
+        "created_at": "2026-10-08T19:51:28Z"
+      },
+      {
+        "name": "kutukam/autonomous-pentest-agent",
+        "url": "https://github.com/kutukam/autonomous-pentest-agent",
+        "description": "Autonomous Pentest Agent \u2014 LLM multi-agent autonomous penetration testing system (Go backend + Next.js UI). AGPL-3.0.",
+        "language": "Go",
+        "stars": 144,
+        "created_at": "2026-10-08T18:47:12Z"
+      },
+      {
+        "name": "init-co-jp/diff-tour",
+        "url": "https://github.com/init-co-jp/diff-tour",
+        "description": "Walk through a diff the way a senior engineer reads it. A read-only TUI that turns a git change into a guided tour.",
+        "language": "Go",
+        "stars": 129,
+        "created_at": "2026-10-10T09:19:05Z"
+      }
+    ]
+  }
+}
