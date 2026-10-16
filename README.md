@@ -2,24 +2,24 @@
 
 A weekday archive of the fastest-rising **new** GitHub repositories (created in the last 7 days, ranked by stars), collected automatically by GitHub Actions.
 
-**Last updated:** 2026-10-15 · **Days archived:** 29
+**Last updated:** 2026-10-16 · **Days archived:** 30
 
 ## Today's top new repos
 
 | # | Repo | ⭐ | Description |
 |---|---|---|---|
-| 1 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 12,483 | An agent skill for creating detailed, interactive isometric illustrations of real-world machines ... |
-| 2 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | 4,245 | AI 自主渗透测试系统 \| 百度“agent+”攻防挑战赛冠军项目 |
-| 3 | [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | 4,037 | Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and cod... |
-| 4 | [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) | 3,012 | Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warl... |
-| 5 | [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | 2,819 | The Craft App Launcher |
-| 6 | [t4t5/omdrop-owl](https://github.com/t4t5/omdrop-owl) | 2,727 | airdrop for non-apple devices |
-| 7 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | 2,361 | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compat... |
-| 8 | [liseami/CCBaga](https://github.com/liseami/CCBaga) | 2,335 |  |
-| 9 | [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) | 2,243 | A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time... |
-| 10 | [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) | 2,077 | Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8... |
+| 1 | [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) | 3,511 | Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warl... |
+| 2 | [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | 2,976 | The Craft App Launcher |
+| 3 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | 2,825 | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compat... |
+| 4 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | 2,466 | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / ... |
+| 5 | [liseami/CCBaga](https://github.com/liseami/CCBaga) | 2,398 |  |
+| 6 | [storytold/figcraft](https://github.com/storytold/figcraft) | 1,840 | FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collab... |
+| 7 | [HeyPuter/everything](https://github.com/HeyPuter/everything) | 1,656 | We're rebuilding and open-sourcing the world’s software from scratch. |
+| 8 | [chenglou/handwired](https://github.com/chenglou/handwired) | 1,478 | Turn your regular JavaScript code into a neural net. |
+| 9 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | 1,469 | A free, open source C# framework for making games, or your own game engine. Direct access to nati... |
+| 10 | [shaongitbd/doory](https://github.com/shaongitbd/doory) | 1,405 | Open source canva alternative |
 
-More languages: [`data/2026/10/2026-10-15.md`](data/2026/10/2026-10-15.md)
+More languages: [`data/2026/10/2026-10-16.md`](data/2026/10/2026-10-16.md)
 
 ## How it works
 
