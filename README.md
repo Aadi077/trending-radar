@@ -2,24 +2,24 @@
 
 A weekday archive of the fastest-rising **new** GitHub repositories (created in the last 7 days, ranked by stars), collected automatically by GitHub Actions.
 
-**Last updated:** 2026-10-21 · **Days archived:** 33
+**Last updated:** 2026-10-22 · **Days archived:** 34
 
 ## Today's top new repos
 
 | # | Repo | ⭐ | Description |
 |---|---|---|---|
-| 1 | [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 18,026 | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. |
-| 2 | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | 17,544 | DeepInfer: High-performance, large-scale inference framework for DeepSeek models |
-| 3 | [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | 3,716 |  |
-| 4 | [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | 2,519 | A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo. |
-| 5 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | 2,112 | A free, open source C# framework for making games, or your own game engine. Direct access to nati... |
-| 6 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | 2,045 | Ears for coding agents: let AI hear, review and make sound. CPU-only, open source. |
-| 7 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 1,984 | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and ot... |
-| 8 | [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | 1,936 | 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断 |
-| 9 | [chenglou/handwired](https://github.com/chenglou/handwired) | 1,868 | Turn your regular JavaScript code into a neural net. |
-| 10 | [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc) | 1,773 | Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo |
+| 1 | [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 23,245 | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. |
+| 2 | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | 19,731 | DeepInfer: High-performance, large-scale inference framework for DeepSeek models |
+| 3 | [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | 4,408 |  |
+| 4 | [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | 3,216 | A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo. |
+| 5 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 3,010 | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and ot... |
+| 6 | [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | 2,183 | 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。 |
+| 7 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | 2,122 | Ears for coding agents: let AI hear, review and make sound. CPU-only, open source. |
+| 8 | [chenglou/handwired](https://github.com/chenglou/handwired) | 1,913 | Turn your regular JavaScript code into a neural net. |
+| 9 | [tek-sys-hub/Rubix-lang](https://github.com/tek-sys-hub/Rubix-lang) | 1,902 | The 100% Pure x86-64 Assembly Systems Language |
+| 10 | [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc) | 1,835 | Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo |
 
-More languages: [`data/2026/10/2026-10-21.md`](data/2026/10/2026-10-21.md)
+More languages: [`data/2026/10/2026-10-22.md`](data/2026/10/2026-10-22.md)
 
 ## How it works
 
