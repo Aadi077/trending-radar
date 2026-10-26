@@ -2,24 +2,24 @@
 
 A weekday archive of the fastest-rising **new** GitHub repositories (created in the last 7 days, ranked by stars), collected automatically by GitHub Actions.
 
-**Last updated:** 2026-10-23 · **Days archived:** 35
+**Last updated:** 2026-10-26 · **Days archived:** 36
 
 ## Today's top new repos
 
 | # | Repo | ⭐ | Description |
 |---|---|---|---|
-| 1 | [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 27,307 | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. |
-| 2 | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | 20,913 | DeepInfer: High-performance, large-scale inference framework for DeepSeek models |
-| 3 | [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | 4,831 |  |
-| 4 | [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | 3,838 | A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo. |
-| 5 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 3,772 | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and ot... |
-| 6 | [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | 2,740 | 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。 |
-| 7 | [tek-sys-hub/Rubix-lang](https://github.com/tek-sys-hub/Rubix-lang) | 1,912 | The 100% Pure x86-64 Assembly Systems Language |
-| 8 | [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | 1,729 | One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarke... |
-| 9 | [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | 1,666 | REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone ... |
-| 10 | [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) | 1,662 | CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP sessi... |
+| 1 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 6,009 | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and ot... |
+| 2 | [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | 4,826 | A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo. |
+| 3 | [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | 3,735 | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally |
+| 4 | [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | 2,673 | REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone ... |
+| 5 | [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt) | 2,172 | Offline FairPlay App Store IPA decryption with independent key derivation |
+| 6 | [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything) | 2,057 | Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser. |
+| 7 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | 2,037 | HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP,... |
+| 8 | [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) | 2,010 | 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry... |
+| 9 | [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) | 1,828 | CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP sessi... |
+| 10 | [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | 1,821 | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 |
 
-More languages: [`data/2026/10/2026-10-23.md`](data/2026/10/2026-10-23.md)
+More languages: [`data/2026/10/2026-10-26.md`](data/2026/10/2026-10-26.md)
 
 ## How it works
 
