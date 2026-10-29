@@ -1,0 +1,416 @@
+{
+  "date": "2026-10-29",
+  "window_start": "2026-10-22",
+  "categories": {
+    "All languages": [
+      {
+        "name": "rddmwmddr/android-ad-cleaner",
+        "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+        "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
+        "language": "Python",
+        "stars": 4703,
+        "created_at": "2026-10-24T05:35:47Z"
+      },
+      {
+        "name": "unclebob/ub-mode",
+        "url": "https://github.com/unclebob/ub-mode",
+        "description": "",
+        "language": null,
+        "stars": 4552,
+        "created_at": "2026-10-25T16:04:09Z"
+      },
+      {
+        "name": "JustAResearcher/gpu-unlock-ada",
+        "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+        "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+        "language": "C",
+        "stars": 4499,
+        "created_at": "2026-10-23T21:00:53Z"
+      },
+      {
+        "name": "interplains/Zero-Breach-Toolkit",
+        "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+        "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+        "language": "Python",
+        "stars": 3474,
+        "created_at": "2026-10-25T14:41:34Z"
+      },
+      {
+        "name": "designfuchen/word-atlas",
+        "url": "https://github.com/designfuchen/word-atlas",
+        "description": "\u8bcd\u5149 \u00b7 Word Atlas \u2014 Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+        "language": "TypeScript",
+        "stars": 3218,
+        "created_at": "2026-10-25T08:27:22Z"
+      },
+      {
+        "name": "anhao/ai-pose-gallery-zh",
+        "url": "https://github.com/anhao/ai-pose-gallery-zh",
+        "description": "\u4e2d\u6587\u7248 AI \u59ff\u52bf\u53c2\u8003\u56fe\u5e93 \u00b7 1439 \u7ec4 / 2878 \u5f20\u56fe\u7247 / \u5b8c\u6574\u6c49\u5316 \u00b7 \u96f6\u4f9d\u8d56\u9759\u6001\u753b\u5eca",
+        "language": "HTML",
+        "stars": 3056,
+        "created_at": "2026-10-27T12:24:37Z"
+      },
+      {
+        "name": "t3dotgg/tstack",
+        "url": "https://github.com/t3dotgg/tstack",
+        "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+        "language": "Python",
+        "stars": 2370,
+        "created_at": "2026-10-24T05:00:20Z"
+      },
+      {
+        "name": "oosexgang/hakios-xnu-kernel",
+        "url": "https://github.com/oosexgang/hakios-xnu-kernel",
+        "description": "",
+        "language": "C",
+        "stars": 1937,
+        "created_at": "2026-10-22T06:20:11Z"
+      },
+      {
+        "name": "enesozturk/dimensional-drawing",
+        "url": "https://github.com/enesozturk/dimensional-drawing",
+        "description": "Create Apple style dimensional drawings of UI components.",
+        "language": "HTML",
+        "stars": 1545,
+        "created_at": "2026-10-23T12:20:16Z"
+      },
+      {
+        "name": "andyhuo520/digital-human-koubo",
+        "url": "https://github.com/andyhuo520/digital-human-koubo",
+        "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy \u2026",
+        "language": "TypeScript",
+        "stars": 1455,
+        "created_at": "2026-10-26T04:34:09Z"
+      }
+    ],
+    "Python": [
+      {
+        "name": "rddmwmddr/android-ad-cleaner",
+        "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+        "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
+        "language": "Python",
+        "stars": 4703,
+        "created_at": "2026-10-24T05:35:47Z"
+      },
+      {
+        "name": "interplains/Zero-Breach-Toolkit",
+        "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+        "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+        "language": "Python",
+        "stars": 3474,
+        "created_at": "2026-10-25T14:41:34Z"
+      },
+      {
+        "name": "t3dotgg/tstack",
+        "url": "https://github.com/t3dotgg/tstack",
+        "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+        "language": "Python",
+        "stars": 2370,
+        "created_at": "2026-10-24T05:00:20Z"
+      },
+      {
+        "name": "morganlinton/BeautifulRust",
+        "url": "https://github.com/morganlinton/BeautifulRust",
+        "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+        "language": "Python",
+        "stars": 1409,
+        "created_at": "2026-10-23T03:01:11Z"
+      },
+      {
+        "name": "DenisSergeevitch/ex-ussr-kinship-research",
+        "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+        "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+        "language": "Python",
+        "stars": 1248,
+        "created_at": "2026-10-25T10:05:56Z"
+      },
+      {
+        "name": "Motionsites-AI/claude-skill",
+        "url": "https://github.com/Motionsites-AI/claude-skill",
+        "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+        "language": "Python",
+        "stars": 1071,
+        "created_at": "2026-10-26T06:58:45Z"
+      },
+      {
+        "name": "Snapintosh/Snapintosh",
+        "url": "https://github.com/Snapintosh/Snapintosh",
+        "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+        "language": "Python",
+        "stars": 1047,
+        "created_at": "2026-10-22T01:40:05Z"
+      },
+      {
+        "name": "KillaBoi/StealMyBitcoin-PoC",
+        "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+        "description": "A public release of the Steal My Bitcoin challenge",
+        "language": "Python",
+        "stars": 1000,
+        "created_at": "2026-10-25T21:48:32Z"
+      },
+      {
+        "name": "assetnote/php2shell-scanner",
+        "url": "https://github.com/assetnote/php2shell-scanner",
+        "description": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
+        "language": "Python",
+        "stars": 964,
+        "created_at": "2026-10-22T03:53:20Z"
+      },
+      {
+        "name": "anonnerdfrenzy/survival-llm",
+        "url": "https://github.com/anonnerdfrenzy/survival-llm",
+        "description": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
+        "language": "Python",
+        "stars": 745,
+        "created_at": "2026-10-24T19:12:41Z"
+      }
+    ],
+    "TypeScript": [
+      {
+        "name": "designfuchen/word-atlas",
+        "url": "https://github.com/designfuchen/word-atlas",
+        "description": "\u8bcd\u5149 \u00b7 Word Atlas \u2014 Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+        "language": "TypeScript",
+        "stars": 3218,
+        "created_at": "2026-10-25T08:27:22Z"
+      },
+      {
+        "name": "andyhuo520/digital-human-koubo",
+        "url": "https://github.com/andyhuo520/digital-human-koubo",
+        "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy \u2026",
+        "language": "TypeScript",
+        "stars": 1455,
+        "created_at": "2026-10-26T04:34:09Z"
+      },
+      {
+        "name": "kargulstudio/calender-app-design",
+        "url": "https://github.com/kargulstudio/calender-app-design",
+        "description": "",
+        "language": "TypeScript",
+        "stars": 801,
+        "created_at": "2026-10-26T18:38:56Z"
+      },
+      {
+        "name": "surendrapandar/minilytics",
+        "url": "https://github.com/surendrapandar/minilytics",
+        "description": "Opensource Revenue-first analytics for indie hackers & solo founders",
+        "language": "TypeScript",
+        "stars": 774,
+        "created_at": "2026-10-23T19:27:24Z"
+      },
+      {
+        "name": "yaojingang/GEOInflow",
+        "url": "https://github.com/yaojingang/GEOInflow",
+        "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by \u730e\u770b\u79d1\u6280 \u00b7 \u5317\u4eac\u65e5\u62a5\u793e\u667a\u6e90GEO. MIT licensed.",
+        "language": "TypeScript",
+        "stars": 722,
+        "created_at": "2026-10-26T03:12:45Z"
+      },
+      {
+        "name": "qybaihe/bla",
+        "url": "https://github.com/qybaihe/bla",
+        "description": "\ud83d\udee1\ufe0f BLA (Blind LLM Agents) \u2014 Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+        "language": "TypeScript",
+        "stars": 614,
+        "created_at": "2026-10-25T05:25:45Z"
+      },
+      {
+        "name": "blakeandersonw/ai-app-playbook",
+        "url": "https://github.com/blakeandersonw/ai-app-playbook",
+        "description": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
+        "language": "TypeScript",
+        "stars": 574,
+        "created_at": "2026-10-26T16:07:05Z"
+      },
+      {
+        "name": "OpenBMB/MiniCPM-OCR",
+        "url": "https://github.com/OpenBMB/MiniCPM-OCR",
+        "description": "Fast, accurate OCR with correctness assessment.",
+        "language": "TypeScript",
+        "stars": 503,
+        "created_at": "2026-10-27T13:22:00Z"
+      },
+      {
+        "name": "0xS4N4TG/kinetograph",
+        "url": "https://github.com/0xS4N4TG/kinetograph",
+        "description": "A blazingly fast programmatic video engine, made for agents.",
+        "language": "TypeScript",
+        "stars": 335,
+        "created_at": "2026-10-23T05:15:41Z"
+      },
+      {
+        "name": "vaishantsah/watson-AI-osint-all-in-one",
+        "url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
+        "description": "Watson \u2014 free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
+        "language": "TypeScript",
+        "stars": 311,
+        "created_at": "2026-10-28T00:09:33Z"
+      }
+    ],
+    "Rust": [
+      {
+        "name": "mizorewww/gdirect",
+        "url": "https://github.com/mizorewww/gdirect",
+        "description": "Rust Google Drive direct downloader using pinned libaria2",
+        "language": "Rust",
+        "stars": 766,
+        "created_at": "2026-10-25T05:52:22Z"
+      },
+      {
+        "name": "zeabur-oss/zeabur",
+        "url": "https://github.com/zeabur-oss/zeabur",
+        "description": "Self-hosted PaaS on your own Kubernetes.",
+        "language": "Rust",
+        "stars": 498,
+        "created_at": "2026-10-24T07:25:39Z"
+      },
+      {
+        "name": "heydeer/pngdeer",
+        "url": "https://github.com/heydeer/pngdeer",
+        "description": "Smaller images, same picture. Compress PNGs to PNG or WebP with automatic quality. PNG output is 8\u201312% smaller than TinyPNG at equal quality on the median image. Command line and browser.",
+        "language": "Rust",
+        "stars": 341,
+        "created_at": "2026-10-25T05:09:24Z"
+      },
+      {
+        "name": "anomalyco/rune",
+        "url": "https://github.com/anomalyco/rune",
+        "description": "Rune: Native UI framework",
+        "language": "Rust",
+        "stars": 320,
+        "created_at": "2026-10-22T05:51:40Z"
+      },
+      {
+        "name": "hffgzktbcc-blip/ounce-core",
+        "url": "https://github.com/hffgzktbcc-blip/ounce-core",
+        "description": "Clean-room systems research runtime and architecture compatibility layer for NVIDIA Tegra T239 (Horizon OS FW 23.0.1 ABI)",
+        "language": "Rust",
+        "stars": 206,
+        "created_at": "2026-10-24T19:32:45Z"
+      },
+      {
+        "name": "openmathmodel/open-math-harness",
+        "url": "https://github.com/openmathmodel/open-math-harness",
+        "description": "The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
+        "language": "Rust",
+        "stars": 205,
+        "created_at": "2026-10-22T08:17:44Z"
+      },
+      {
+        "name": "yjid/kensaku",
+        "url": "https://github.com/yjid/kensaku",
+        "description": "Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
+        "language": "Rust",
+        "stars": 199,
+        "created_at": "2026-10-24T21:00:26Z"
+      },
+      {
+        "name": "anomalyco/hokum",
+        "url": "https://github.com/anomalyco/hokum",
+        "description": "Notifications for Wayland that look like they belong on a computer from this decade. Drawn with Rune.",
+        "language": "Rust",
+        "stars": 173,
+        "created_at": "2026-10-28T01:37:19Z"
+      },
+      {
+        "name": "emanuele-em/kanzo",
+        "url": "https://github.com/emanuele-em/kanzo",
+        "description": "Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup.",
+        "language": "Rust",
+        "stars": 167,
+        "created_at": "2026-10-25T11:14:03Z"
+      },
+      {
+        "name": "MCG-NJU/AutoTavern",
+        "url": "https://github.com/MCG-NJU/AutoTavern",
+        "description": "TavernGym and TavernBench: a faithful, full-content Hearthstone Battlegrounds simulator with an RL interface, and a 960-task decision benchmark. Code and data for \"Build, Don't Play\".",
+        "language": "Rust",
+        "stars": 161,
+        "created_at": "2026-10-24T12:24:42Z"
+      }
+    ],
+    "Go": [
+      {
+        "name": "DrWhax/unfairplay",
+        "url": "https://github.com/DrWhax/unfairplay",
+        "description": "Decrypt IPA's on MacOS",
+        "language": "Go",
+        "stars": 765,
+        "created_at": "2026-10-25T21:22:20Z"
+      },
+      {
+        "name": "egoist/mygo-cloudmusic",
+        "url": "https://github.com/egoist/mygo-cloudmusic",
+        "description": "MyGo \u4e91\u97f3\u4e50 - \u7b2c\u4e09\u65b9\u7f51\u6613\u4e91\u97f3\u4e50\u539f\u751f\u5ba2\u6237\u7aef",
+        "language": "Go",
+        "stars": 349,
+        "created_at": "2026-10-25T11:41:31Z"
+      },
+      {
+        "name": "t8y2/motty",
+        "url": "https://github.com/t8y2/motty",
+        "description": "SSH, SFTP, port forwarding, VNC/RDP and an AI assistant\u3001MCP in one native window \u2014 a Go desktop app built on Viva, with no webview.",
+        "language": "Go",
+        "stars": 221,
+        "created_at": "2026-10-22T09:56:24Z"
+      },
+      {
+        "name": "tractordev/webframe",
+        "url": "https://github.com/tractordev/webframe",
+        "description": "Run a web page like a program",
+        "language": "Go",
+        "stars": 211,
+        "created_at": "2026-10-24T14:18:15Z"
+      },
+      {
+        "name": "smhanov/agentloop",
+        "url": "https://github.com/smhanov/agentloop",
+        "description": "Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
+        "language": "Go",
+        "stars": 126,
+        "created_at": "2026-10-25T16:18:50Z"
+      },
+      {
+        "name": "Shaitrish/37studio",
+        "url": "https://github.com/Shaitrish/37studio",
+        "description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
+        "language": "Go",
+        "stars": 111,
+        "created_at": "2026-10-23T00:26:52Z"
+      },
+      {
+        "name": "missuo/unfairplay-bot",
+        "url": "https://github.com/missuo/unfairplay-bot",
+        "description": "Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
+        "language": "Go",
+        "stars": 101,
+        "created_at": "2026-10-28T12:17:29Z"
+      },
+      {
+        "name": "aancw/php2shell-scanner",
+        "url": "https://github.com/aancw/php2shell-scanner",
+        "description": "Scanner for PHP2Shell (CVE-2026-109618/109619): URL blackbox, local device and SSH.",
+        "language": "Go",
+        "stars": 100,
+        "created_at": "2026-10-22T09:45:34Z"
+      },
+      {
+        "name": "vivaui/viva",
+        "url": "https://github.com/vivaui/viva",
+        "description": "A Go-first, GPU-native desktop framework. No WebView, no bundled runtime.",
+        "language": "Go",
+        "stars": 87,
+        "created_at": "2026-10-22T09:54:32Z"
+      },
+      {
+        "name": "beilunyang/openhongguo",
+        "url": "https://github.com/beilunyang/openhongguo",
+        "description": "\u7ea2\u679c\u77ed\u5267\u7684\u975e\u5b98\u65b9\u533f\u540d SDK\uff0c\u63d0\u4f9b Go\u3001Node.js\u3001Android\u3001iOS\u3001React Native \u548c Flutter \u7248\u672c\uff0c\u9644\u547d\u4ee4\u884c\u6f14\u793a\u7a0b\u5e8f ohg CLI",
+        "language": "Go",
+        "stars": 72,
+        "created_at": "2026-10-26T13:47:23Z"
+      }
+    ]
+  }
+}
