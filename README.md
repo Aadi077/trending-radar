@@ -2,24 +2,24 @@
 
 A weekday archive of the fastest-rising **new** GitHub repositories (created in the last 7 days, ranked by stars), collected automatically by GitHub Actions.
 
-**Last updated:** 2026-10-30 · **Days archived:** 40
+**Last updated:** 2026-11-02 · **Days archived:** 41
 
 ## Today's top new repos
 
 | # | Repo | ⭐ | Description |
 |---|---|---|---|
-| 1 | [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | 5,314 |  |
-| 2 | [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | 5,037 | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 |
-| 3 | [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | 4,573 | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally |
-| 4 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | 3,914 | 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 |
-| 5 | [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) | 3,823 | Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS ... |
-| 6 | [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | 3,351 | 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Ope... |
-| 7 | [t3dotgg/tstack](https://github.com/t3dotgg/tstack) | 2,455 | The agent skills I use every day. Works with Claude Code and Codex. |
-| 8 | [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | 2,346 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 |
-| 9 | [enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing) | 1,626 | Create Apple style dimensional drawings of UI components. |
-| 10 | [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) | 1,547 | AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + ... |
+| 1 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | 12,967 | Towards a More Autonomous Agent System |
+| 2 | [heydamir/unslop](https://github.com/heydamir/unslop) | 6,180 | A Claude skill that turns vibecoded, AI-looking UI into a designed interface |
+| 3 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | 5,480 | 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 |
+| 4 | [wangzan101/Mika](https://github.com/wangzan101/Mika) | 5,239 | An on-device AI agent for Android that operates apps and the web to get things done for you. |
+| 5 | [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | 3,946 | Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86... |
+| 6 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | 3,869 | Craft Anything: understand how any software works, and craft your own. |
+| 7 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | 3,457 | 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own. |
+| 8 | [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) | 2,448 | VERY experimental Nintendo Switch 2 emulator |
+| 9 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | 2,222 | See how your app actually fits together. An interactive, plain-English map of your codebase, draw... |
+| 10 | [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) | 2,041 | 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github... |
 
-More languages: [`data/2026/10/2026-10-30.md`](data/2026/10/2026-10-30.md)
+More languages: [`data/2026/11/2026-11-02.md`](data/2026/11/2026-11-02.md)
 
 ## How it works
 
