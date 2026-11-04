@@ -1,0 +1,416 @@
+{
+  "date": "2026-11-04",
+  "window_start": "2026-10-28",
+  "categories": {
+    "All languages": [
+      {
+        "name": "deepseek-ai/dsh-superagent-prototype",
+        "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+        "description": "Towards a More Autonomous Agent System",
+        "language": "TypeScript",
+        "stars": 18482,
+        "created_at": "2026-10-31T09:32:46Z"
+      },
+      {
+        "name": "storytold/craft-anything",
+        "url": "https://github.com/storytold/craft-anything",
+        "description": "Craft Anything: understand how any software works, and craft your own.",
+        "language": "Rust",
+        "stars": 11212,
+        "created_at": "2026-10-31T14:50:00Z"
+      },
+      {
+        "name": "heydamir/unslop",
+        "url": "https://github.com/heydamir/unslop",
+        "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+        "language": "JavaScript",
+        "stars": 8516,
+        "created_at": "2026-10-29T15:41:21Z"
+      },
+      {
+        "name": "wangzan101/Mika",
+        "url": "https://github.com/wangzan101/Mika",
+        "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "language": "Kotlin",
+        "stars": 6593,
+        "created_at": "2026-10-29T14:34:07Z"
+      },
+      {
+        "name": "valentderah/totk-pc-recomp",
+        "url": "https://github.com/valentderah/totk-pc-recomp",
+        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+        "language": "C",
+        "stars": 4803,
+        "created_at": "2026-10-29T12:32:46Z"
+      },
+      {
+        "name": "patch-gg/pixelfx",
+        "url": "https://github.com/patch-gg/pixelfx",
+        "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+        "language": "JavaScript",
+        "stars": 4658,
+        "created_at": "2026-10-30T06:43:25Z"
+      },
+      {
+        "name": "BryceYuuu/RUN",
+        "url": "https://github.com/BryceYuuu/RUN",
+        "description": "RUN \u00b7 \u6da6\uff1a\u6d77\u5916\u79fb\u5c45\u624b\u518c\uff08\u6b27\u6d32 36 \u56fd \u00b7 110 \u6761\u8def\u7ebf \u00b7 \u4e3b\u8981\u79fb\u6c11\u5730\u533a\uff09",
+        "language": "Python",
+        "stars": 3615,
+        "created_at": "2026-10-29T11:28:43Z"
+      },
+      {
+        "name": "Djihads80/Eglantine",
+        "url": "https://github.com/Djihads80/Eglantine",
+        "description": "VERY experimental Nintendo Switch 2 emulator",
+        "language": "C++",
+        "stars": 3559,
+        "created_at": "2026-10-29T00:25:18Z"
+      },
+      {
+        "name": "KKKKhazix/agent-autoloop",
+        "url": "https://github.com/KKKKhazix/agent-autoloop",
+        "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
+        "language": "TypeScript",
+        "stars": 2388,
+        "created_at": "2026-11-03T08:02:11Z"
+      },
+      {
+        "name": "paipiange/nvzhuang",
+        "url": "https://github.com/paipiange/nvzhuang",
+        "description": "1407 \u5f20 AI \u5973\u88c5\u53c2\u8003\u56fe\u96c6\u4e0e\u865a\u62df\u8bd5\u7a7f\u7f51\u7ad9\uff0c\u652f\u6301\u4e2d\u82f1\u68c0\u7d22\u3001OpenAI Images / Gemini / \u8c46\u5305\u53ca\u81ea\u5b9a\u4e49 Base URL\u3001API Key\u3001\u6a21\u578b\u3002https://github.com/paipiange/nvzhuang",
+        "language": "HTML",
+        "stars": 2192,
+        "created_at": "2026-10-29T06:08:00Z"
+      }
+    ],
+    "Python": [
+      {
+        "name": "BryceYuuu/RUN",
+        "url": "https://github.com/BryceYuuu/RUN",
+        "description": "RUN \u00b7 \u6da6\uff1a\u6d77\u5916\u79fb\u5c45\u624b\u518c\uff08\u6b27\u6d32 36 \u56fd \u00b7 110 \u6761\u8def\u7ebf \u00b7 \u4e3b\u8981\u79fb\u6c11\u5730\u533a\uff09",
+        "language": "Python",
+        "stars": 3615,
+        "created_at": "2026-10-29T11:28:43Z"
+      },
+      {
+        "name": "Pika-Labs/Pika-H3-Flex",
+        "url": "https://github.com/Pika-Labs/Pika-H3-Flex",
+        "description": "Pika H3 Flex: video and audio generation inference",
+        "language": "Python",
+        "stars": 1612,
+        "created_at": "2026-10-29T17:08:59Z"
+      },
+      {
+        "name": "RikiyaT/lm_understand-logs",
+        "url": "https://github.com/RikiyaT/lm_understand-logs",
+        "description": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
+        "language": "Python",
+        "stars": 906,
+        "created_at": "2026-10-29T04:17:30Z"
+      },
+      {
+        "name": "JuneYaooo/rea-video",
+        "url": "https://github.com/JuneYaooo/rea-video",
+        "description": "\u9006\u5411\u4e00\u5207\u89c6\u9891\uff1a\u5b9e\u62cd\u53e3\u64ad\u3001\u684c\u62cd\u3001AI \u89c6\u9891\u30013D\u3001\u4ee3\u7801\u52a8\u6548\u3001\u6df7\u526a\uff0c\u9010\u955c\u62c6\u51fa\u753b\u9762\u3001\u82b1\u5b57\u3001\u526a\u8f91\u548c\u58f0\u97f3\u662f\u600e\u4e48\u505a\u7684\uff0c\u5e76\u7ed9\u51fa\u590d\u523b\u65b9\u6848\u3002Reverse-engineer any video, shot by shot.",
+        "language": "Python",
+        "stars": 837,
+        "created_at": "2026-10-29T16:15:01Z"
+      },
+      {
+        "name": "hyz317/HairDeck",
+        "url": "https://github.com/hyz317/HairDeck",
+        "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+        "language": "Python",
+        "stars": 810,
+        "created_at": "2026-10-29T17:16:13Z"
+      },
+      {
+        "name": "N1nEmAn/sapper-v2",
+        "url": "https://github.com/N1nEmAn/sapper-v2",
+        "description": "Autonomous pentest legion \u2014 AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams \u00b7 8h unattended \u00b7 1B tokens beat 4.5B). The N\u00fcwa Test: give AIs Create/Language/History, let a civilization grow.",
+        "language": "Python",
+        "stars": 785,
+        "created_at": "2026-10-30T15:12:35Z"
+      },
+      {
+        "name": "speridlabs/idol-sdk",
+        "url": "https://github.com/speridlabs/idol-sdk",
+        "description": "Idol: a single image to 3D Gaussians. Inference SDK and demo.",
+        "language": "Python",
+        "stars": 765,
+        "created_at": "2026-10-28T19:44:27Z"
+      },
+      {
+        "name": "AssassinCreator/steam-stash-value-report-card",
+        "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+        "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+        "language": "Python",
+        "stars": 744,
+        "created_at": "2026-11-02T00:40:47Z"
+      },
+      {
+        "name": "ramenvr/autopilot",
+        "url": "https://github.com/ramenvr/autopilot",
+        "description": "Play any game",
+        "language": "Python",
+        "stars": 706,
+        "created_at": "2026-10-30T03:47:28Z"
+      },
+      {
+        "name": "MiniMax-AI/mcode-stack",
+        "url": "https://github.com/MiniMax-AI/mcode-stack",
+        "description": "The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
+        "language": "Python",
+        "stars": 535,
+        "created_at": "2026-10-28T02:17:41Z"
+      }
+    ],
+    "TypeScript": [
+      {
+        "name": "deepseek-ai/dsh-superagent-prototype",
+        "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+        "description": "Towards a More Autonomous Agent System",
+        "language": "TypeScript",
+        "stars": 18482,
+        "created_at": "2026-10-31T09:32:46Z"
+      },
+      {
+        "name": "KKKKhazix/agent-autoloop",
+        "url": "https://github.com/KKKKhazix/agent-autoloop",
+        "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
+        "language": "TypeScript",
+        "stars": 2388,
+        "created_at": "2026-11-03T08:02:11Z"
+      },
+      {
+        "name": "caru-ini/stack-diagram",
+        "url": "https://github.com/caru-ini/stack-diagram",
+        "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+        "language": "TypeScript",
+        "stars": 1736,
+        "created_at": "2026-11-01T05:35:12Z"
+      },
+      {
+        "name": "mromidev/claude-animated-shorts",
+        "url": "https://github.com/mromidev/claude-animated-shorts",
+        "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+        "language": "TypeScript",
+        "stars": 1488,
+        "created_at": "2026-11-01T05:50:38Z"
+      },
+      {
+        "name": "rerun-build/rerun",
+        "url": "https://github.com/rerun-build/rerun",
+        "description": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
+        "language": "TypeScript",
+        "stars": 669,
+        "created_at": "2026-10-29T16:09:54Z"
+      },
+      {
+        "name": "hongye007/open-pose-costume",
+        "url": "https://github.com/hongye007/open-pose-costume",
+        "description": "A bilingual reference studio for poses, costumes, and AI character creation.",
+        "language": "TypeScript",
+        "stars": 645,
+        "created_at": "2026-10-29T22:05:35Z"
+      },
+      {
+        "name": "Minireel/HGhub",
+        "url": "https://github.com/Minireel/HGhub",
+        "description": "YellowFruit third-party client",
+        "language": "TypeScript",
+        "stars": 621,
+        "created_at": "2026-11-03T14:04:27Z"
+      },
+      {
+        "name": "Minglink/dsh-jailbreak-workflow",
+        "url": "https://github.com/Minglink/dsh-jailbreak-workflow",
+        "description": "DSH \u7834\u7532\u8bcd\u5236\u4f5c\u4f5c\u5de5\u4f5c\u6d41",
+        "language": "TypeScript",
+        "stars": 577,
+        "created_at": "2026-11-01T04:50:41Z"
+      },
+      {
+        "name": "andrew-babo/muse4ai",
+        "url": "https://github.com/andrew-babo/muse4ai",
+        "description": "Muse4AI \u2014 let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
+        "language": "TypeScript",
+        "stars": 475,
+        "created_at": "2026-11-03T17:45:18Z"
+      },
+      {
+        "name": "kevintngo/looseleaf",
+        "url": "https://github.com/kevintngo/looseleaf",
+        "description": "shadcn/ui, drawn by hand: 123 accessible React components that look drawn on paper, with a shadcn registry.",
+        "language": "TypeScript",
+        "stars": 377,
+        "created_at": "2026-11-01T05:16:00Z"
+      }
+    ],
+    "Rust": [
+      {
+        "name": "storytold/craft-anything",
+        "url": "https://github.com/storytold/craft-anything",
+        "description": "Craft Anything: understand how any software works, and craft your own.",
+        "language": "Rust",
+        "stars": 11212,
+        "created_at": "2026-10-31T14:50:00Z"
+      },
+      {
+        "name": "ashayas/icloud-s3",
+        "url": "https://github.com/ashayas/icloud-s3",
+        "description": "An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
+        "language": "Rust",
+        "stars": 492,
+        "created_at": "2026-10-30T23:54:20Z"
+      },
+      {
+        "name": "s1dashu/quiet-md",
+        "url": "https://github.com/s1dashu/quiet-md",
+        "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML. \u9ad8\u6027\u80fd\u672c\u5730\u7b14\u8bb0\uff0c\u517c\u5bb9\u98de\u4e66\u6587\u6863\u683c\u5f0f\u3002",
+        "language": "Rust",
+        "stars": 406,
+        "created_at": "2026-11-01T14:22:53Z"
+      },
+      {
+        "name": "DeltaProviderGuide/auto-auction-bot-wow-forever",
+        "url": "https://github.com/DeltaProviderGuide/auto-auction-bot-wow-forever",
+        "description": "A free Auction House bot for WoW Forever: buys low, posts high and undercuts for you. Windows app plus in-game panel.",
+        "language": "Rust",
+        "stars": 396,
+        "created_at": "2026-11-04T05:41:32Z"
+      },
+      {
+        "name": "StormSkinkGrip/game-ping-multipath-router",
+        "url": "https://github.com/StormSkinkGrip/game-ping-multipath-router",
+        "description": "Shortcut races your normal route against faster ones to the game server, sends only the game down the winner, and sends every packet twice so loss never becomes a lag spike. Not a VPN.",
+        "language": "Rust",
+        "stars": 326,
+        "created_at": "2026-11-03T16:37:49Z"
+      },
+      {
+        "name": "sqlpxc/airhand",
+        "url": "https://github.com/sqlpxc/airhand",
+        "description": "High-performance remote desktop over QUIC \u00b7 Rust + Tauri + React",
+        "language": "Rust",
+        "stars": 319,
+        "created_at": "2026-10-31T13:33:04Z"
+      },
+      {
+        "name": "Weft-Rust/Weft",
+        "url": "https://github.com/Weft-Rust/Weft",
+        "description": "",
+        "language": "Rust",
+        "stars": 306,
+        "created_at": "2026-10-29T22:57:18Z"
+      },
+      {
+        "name": "SkinkSmelter6/valorant-fps-lag-fixer",
+        "url": "https://github.com/SkinkSmelter6/valorant-fps-lag-fixer",
+        "description": "VALORANT stutters, lags or won't start? Tick reads the Vanguard code, measures FPS for 60 seconds, finds where the lag starts and fixes what it can, with one-click undo.",
+        "language": "Rust",
+        "stars": 278,
+        "created_at": "2026-11-03T17:13:40Z"
+      },
+      {
+        "name": "DolphinBridge36/game-server-route-racer",
+        "url": "https://github.com/DolphinBridge36/game-server-route-racer",
+        "description": "Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
+        "language": "Rust",
+        "stars": 273,
+        "created_at": "2026-11-03T17:03:47Z"
+      },
+      {
+        "name": "earendil-works/djs",
+        "url": "https://github.com/earendil-works/djs",
+        "description": "",
+        "language": "Rust",
+        "stars": 272,
+        "created_at": "2026-11-01T11:56:35Z"
+      }
+    ],
+    "Go": [
+      {
+        "name": "Balanov/uncut",
+        "url": "https://github.com/Balanov/uncut",
+        "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+        "language": "Go",
+        "stars": 600,
+        "created_at": "2026-11-01T17:19:30Z"
+      },
+      {
+        "name": "Balanov/shim",
+        "url": "https://github.com/Balanov/shim",
+        "description": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
+        "language": "Go",
+        "stars": 451,
+        "created_at": "2026-11-02T17:54:29Z"
+      },
+      {
+        "name": "protonversestudio/wow-forever-builds-kindred",
+        "url": "https://github.com/protonversestudio/wow-forever-builds-kindred",
+        "description": "Answer four questions and see which WoW Forever class fits how you play. Free Windows app.",
+        "language": "Go",
+        "stars": 280,
+        "created_at": "2026-11-04T05:12:03Z"
+      },
+      {
+        "name": "Balanov/skein",
+        "url": "https://github.com/Balanov/skein",
+        "description": "Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection.",
+        "language": "Go",
+        "stars": 263,
+        "created_at": "2026-11-02T23:57:05Z"
+      },
+      {
+        "name": "egoist/godraw",
+        "url": "https://github.com/egoist/godraw",
+        "description": "infinite canvas in mygo",
+        "language": "Go",
+        "stars": 223,
+        "created_at": "2026-11-02T09:47:18Z"
+      },
+      {
+        "name": "kunchenguid/runner-up",
+        "url": "https://github.com/kunchenguid/runner-up",
+        "description": "GitHub Actions runners on your own machines, one fresh container or VM per job. Completely eliminate your cloud CI bill.",
+        "language": "Go",
+        "stars": 199,
+        "created_at": "2026-10-29T03:05:57Z"
+      },
+      {
+        "name": "zklmiao/CodeWar",
+        "url": "https://github.com/zklmiao/CodeWar",
+        "description": "\u7f51\u9875\u7aef Python \u7f16\u7a0b\u5bf9\u6297\u6e38\u620f\uff1a\u89e3\u9898\u901f\u5ea6\u5373\u6218\u6597\u529b \u00b7 A turn-based competitive Python programming game",
+        "language": "Go",
+        "stars": 195,
+        "created_at": "2026-10-28T03:49:23Z"
+      },
+      {
+        "name": "bnlqn/overlook",
+        "url": "https://github.com/bnlqn/overlook",
+        "description": "One page that tells you whether your homelab is fine.",
+        "language": "Go",
+        "stars": 174,
+        "created_at": "2026-10-28T14:13:46Z"
+      },
+      {
+        "name": "glance522/rf4_server_simulator",
+        "url": "https://github.com/glance522/rf4_server_simulator",
+        "description": "RF4 local server simulator for client 4.0.25034",
+        "language": "Go",
+        "stars": 134,
+        "created_at": "2026-11-01T16:46:47Z"
+      },
+      {
+        "name": "missuo/unfairplay-bot",
+        "url": "https://github.com/missuo/unfairplay-bot",
+        "description": "Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
+        "language": "Go",
+        "stars": 118,
+        "created_at": "2026-10-28T12:17:29Z"
+      }
+    ]
+  }
+}
