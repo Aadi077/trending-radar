@@ -2,24 +2,24 @@
 
 A weekday archive of the fastest-rising **new** GitHub repositories (created in the last 7 days, ranked by stars), collected automatically by GitHub Actions.
 
-**Last updated:** 2026-11-06 · **Days archived:** 45
+**Last updated:** 2026-11-09 · **Days archived:** 46
 
 ## Today's top new repos
 
 | # | Repo | ⭐ | Description |
 |---|---|---|---|
-| 1 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | 20,202 | Towards a More Autonomous Agent System |
-| 2 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | 17,705 | Craft Anything: understand how any software works, and craft your own. |
-| 3 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | 5,576 | 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own. |
-| 4 | [zortos293/Lichii](https://github.com/zortos293/Lichii) | 3,704 | VERY experimental Nintendo Switch 2 emulator |
-| 5 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | 3,644 | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 |
-| 6 | [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) | 2,857 | Google_AI_Pro_2Year_ZeroCost_Auto |
-| 7 | [Verlintas/NOIR](https://github.com/Verlintas/NOIR) | 2,741 | 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoi... |
-| 8 | [elvarofficial/teardown](https://github.com/elvarofficial/teardown) | 2,399 | A Claude Code skill that turns any machine into a 3D simulator you can take apart |
-| 9 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | 2,125 | Entire MacOS running in your terminal. |
-| 10 | [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) | 2,006 | Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remo... |
+| 1 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | 5,828 | YellowFruit third-party client |
+| 2 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | 4,912 | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake |
+| 3 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | 4,270 | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 |
+| 4 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | 2,505 | Entire MacOS running in your terminal. |
+| 5 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | 2,336 |  |
+| 6 | [janestreet/agent_skills](https://github.com/janestreet/agent_skills) | 2,010 | Agent skills |
+| 7 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | 1,926 |  |
+| 8 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | 1,910 | Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI c... |
+| 9 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | 1,730 | Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphic... |
+| 10 | [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) | 1,613 | 3D modeling in Python, built for LLMs. |
 
-More languages: [`data/2026/11/2026-11-06.md`](data/2026/11/2026-11-06.md)
+More languages: [`data/2026/11/2026-11-09.md`](data/2026/11/2026-11-09.md)
 
 ## How it works
 
