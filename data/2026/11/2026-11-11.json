@@ -1,0 +1,416 @@
+{
+  "date": "2026-11-11",
+  "window_start": "2026-11-04",
+  "categories": {
+    "All languages": [
+      {
+        "name": "NotRexed/Hookshot",
+        "url": "https://github.com/NotRexed/Hookshot",
+        "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+        "language": "C++",
+        "stars": 7603,
+        "created_at": "2026-11-05T12:18:58Z"
+      },
+      {
+        "name": "huamidev/GestaltX",
+        "url": "https://github.com/huamidev/GestaltX",
+        "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+        "language": "Swift",
+        "stars": 6136,
+        "created_at": "2026-11-09T05:15:48Z"
+      },
+      {
+        "name": "tangerineturtle1/NX2navi",
+        "url": "https://github.com/tangerineturtle1/NX2navi",
+        "description": "",
+        "language": "C",
+        "stars": 3192,
+        "created_at": "2026-11-07T10:01:23Z"
+      },
+      {
+        "name": "jhaizhou-ops/S2Arm",
+        "url": "https://github.com/jhaizhou-ops/S2Arm",
+        "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
+        "language": "C#",
+        "stars": 2581,
+        "created_at": "2026-11-08T05:49:46Z"
+      },
+      {
+        "name": "JenkinWoo/sheeridVerify",
+        "url": "https://github.com/JenkinWoo/sheeridVerify",
+        "description": "",
+        "language": "JavaScript",
+        "stars": 2033,
+        "created_at": "2026-11-06T09:28:09Z"
+      },
+      {
+        "name": "jamesondh/chimera-vocal-synth",
+        "url": "https://github.com/jamesondh/chimera-vocal-synth",
+        "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+        "language": "Rust",
+        "stars": 1946,
+        "created_at": "2026-11-05T19:10:42Z"
+      },
+      {
+        "name": "IainKay/ram-altman",
+        "url": "https://github.com/IainKay/ram-altman",
+        "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+        "language": "Shell",
+        "stars": 1935,
+        "created_at": "2026-11-05T16:16:41Z"
+      },
+      {
+        "name": "DIYgod/pinky",
+        "url": "https://github.com/DIYgod/pinky",
+        "description": "Let AI agents use your phone, with you in the loop.",
+        "language": "Go",
+        "stars": 1857,
+        "created_at": "2026-11-06T16:53:14Z"
+      },
+      {
+        "name": "mmdoctor/google-pro-helper",
+        "url": "https://github.com/mmdoctor/google-pro-helper",
+        "description": "",
+        "language": "Python",
+        "stars": 1723,
+        "created_at": "2026-11-05T04:52:28Z"
+      },
+      {
+        "name": "Kianuni/Erosion-CN",
+        "url": "https://github.com/Kianuni/Erosion-CN",
+        "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
+        "language": "Swift",
+        "stars": 1503,
+        "created_at": "2026-11-10T02:37:31Z"
+      }
+    ],
+    "Python": [
+      {
+        "name": "mmdoctor/google-pro-helper",
+        "url": "https://github.com/mmdoctor/google-pro-helper",
+        "description": "",
+        "language": "Python",
+        "stars": 1723,
+        "created_at": "2026-11-05T04:52:28Z"
+      },
+      {
+        "name": "WoYun520/gif-factory",
+        "url": "https://github.com/WoYun520/gif-factory",
+        "description": "GIF \u5de5\u5382\uff1a\u6309\u98ce\u683c\u5236\u4f5c\u50cf\u7d20\u3001\u4eba\u7269\u4e0e\u5ba0\u7269\u3001\u7c98\u571f\u5409\u7965\u7269\u3001\u5149\u6805\u5361\u4e0e\u52a8\u6001\u6d77\u62a5\u7684 GIF Skill\u3002",
+        "language": "Python",
+        "stars": 1309,
+        "created_at": "2026-11-05T04:08:24Z"
+      },
+      {
+        "name": "farhatullah0006-art/rx-11-audio-editor-config",
+        "url": "https://github.com/farhatullah0006-art/rx-11-audio-editor-config",
+        "description": "rx-11-audio-editor config: full standalone installer and dotfiles for professional audio editing",
+        "language": "Python",
+        "stars": 1200,
+        "created_at": "2026-11-06T21:21:42Z"
+      },
+      {
+        "name": "Th0rgal/satmux",
+        "url": "https://github.com/Th0rgal/satmux",
+        "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+        "language": "Python",
+        "stars": 1046,
+        "created_at": "2026-11-07T16:09:41Z"
+      },
+      {
+        "name": "HybridRobotics/supermimic",
+        "url": "https://github.com/HybridRobotics/supermimic",
+        "description": "Humanoid whole-body motion tracking with one differentiable world model.",
+        "language": "Python",
+        "stars": 1015,
+        "created_at": "2026-11-10T10:46:56Z"
+      },
+      {
+        "name": "Danuse84/Exodus-Fake-Balance",
+        "url": "https://github.com/Danuse84/Exodus-Fake-Balance",
+        "description": "Wallet UI simulation tool for BTC, ETH, SOL, XRP, and 200+ assets. Customize displayed balances in a controlled demo environment with persistent visual settings and screenshot-ready previews. Designed for testing, demonstrations, and UI prototyping without altering actual blockchain balances or transactions.",
+        "language": "Python",
+        "stars": 932,
+        "created_at": "2026-11-05T04:48:43Z"
+      },
+      {
+        "name": "Goblinmine/homelab-diagram",
+        "url": "https://github.com/Goblinmine/homelab-diagram",
+        "description": "Renders an r/homelab-style network diagram from a YAML inventory (Python \u2192 SVG/PNG). Written with Claude.",
+        "language": "Python",
+        "stars": 861,
+        "created_at": "2026-11-07T12:45:46Z"
+      },
+      {
+        "name": "majorminorlabs/hermes-voice",
+        "url": "https://github.com/majorminorlabs/hermes-voice",
+        "description": "Talk to a Hermes Agent profile through Home Assistant Assist",
+        "language": "Python",
+        "stars": 672,
+        "created_at": "2026-11-05T05:28:37Z"
+      },
+      {
+        "name": "lxe/phoneuse",
+        "url": "https://github.com/lxe/phoneuse",
+        "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
+        "language": "Python",
+        "stars": 606,
+        "created_at": "2026-11-07T01:28:30Z"
+      },
+      {
+        "name": "riyadhHDA/wichforks",
+        "url": "https://github.com/riyadhHDA/wichforks",
+        "description": "Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports.",
+        "language": "Python",
+        "stars": 572,
+        "created_at": "2026-11-05T14:47:29Z"
+      }
+    ],
+    "TypeScript": [
+      {
+        "name": "livliv-dev/player",
+        "url": "https://github.com/livliv-dev/player",
+        "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+        "language": "TypeScript",
+        "stars": 1491,
+        "created_at": "2026-11-04T03:28:33Z"
+      },
+      {
+        "name": "ebtsamalhakmy-sketch/desktop-backup-suite",
+        "url": "https://github.com/ebtsamalhakmy-sketch/desktop-backup-suite",
+        "description": "Aomei Backupper 2026: Full-Feature Desktop Backup and Recovery Suite",
+        "language": "TypeScript",
+        "stars": 1296,
+        "created_at": "2026-11-06T20:53:28Z"
+      },
+      {
+        "name": "tss878/delta-executor-toolkit",
+        "url": "https://github.com/tss878/delta-executor-toolkit",
+        "description": "Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
+        "language": "TypeScript",
+        "stars": 1294,
+        "created_at": "2026-11-06T20:51:54Z"
+      },
+      {
+        "name": "RolandoV3/metatrader-5-bot",
+        "url": "https://github.com/RolandoV3/metatrader-5-bot",
+        "description": "Community-driven MetaTrader 5 bot with full features ready for desktop use",
+        "language": "TypeScript",
+        "stars": 1203,
+        "created_at": "2026-11-06T21:09:36Z"
+      },
+      {
+        "name": "ethangangasingh-crypto/musicmakerunlimited",
+        "url": "https://github.com/ethangangasingh-crypto/musicmakerunlimited",
+        "description": "Musicmakerunlimited 2026: Full-Feature Desktop Installer with Complete Toolset",
+        "language": "TypeScript",
+        "stars": 1200,
+        "created_at": "2026-11-06T21:14:04Z"
+      },
+      {
+        "name": "rdeepak-wq121/quicken-deluxe-installer",
+        "url": "https://github.com/rdeepak-wq121/quicken-deluxe-installer",
+        "description": "Quicken Deluxe Desktop Installer with Full Feature Set Enabled",
+        "language": "TypeScript",
+        "stars": 1200,
+        "created_at": "2026-11-06T21:20:42Z"
+      },
+      {
+        "name": "SK-Dev666/rust-external-trainer-tool",
+        "url": "https://github.com/SK-Dev666/rust-external-trainer-tool",
+        "description": "Rust External 2026: Full Standalone Trainer Setup, Tools and Dependencies Ready to Run",
+        "language": "TypeScript",
+        "stars": 1200,
+        "created_at": "2026-11-06T21:21:20Z"
+      },
+      {
+        "name": "Marcian15350/robux-generator-enhancement",
+        "url": "https://github.com/Marcian15350/robux-generator-enhancement",
+        "description": "Robux-Generator: Full Installer, All Features Activated, Desktop-Ready",
+        "language": "TypeScript",
+        "stars": 1200,
+        "created_at": "2026-11-06T21:20:48Z"
+      },
+      {
+        "name": "uchihamx999-beep/imei-repair-toolkit",
+        "url": "https://github.com/uchihamx999-beep/imei-repair-toolkit",
+        "description": "IMEI Repair 2026: Standalone Installer and Complete Setup for Device Repair Solutions",
+        "language": "TypeScript",
+        "stars": 1199,
+        "created_at": "2026-11-06T21:04:17Z"
+      },
+      {
+        "name": "Paulinho182/hitfilm-desktop-installer",
+        "url": "https://github.com/Paulinho182/hitfilm-desktop-installer",
+        "description": "HitFilm: Fully Featured Desktop Video Editing and VFX Suite",
+        "language": "TypeScript",
+        "stars": 1194,
+        "created_at": "2026-11-06T21:02:28Z"
+      }
+    ],
+    "Rust": [
+      {
+        "name": "jamesondh/chimera-vocal-synth",
+        "url": "https://github.com/jamesondh/chimera-vocal-synth",
+        "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+        "language": "Rust",
+        "stars": 1946,
+        "created_at": "2026-11-05T19:10:42Z"
+      },
+      {
+        "name": "voyager-so/vork",
+        "url": "https://github.com/voyager-so/vork",
+        "description": "Headless 3D and VFX engine for agents. Research preview.",
+        "language": "Rust",
+        "stars": 1429,
+        "created_at": "2026-11-05T22:37:07Z"
+      },
+      {
+        "name": "thiagoaureliomartins-programador/chief-architect-premier",
+        "url": "https://github.com/thiagoaureliomartins-programador/chief-architect-premier",
+        "description": "Chief Architect Premier 2026: Pre-Configured Desktop Edition with All Features Enabled",
+        "language": "Rust",
+        "stars": 1197,
+        "created_at": "2026-11-06T20:45:00Z"
+      },
+      {
+        "name": "Gloridust/WowType",
+        "url": "https://github.com/Gloridust/WowType",
+        "description": "\u50cf\u5fae\u4fe1\u8f93\u5165\u6cd5\u4e00\u6837\u987a\u624b\u7684Linux\u8f93\u5165\u6cd5\uff1a\u957f\u53e5\u4e00\u6b21\u6253\u5b8c\u3001\u6309\u9519\u952e\u4e5f\u80fd\u8ba4\u51fa\u6765\u3001\u7eaf\u79bb\u7ebf\u8bed\u97f3\u8f93\u5165\u3001\u5b9e\u65f6\u7ffb\u8bd1\uff0c\u8d8a\u7528\u8d8a\u61c2\u4f60\u3002",
+        "language": "Rust",
+        "stars": 580,
+        "created_at": "2026-11-06T14:48:19Z"
+      },
+      {
+        "name": "DEEIX-AI/Winc",
+        "url": "https://github.com/DEEIX-AI/Winc",
+        "description": "Winc is built with Rust and its own rendering engine: it starts in 0.1 seconds and uses just 52 MB of memory with 100,000 lines open. Multiple cursors, find and replace, and side-by-side diffs are all there, and every keystroke and scroll responds instantly.",
+        "language": "Rust",
+        "stars": 448,
+        "created_at": "2026-11-04T06:14:04Z"
+      },
+      {
+        "name": "BeeCaptivate/pc-cleanup-optimizer",
+        "url": "https://github.com/BeeCaptivate/pc-cleanup-optimizer",
+        "description": "Free open source PC cleaner for Windows: disk space, RAM, CPU, startup",
+        "language": "Rust",
+        "stars": 246,
+        "created_at": "2026-11-08T19:14:38Z"
+      },
+      {
+        "name": "neondeex/atlas-filemanager",
+        "url": "https://github.com/neondeex/atlas-filemanager",
+        "description": "Atlas \u2014 a native, GPU-accelerated, local-first file manager for Windows. Built with Rust and GPUI.",
+        "language": "Rust",
+        "stars": 217,
+        "created_at": "2026-11-04T03:12:56Z"
+      },
+      {
+        "name": "bea4dev/shoji-bar-4",
+        "url": "https://github.com/bea4dev/shoji-bar-4",
+        "description": "A Wayland shell with Material Design 3 Expressive",
+        "language": "Rust",
+        "stars": 204,
+        "created_at": "2026-11-10T06:58:11Z"
+      },
+      {
+        "name": "Hyperstitioncc/Hyperkernel",
+        "url": "https://github.com/Hyperstitioncc/Hyperkernel",
+        "description": "",
+        "language": "Rust",
+        "stars": 196,
+        "created_at": "2026-11-05T19:44:46Z"
+      },
+      {
+        "name": "AutocratMinaret/valorant-ai-clip-editor",
+        "url": "https://github.com/AutocratMinaret/valorant-ai-clip-editor",
+        "description": "AI Valorant clip editor and montage maker with beat sync and NVENC",
+        "language": "Rust",
+        "stars": 179,
+        "created_at": "2026-11-08T18:36:49Z"
+      }
+    ],
+    "Go": [
+      {
+        "name": "DIYgod/pinky",
+        "url": "https://github.com/DIYgod/pinky",
+        "description": "Let AI agents use your phone, with you in the loop.",
+        "language": "Go",
+        "stars": 1857,
+        "created_at": "2026-11-06T16:53:14Z"
+      },
+      {
+        "name": "egoist/mygo-music",
+        "url": "https://github.com/egoist/mygo-music",
+        "description": "A native music player you extend with plugins",
+        "language": "Go",
+        "stars": 1233,
+        "created_at": "2026-11-04T13:27:14Z"
+      },
+      {
+        "name": "manjushree-iyer/soundpad-audio-suite",
+        "url": "https://github.com/manjushree-iyer/soundpad-audio-suite",
+        "description": "Soundpad: Advanced Audio Processing for Professional DAW Workflows",
+        "language": "Go",
+        "stars": 1200,
+        "created_at": "2026-11-06T21:24:56Z"
+      },
+      {
+        "name": "HolyArrs/HolyArrs",
+        "url": "https://github.com/HolyArrs/HolyArrs",
+        "description": "One self-hosted app for your shows, movies and music.",
+        "language": "Go",
+        "stars": 798,
+        "created_at": "2026-11-09T23:53:25Z"
+      },
+      {
+        "name": "devvmhq/devvm",
+        "url": "https://github.com/devvmhq/devvm",
+        "description": "One VM for every project. An isolated sandbox with your project\u2019s toolchain, ready for you or a coding agent to start coding",
+        "language": "Go",
+        "stars": 557,
+        "created_at": "2026-11-06T07:02:30Z"
+      },
+      {
+        "name": "TooonyChen/finallyshell",
+        "url": "https://github.com/TooonyChen/finallyshell",
+        "description": "\u7c7bfinalshell\u7684ssh\u5ba2\u6237\u7aef // An source-available finalshell copy, with go runtime and mygo UI",
+        "language": "Go",
+        "stars": 452,
+        "created_at": "2026-11-07T00:34:42Z"
+      },
+      {
+        "name": "21stware/bowel",
+        "url": "https://github.com/21stware/bowel",
+        "description": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
+        "language": "Go",
+        "stars": 438,
+        "created_at": "2026-11-07T17:45:52Z"
+      },
+      {
+        "name": "oceanpacificpeace/lichii-shader-sync",
+        "url": "https://github.com/oceanpacificpeace/lichii-shader-sync",
+        "description": "",
+        "language": "Go",
+        "stars": 331,
+        "created_at": "2026-11-08T00:06:23Z"
+      },
+      {
+        "name": "djyde/dalibre",
+        "url": "https://github.com/djyde/dalibre",
+        "description": "A lightweight Calibre alternative",
+        "language": "Go",
+        "stars": 322,
+        "created_at": "2026-11-08T09:56:44Z"
+      },
+      {
+        "name": "nwverse/persona",
+        "url": "https://github.com/nwverse/persona",
+        "description": "",
+        "language": "Go",
+        "stars": 245,
+        "created_at": "2026-11-06T15:25:24Z"
+      }
+    ]
+  }
+}
