@@ -2,24 +2,24 @@
 
 A weekday archive of the fastest-rising **new** GitHub repositories (created in the last 7 days, ranked by stars), collected automatically by GitHub Actions.
 
-**Last updated:** 2026-11-13 · **Days archived:** 50
+**Last updated:** 2026-11-16 · **Days archived:** 51
 
 ## Today's top new repos
 
 | # | Repo | ⭐ | Description |
 |---|---|---|---|
-| 1 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | 7,272 | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups. |
-| 2 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | 3,841 |  |
-| 3 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | 2,862 | Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphic... |
-| 4 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | 2,599 |  |
-| 5 | [DIYgod/pinky](https://github.com/DIYgod/pinky) | 2,078 | Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows ... |
-| 6 | [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | 1,904 | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版） |
-| 7 | [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) | 1,430 | Humanoid whole-body motion tracking with one differentiable world model. |
-| 8 | [apex-compute/ANR](https://github.com/apex-compute/ANR) | 1,411 | Apex Neural Rendering (ANR) by Apex Compute |
-| 9 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | 1,330 | Open-source, self-hosted Slack alternative where your team and AI agents work together in channel... |
-| 10 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 1,238 | Private AI meeting notes. Free and open source. |
+| 1 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | 7,875 | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups. |
+| 2 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | 4,046 | Chat Demo |
+| 3 | [apex-compute/ANR](https://github.com/apex-compute/ANR) | 2,461 | Apex Neural Rendering (ANR) by Apex Compute |
+| 4 | [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | 2,196 | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） \| Bootloop-safe iOS / iPadOS System Con... |
+| 5 | [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) | 2,169 | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works w... |
+| 6 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 1,855 | Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola f... |
+| 7 | [Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden) | 1,677 | A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a... |
+| 8 | [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) | 1,658 | Humanoid whole-body motion tracking with one differentiable world model. |
+| 9 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | 1,620 | Open-source, self-hosted Slack alternative where your team and AI agents work together in channel... |
+| 10 | [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | 1,430 | muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） |
 
-More languages: [`data/2026/11/2026-11-13.md`](data/2026/11/2026-11-13.md)
+More languages: [`data/2026/11/2026-11-16.md`](data/2026/11/2026-11-16.md)
 
 ## How it works
 
